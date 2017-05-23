@@ -1,0 +1,149 @@
+- id: contactName
+  translation: "Prénom"
+
+- id: contactMail
+  translation: "E-mail"
+
+- id: contactForm
+  translation: "Formulaire de contact"
+
+- id: contactSend
+  translation: "Envoyer"
+
+- id: contactAddrTitle
+  translation: "Adresse"
+
+- id: contactMessage
+  translation: "Votre message"
+
+- id: pageHome
+  translation: "/fr"
+
+- id: pageHomeMenu
+  translation: "LONDRES PUB CRAWLS"
+
+- id: pageAbout
+  translation: "/fr/propos"
+
+- id: pageAboutMenu
+  translation: "A PROPOS"
+
+- id: pagePhotos
+  translation: "/fr/photos"
+
+- id: pagePhotosMenu
+  translation: "PHOTOS"
+
+- id: pageTours
+  translation: "/fr/tours"
+
+- id: pageToursMenu
+  translation: "NOS TOURS"
+
+- id: pageBlog
+  translation: "/fr/guide-des-francais-a-londres"
+
+- id: pageBlogMenu
+  translation: "BLOG"
+
+- id: pageContact
+  translation: "/fr/contact"
+
+- id: pageContactMenu
+  translation: "CONTACT"
+
+- id: pageTickets
+  translation: "/fr/tickets"
+
+- id: pageTicketsMenu
+  translation: "TICKETS"
+
+- id: homeSec1
+  translation: "Tournée des clubs de Londres"
+
+- id: homeSec2
+  translation: "Visites plusieurs clubs de Londres en une soirée !"
+
+- id: homeSec2a
+  translation: "Plus d'infos"
+
+- id: homeSec3
+  translation: "Qu'est ce que c'est ?"
+
+- id: homeSec4
+  translation: "Le Pub Crawl est l'équivalent d'un barathon. C'est a dire une tournée de différent pub ou club selon le tour choisi."
+
+- id: homeSec5
+  translation: "Pour qui ?"
+
+- id: homeSec6
+  translation: "C'est fait pour tous les ages a partir de 18 ans. N'oublie pas ta carte d'identité et viens faire la fete avec nous !"
+
+- id: homeSec7
+  translation: "Comment ca marche ?"
+
+- id: homeSec8
+  translation: "Les guides t'accueill a l'entrée pour te donner un ruban qui te donnera acces et t'accompagne dans tous les clubs"
+
+- id: homeSec9
+  translation: "On se retrouve ou ?"
+
+- id: homeSec10
+  translation: "Selon le tour choisi, le point de rencontre est incrit sur le ticket. Soit Londres centre au zoo bar ou au blueberry bar."
+
+- id: homeSec11
+  translation: "Qui sont nos guides ?"
+
+- id: homeSec12
+  translation: "Barbara vient du mexique. Elle aime danser et rencontrer des gens du Monde entier. Sa spécialité est de boire des yagger bombs. Elle parle, espagnole et anglais."
+
+- id: homeSec12a
+  translation: "Guide et service clients"
+
+- id: homeSec13
+  translation: "Jérémie est francais, il habite Londres depuis 2009. Il connait bien Leicester Square et Piccadilly Circus. Sa spécialité est de prendre les photos. Il Parle francais et anglais."
+
+- id: homeSec13a
+  translation: "Guide et Marketing Manager"
+
+- id: homeSec14
+  translation: "Mathilde est espagnole, elle aime voyager et le cinéma. Elle habite a Londres depuis 2015. Elle parle italien, espagnole et anglais."
+
+- id: homeSec14a
+  translation: "Guide et Operation manager"
+
+- id: homeSec15
+  translation: "Reste en contacte avec nous"
+
+- id: blogLogement
+  translation: "/fr/blog/logement-a-londres"
+
+- id: blogPasseport
+  translation: "/fr/blog/le-passeport-a-londres"
+
+- id: blogBanque
+  translation: "/fr/blog/ouvrir-un-compte-en-banque-a-londres"
+
+- id: blogTravail
+  translation: "/fr/blog/trouver-du-travail-a-londres"
+
+- id: blogStage
+  translation: "/fr/blog/trouver-un-stage-a-londres"
+
+- id: blogApps
+  translation: "/fr/blog/les-applications-utiles-a-londres"
+
+- id: blogSante
+  translation: "/fr/blog/sante-a-londres"
+
+- id: blogNIN
+  translation: "/fr/blog/national-insurance-number"
+
+- id: blogTransp
+  translation: "/fr/blog/transport-a-londres"
+
+- id: blogAero
+  translation: "/fr/blog/aeroports-de-londres"
+
+- id: categoriesTitle
+  translation: "Catégories"

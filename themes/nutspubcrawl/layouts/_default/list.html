@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+  <body>
+        <header>
+
+          {{ partial "header.html" . }}
+
+        </header>
+
+<br><br><br>
+<br><br><br>
+            <div class="container">
+                <div class="row">
+		  <div class="col-xs-12 lead">
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-9" id="blog-listing-medium">
+		 <h1 id="title">{{ .Title }}</h1>
+		        <ul id="list">
+		            {{ range .Data.Pages }}
+		                {{ .Render "li"}}
+		            {{ end }}
+		        </ul>
+
+                    </div>
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                    </div>
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                  </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+
+        {{ partial "footer.html" . }}
+
+  </body>
+</html>
+

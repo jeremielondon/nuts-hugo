@@ -1,0 +1,55 @@
+## Site info ##
+###############
+
+#baseurl = "https://nutspubcrawl.com/"
+
+#Testing baseurl
+baseurl = "http://localhost.nutspubcrawl.com/"
+theme = "nutspubcrawl"
+MetaDataFormat = "yaml"
+
+
+[author]
+    name = "Jeremie Leroy"
+
+[Taxonomies]
+    tag = "tags"
+    topic = "topics"
+    categories = "categories"
+
+
+[params]
+# 1000 free emails per month
+# with formspree.io
+    email = "info@nutspubcrawl.com"
+
+address = """118 King's Cross Rd.
+<br>London WC1X 9DS
+<br>United Kingdom</p>"""
+
+[params.widgets]
+    categories = "true"
+
+## Multilingual settings ##
+###########################
+
+defaultContentLanguage = "en"
+
+## Per lang settings ##
+#######################
+
+[Languages]
+[Languages.en]
+title = "Nuts Pub Crawls London"
+weight = 1
+defaultKeywords = ["club crawl london", "pub crawl London", "pub crawl","crawl london"]
+defaultDescription = "Crawl the clubs and pubs of central London with Nuts Pub Crawl, London's best pub and club crawl"
+disqusShortname = "nutspubcrawl"
+
+[Languages.fr]
+title = "Londres Pub Crawls Nuts"
+weight = 2
+defaultKeywords = ["club crawl londres", "pub crawl londres", "pub crawl","crawl londres"]
+defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
+disqusShortname = "nutspubcrawlfr"
+

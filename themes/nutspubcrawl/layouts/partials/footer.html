@@ -1,0 +1,60 @@
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-b" style="background-color: rgb(21, 21, 21); padding-top: 60px; padding-bottom: 60px;">
+        <div class="container">
+            <div class="row">
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <div><img src="{{ .Site.BaseURL }}images/original-128x112.png" alt="nuts pub crawl Logo footer"></div>
+                </div>
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <p></p>
+                    <p><strong>{{ i18n "contactAddrTitle" }}</strong><br>{{ .Site.Params.address | markdownify }}</p>
+                    <p></p>
+                </div>
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <p><strong>Contact</strong><br><a href="{{ i18n "pageContact" }}">{{ i18n "contactForm" }}</a><br><br><a href="/">English</a> | <a href="/fr">Français</a></p>
+                </div>
+                <div class="mbr-footer-content col-xs-12 col-md-3">
+                    <p></p>
+                    <p><strong>Links</strong><br><a href="{{ i18n "pageHome" }}">{{ i18n "pageHomeMenu" }}</a>
+                        <a class="text-primary" href="#"></a><br><a href="{{ i18n "pageBlog" }}">The London Guide</a>
+                        <a class="text-primary" href="#"></a><br><a href="{{ i18n "pageTickets" }}">Tickets</a>
+                        <a class="text-primary" href="#"></a>
+                    </p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-c" style="background-color: rgb(0, 0, 0); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+        <div class="container">
+            <p class="text-xs-center">Copyright ©&nbsp;Nuts Pub Crawl Ltd. | <a href="https://worldtowriters.com">Site; WtW</a></p>
+        </div>
+        <script type='application/ld+json'>
+            {
+                "@context": "http://www.schema.org",
+                "@type": "LocalBusiness",
+                "name": "Nuts Pub Crawl",
+                "url": "https://nutspubcrawl.com/",
+                "logo": "https://nutspubcrawl.com/images/logo-nuts-noir-1400x1400.png",
+                "image": "https://nutspubcrawl.com/images/logo-nuts-noir-1400x1400.png",
+                "description": "Nous organisons des tournées des clubs dans le centre de Londres et a shoreditch. C'est l'équivalent d'un barathon. ",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Londres",
+                    "addressCountry": "United Kingdom"
+                },
+                "openingHours": "Mo 09:00-23:00 Tu 09:00-23:00 We 09:00-23:00 Th 09:00-23:00 Fr 09:00-23:00 Sa 09:00-23:00"
+            }
+        </script>
+    </footer>
+    <script src="{{ .Site.BaseURL }}css/assets/web/assets/jquery/jquery.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/tether/tether.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/smooth-scroll/smooth-scroll.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/dropdown/js/script.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/viewport-checker/jquery.viewportchecker.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/jarallax/jarallax.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/social-likes/social-likes.min.js"></script>
+    <script src="{{ .Site.BaseURL }}css/assets/theme/js/script.min.js"></script> <input name="animation" type="hidden"></body>
+
+</html>

@@ -1,0 +1,144 @@
+
+{{ partial "header.html" . }}
+<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-2" style="background-image: url({{ .Site.BaseURL }}images/ministry-pic1-2000x1600.jpg);">
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"> </div>
+    <div class="mbr-table mbr-table-full">
+        <div class="mbr-table-cell">
+            <div class="container">
+                <div class="mbr-section row">
+                    <div class="mbr-table-md-up">
+                        <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+                            <h3 class="mbr-section-title display-2">{{ i18n "homeSec1" . }}</h3>
+                            <div class="mbr-section-text">
+                                <p>{{ i18n "homeSec2" . }}</p>
+                            </div>
+                            <div class="mbr-section-btn"><a class="btn btn-primary" href="{{ i18n "pageAbout" . }}">{{ i18n "homeSec2a" . }}</a></div>
+                        </div>
+                        <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
+                            <div class="mbr-figure">
+                                <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.BaseURL }}images/original-1400x1225.png" alt="Nuts Pub Crawl Logo"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#features6-5"><i class="mbr-arrow-icon"></i></a></div>
+</section>
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-5" style="background-color: rgb(239, 239, 239);">
+    <div class="mbr-cards-row row">
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img">
+                        <a href="{{ i18n "pageAbout" . }}" class="mbri-question mbr-iconfont mbr-iconfont-features3" style="color: rgb(250, 175, 64);"></a>
+                    </div>
+                    <div class="card-block">
+                        <h4 class="card-title">{{ i18n "homeSec3" . }}</h4>
+                        <p class="card-text">{{ i18n "homeSec4" . }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img">
+                        <a href="{{ i18n "pageAbout" . }}" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a>
+                    </div>
+                    <div class="card-block">
+                        <h4 class="card-title">{{ i18n "homeSec5" . }}</h4>
+                        <p class="card-text">{{ i18n "homeSec6" . }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img">
+                        <a href="{{ i18n "pageAbout" . }}" class="mbri-setting mbr-iconfont mbr-iconfont-features3"></a>
+                    </div>
+                    <div class="card-block">
+                        <h4 class="card-title">{{ i18n "homeSec7" . }}</h4>
+                        <p class="card-text">{{ i18n "homeSec8" . }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img">
+                        <a href="{{ i18n "pageAbout" . }}" class="mbri-map-pin mbr-iconfont mbr-iconfont-features3"></a>
+                    </div>
+                    <div class="card-block">
+                        <h4 class="card-title">{{ i18n "homeSec9" . }}</h4>
+                        <p class="card-text">{{ i18n "homeSec10" . }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mbr-section" id="testimonials1-9" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 text-xs-center">
+                    <h3 class="mbr-section-title display-2">{{ i18n "homeSec11" . }}<br><br></h3> <small class="mbr-section-subtitle"></small> </div>
+            </div>
+        </div>
+    </div>
+    <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-lg-4">
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                            <p>"{{ i18n "homeSec12" . }}"</p>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="{{ .Site.BaseURL }}images/face3.jpg" class="img-circle" alt="Barbara picture"></div>
+                            <div class="mbr-author-name">Barbara S.</div><small class="mbr-author-desc">{{ i18n "homeSec12a" . }}</small> </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-lg-4">
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                            <p>"{{ i18n "homeSec13" . }}"</p>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="{{ .Site.BaseURL }}images/jrl-145x160.jpg" class="img-circle" alt="Jeremie picture"></div>
+                            <div class="mbr-author-name">Jeremie &nbsp;L.</div><small class="mbr-author-desc">{{ i18n "homeSec13a" . }}<br><br></small> </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-lg-4">
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block">
+                            <p>"{{ i18n "homeSec14" . }}"</p>
+                        </div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="{{ .Site.BaseURL }}images/face2.jpg" class="img-circle" alt="Mathilde pictures"></div>
+                            <div class="mbr-author-name">Mathilde B.</div><small class="mbr-author-desc">{{ i18n "homeSec14a" . }}</small> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="mbr-section mbr-section-md-padding" id="social-buttons3-a" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">{{ i18n "homeSec15" . }}</h3>
+                <div>
+                    <div class="mbr-social-likes" data-counters="false"> <span class="btn btn-social facebook" title="Share link on Facebook"> <i class="socicon socicon-facebook"></i> </span> <span class="btn btn-social twitter" title="Share link on Twitter"> <i class="socicon socicon-twitter"></i> </span>                            <span class="btn btn-social plusone" title="Share link on Google+"> <i class="socicon socicon-googleplus"></i> </span> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

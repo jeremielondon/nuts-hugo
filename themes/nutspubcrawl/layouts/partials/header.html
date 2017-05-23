@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/logo-nuts-noir-128x128.png" type="image/x-icon">
+
+<!-- Facebook OpenGraph tags -->
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ if .Site.Params.DefaultDescription }}{{ .Site.Params.DefaultDescription }}{{ end }}{{ end }}{{ end }}">
+<meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property='og:image' content="{{ .Site.BaseURL }}images/Nutspubcrawl-brand.png" />
+
+<!-- General meta -->
+<title>{{ .Title }}</title>
+<meta name="author" content="{{ .Site.Author.name }}" />
+{{ if .Keywords }}
+<meta name="keywords" content="{{ delimit .Keywords ", " }}">
+{{ else if .Site.Params.DefaultKeywords }}
+<meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">	
+{{ end }}
+{{ if .Description }}
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
+{{ else if .Site.Params.DefaultDescription }}
+<meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
+{{ end }}
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/web/assets/mobirise-icons/mobirise-icons.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/et-line-font-plugin/style.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/tether/tether.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/dropdown/css/style.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/animate.css/animate.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/socicon/css/styles.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/theme/css/style.min.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/mobirise/css/mbr-additional.min.css" type="text/css">
+
+</head>
+
+<body>
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-20933708-7', 'auto');
+    ga('send', 'pageview');
+</script>
+<section id="ext_menu-0">
+    <nav class="navbar navbar-dropdown navbar-fixed-top">
+        <div class="container">
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
+                    <div class="navbar-brand"> <a class="navbar-caption" href="{{ i18n "pageHome" . }}">{{ i18n "pageHomeMenu" . }}</a> </div>
+                </div>
+                <div class="mbr-table-cell"> <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar"> <div class="hamburger-icon"></div></button>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm"
+                        id="exCollapsingNavbar">
+                        <li class="nav-item"><a class="nav-link link" href="{{ i18n "pageAbout" . }}">{{ i18n "pageAboutMenu" . }}</a></li>
+                        <li class="nav-item"><a class="nav-link link" href="{{ i18n "pagePhotos" . }}">{{ i18n "pagePhotosMenu" . }}</a></li>
+                        <li class="nav-item"><a class="nav-link link" href="{{ i18n "pageTours" . }}">{{ i18n "pageToursMenu" . }}</a></li>
+                        <li class="nav-item"><a class="nav-link link" href="{{ i18n "pageBlog" . }}">{{ i18n "pageBlogMenu" . }}</a></li>
+                        <li class="nav-item"><a class="nav-link link" href="{{ i18n "pageContact" . }}">{{ i18n "pageContactMenu" . }}</a></li>
+                        <li class="nav-item"><a class="nav-link btn btn-primary" href="{{ i18n "pageTickets" . }}">{{ i18n "pageTicketsMenu" . }}</a></li>
+                    </ul> <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar"> <div class="close-icon"></div></button> </div>
+            </div>
+        </div>
+    </nav>
+</section>

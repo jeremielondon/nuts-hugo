@@ -1,0 +1,17 @@
+<!-- Make image a variable to be called from yaml
+<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-1j" style="background-image: url(/images/london-nuts-pub-crawl-t10093-2-2000x1333.jpg); padding-top: 160px; padding-bottom: 120px;"> -->
+<section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-1j" style="background-image: url(/images/{{ .Params.banner }}); padding-top: 160px; padding-bottom: 120px;">
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(34, 34, 34);">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">{{ .Title }}</h3>
+                <div class="lead" style="color:white;">{{ .Params.lead }}</div>
+            </div>
+        </div>
+    </div>
+
+</section>
+

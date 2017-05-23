@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!-- <html lang="en"> -->
+  <body>
+        <header>
+
+          {{ partial "header.html" . }}
+
+        </header>
+
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+            {{ end }}
+
+		{{ partial "msgbox.html" . }}
+	<br>
+	<div class="container">
+	  <div class="row">
+		  <div class="col-xs-12 lead">
+                     <!-- *** LEFT COLUMN *** -->
+
+                     <div class="col-md-9" id="blog-post">
+
+	           {{ .Content }}
+                     </div>
+
+                    <!-- *** LEFT COLUMN END *** -->
+                    <!-- *** RIGHT COLUMN *** -->
+
+                     <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+
+                    <!-- *** RIGHT COLUMN END *** -->
+                  </div>
+          </div>
+        </div>
+	
+	<div class="container">
+	  <div class="row">
+		  <div class="col-xs-12 lead">
+	{{ partial "disqus.html" . }}
+                  </div>
+          </div>
+        </div>
+<!-- {{ partial "facebook.html" . }} -->
+	{{ partial "footer.html" . }}
+
