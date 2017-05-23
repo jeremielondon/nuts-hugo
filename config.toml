@@ -1,4 +1,4 @@
-## Site info ##
+## Site info test 1##
 ###############
 
 #baseurl = "https://nutspubcrawl.com/"
@@ -52,4 +52,3 @@ weight = 2
 defaultKeywords = ["club crawl londres", "pub crawl londres", "pub crawl","crawl londres"]
 defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
 disqusShortname = "nutspubcrawlfr"
-
