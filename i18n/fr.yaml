@@ -13,6 +13,9 @@
 - id: contactAddrTitle
   translation: "Adresse"
 
+- id: footerLinksTitle
+  translation: "Liens"
+
 - id: contactMessage
   translation: "Votre message"
 
