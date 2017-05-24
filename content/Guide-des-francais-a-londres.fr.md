@@ -161,8 +161,21 @@ description = ""
             </div>
         </div>
 
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><a href="/fr/blog/au-pair-a-londres" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Au Pair à Londres</h4>
+
+                        <p class="card-text">Comment trouver une famille au pair a Londres? quels sont les contrats ? rencontrer d'autres au pairs ?</p>
+                        <div class="card-btn"><a href="/fr/blog/au-pair-a-londres" class="btn btn-primary">Plus d'infos</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 
     </div>
 </section>
-
