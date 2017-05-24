@@ -2,10 +2,10 @@
 title = "Tickets"
 description = "Le Petit journal offre des tickets du Nuts pub crawl a londres a prix réduit"
 type = "nobanner"
-slug = "/fr/le-petit-journal"
+slug = "le-petit-journal"
 +++
 
-<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-1d" style="background-image: url(assets/images/ministry-pic1-2000x1600.jpg);">
+<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-1d" style="background-image: url(/images/ministry-pic1-2000x1600.jpg);">
 <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);">
 </div>
 <div class="mbr-table mbr-table-full">
@@ -20,7 +20,7 @@ slug = "/fr/le-petit-journal"
 </div>
 </div>
 <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 65%;">
-<div class="mbr-figure"><a href="https://nutspubcrawl.com"><img src="assets/images/original-1400x1225.png"></a></div>
+<div class="mbr-figure"><a href="https://nutspubcrawl.com"><img src="/images/original-1400x1225.png"></a></div>
 </div>
 </div>
 </div>
