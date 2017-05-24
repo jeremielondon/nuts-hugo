@@ -62,10 +62,10 @@
   translation: "TICKETS"
 
 - id: homeSec1
-  translation: "Tour London's clubs"
+  translation: "London pub crawls"
 
 - id: homeSec2
-  translation: "Visit several of London's clubs in just one night!"
+  translation: "Visit several of London's clubs in one night!"
 
 - id: homeSec2a
   translation: "More info"
@@ -154,4 +154,3 @@
 
 - id: categoriesTitle
   translation: "Categories"
-
