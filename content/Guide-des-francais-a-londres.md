@@ -126,12 +126,12 @@ description = ""
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/national-insurance-number-london" class="mbri-bookmark mbr-iconfont mbr-iconfont-features3"></a></div>
+                  <div class="card-img"><a href="/blog/national-insurance-number" class="mbri-bookmark mbr-iconfont mbr-iconfont-features3"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">National Insurance Number</h4>
 
                     <p class="card-text">What is it? How to register? How long it takes, we tell you everything.</p>
-                    <div class="card-btn"><a href="/blog/national-insurance-number-london" class="btn btn-primary">More information</a></div>
+                    <div class="card-btn"><a href="/blog/national-insurance-number" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
             </div>
@@ -166,4 +166,4 @@ description = ""
 
 
     </div>
-</section> 
+</section>

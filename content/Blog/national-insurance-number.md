@@ -9,7 +9,8 @@ categories = ["National Insurance","Administration"]
 
 <strong>The National Insurance Number, equivalent to our French social security, will allow you to work in England, it will be asked of you automatically and is essential. As always the steps vary depending on the case, and here it depends on whether you already have a job or are still looking. A little more explanation?</strong>
 
-## I have a job! We'll start with the lucky ones who have already found a job. In some companies, you only have to fill out a form and send it to your employer, who will take care of the procedure for you, then you will receive your NIN by post.
+## I have a job!
+We'll start with the lucky ones who have already found a job. In some companies, you only have to fill out a form and send it to your employer, who will take care of the procedure for you, then you will receive your NIN by post.
 
 ## Not me...
 
@@ -17,4 +18,4 @@ If you have to do it, we’re in the same situation as those <em><strong>looking
 
 You will be asked a few questions like "why do you want a NIN?", you will fill out a questionnaire with the supporting documents and that’s it. Within a few weeks you will receive your National Insurance Number, and then later your personal card.
 
-Then you’re good to go, you can then pick up the phone and call to set up your meetings! If you have any questions or things to add to this article, add a comment! 
+Then you’re good to go, you can then pick up the phone and call to set up your meetings! If you have any questions or things to add to this article, add a comment!
