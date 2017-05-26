@@ -3,7 +3,7 @@ title = "Guide des français à londres"
 banner = "franais-londres-2000x1236.jpg"
 lead = "Dans nos conseils, on s’attache à être le plus objectif possible. Nous n'avons aucun partenariat avec les sociétés, organisations mentionnées, et si c’est le cas, nous le préciserons d'un [p]. Aidez-nous à être le plus informatif possible en partageant vos bonnes adresses ou astuces dans les commentaires."
 slug = "Guide-des-francais-a-londres"
-description = ""
+description = "Ce Guide est fait pour aider les francais a s'installer a Londres. On te conseil pour trouver un logement, trouver du travail, ouvrir un compte en banque etc..."
 +++
 
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-21" style="background-color: rgb(239, 239, 239);">
