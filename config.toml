@@ -1,10 +1,10 @@
 ## Site info test 1 ##
 ######################
 
-#baseurl = "https://nutspubcrawl.com/"
+baseurl = "https://nutspubcrawl.com/"
 
 #Testing baseurl
-baseurl = "http://localhost.nutspubcrawl.com/"
+#baseurl = "http://localhost.nutspubcrawl.com/"
 theme = "nutspubcrawl"
 MetaDataFormat = "yaml"
 

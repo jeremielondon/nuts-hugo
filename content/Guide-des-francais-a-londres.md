@@ -1,7 +1,7 @@
 ﻿+++
-title = "A London guide for the French and Europeans"
+title = "A guide to London for expats"
 banner = "franais-londres-2000x1236.jpg"
-lead = "We make sure our adviceis as objective as possible. We don’t have any partnerships with the companies or organisations mentioned, or if we do, we will show that with a [p]. Help us to be as informative as possible by sharing your tips and tricks in the comments."
+lead = "We provide advice and we aim to be as objective as possible. We don’t have any partnerships with the companies or organisations mentioned, or if we do, we will show it with a [p]. We encourage contributions, you can help us keep our guide useful and informative for others, please leave your tips and tricks in the comments."
 slug = "blog-guide"
 description = ""
 +++
@@ -18,7 +18,7 @@ description = ""
                   <div class="card-block">
                     <h4 class="card-title">Housing in London<br /></h4>
 
-                    <p class="card-text">We’ve got a range of sites, organisations and tips to help you find accommodation depending on the length of your stay&nbsp;</p>
+                    <p class="card-text">We’ve gathered a range of sites, organisations and tips to help you find accommodation depending on the length of your stay&nbsp;</p>
                     <div class="card-btn"><a href="/blog/housing-in-london" class="btn btn-primary">More information</a> </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@ description = ""
                     <div class="card-block">
                         <h4 class="card-title">Passport</h4>
 
-                        <p class="card-text">What to do? How long will it take and what documents do I need to show?</p>
+                        <p class="card-text">What to do? How long will it take and what documents do I need to show upon arrival?</p>
                         <div class="card-btn"><a href="/blog/passports-in-london" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@ description = ""
                   <div class="card-block">
                     <h4 class="card-title">Find a job</h4>
 
-                    <p class="card-text">What to do, what sites to visit; we give you all of our top tricks...</p>
+                    <p class="card-text">What to do, what sites to visit; we give you all of our top tips...</p>
                     <div class="card-btn"><a href="/blog/finding-a-job-in-london" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@ description = ""
                     <div class="card-block">
                         <h4 class="card-title">Useful apps</h4>
 
-                        <p class="card-text">What apps to direct you, give you ideas for activities, restaurants, events etc...</p>
+                        <p class="card-text">Best apps to find your way around the city, give you ideas for activities, restaurants, events etc...</p>
                         <div class="card-btn"><a href="/blog/useful-apps-in-london" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@ description = ""
                     <div class="card-block">
                         <h4 class="card-title">Au Pair in London</h4>
 
-                        <p class="card-text">How to find an au Pair familly in London? What are de contracts ? How to meet other au Pair ?</p>
+                        <p class="card-text">How to find an au Pair familly in London? What are the contracts ? How to meet other au Pairs ?</p>
                         <div class="card-btn"><a href="/fr/blog/au-pair-a-londres" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>

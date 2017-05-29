@@ -23,7 +23,7 @@
   translation: "/"
 
 - id: pageHomeMenu
-  translation: "LONDON PUB CRAWLS"
+  translation: "PUB CRAWLS IN LONDON"
 
 - id: pageAbout
   translation: "/about"
@@ -62,37 +62,37 @@
   translation: "TICKETS"
 
 - id: homeSec1
-  translation: "London pub crawls"
+  translation: "Pub Crawls in London"
 
 - id: homeSec2
-  translation: "Visit several of London's best clubs in one night!"
+  translation: "Visit London's best clubs in one night!"
 
 - id: homeSec2a
   translation: "More info"
 
 - id: homeSec3
-  translation: "What's this then?"
+  translation: "What is it?"
 
 - id: homeSec4
-  translation: "A pub crawl, sometimes known as a barathon, is a tour of the different pubs and clubs in an area of your choice."
+  translation: "A pub crawl, sometimes known as a barathon, is a tour of different pubs and clubs in an area of your choice."
 
 - id: homeSec5
-  translation: "Who's it for?"
+  translation: "Who is it for?"
 
 - id: homeSec6
-  translation: "For all ages from 18 up. Grab your ID, then come party with us!"
+  translation: "For all ages from 18 up. All you need is your ID to join the party!"
 
 - id: homeSec7
   translation: "How does it work?"
 
 - id: homeSec8
-  translation: "The guides welcome you at the door to give you a wristband that gives you access to all the clubs they will take you to."
+  translation: "It all starts at the meeting point where we will provide you with a wristband that gives you access to all the clubs we will take you to."
 
 - id: homeSec9
   translation: "Where do we meet?"
 
 - id: homeSec10
-  translation: "Depending on your tour of choice, the meeting point is written on the ticket. Either central London at the Zoo bar or at the Blueberry bar."
+  translation: "Depending on your choice, the meeting point will be written on the ticket. Contact us if you have any questions."
 
 - id: homeSec11
   translation: "Who are our guides?"
@@ -105,14 +105,14 @@
 
 
 - id: homeSec13
-  translation: "Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus well. His speciality is taking the pictures. He speaks French and English."
+  translation: "Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus like the back of his hand. His speciality is to take the pictures. He speaks French and English."
 
 - id: homeSec13a
   translation: "Guide and Marketing Manager"
 
 
 - id: homeSec14
-  translation: "Mathilde is Spanish, she loves travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."
+  translation: "Mathilde is Spanish, she loves to travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."
 
 - id: homeSec14a
   translation: "Guide and Operations Manager"
