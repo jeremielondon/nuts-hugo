@@ -29,5 +29,5 @@ type = "nobanner"
 </section>
 	<div>
 <br />
-        <center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="636d6c80-6983-45a6-8710-1c9dcb3517fe" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-lang="fr" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script></center>
+        <center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="f0c1b56f-ddc4-496f-b994-3ee449980e0c" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script></center>
         </div>
