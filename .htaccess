@@ -31,3 +31,13 @@ ExpiresDefault "access 1 month"
 ## EXPIRES CACHING ##
 
 redirect 301 /fr/Guide-des-francais-a-londres.html /fr/guide-des-francais-a-londres/
+redirect 301 /fr/faire-la-fete-a-londres-rencontrer-des-francais/ /fr
+redirect 301 /ministry-sound/ /
+redirect 301 /our-team/ /
+redirect 301 /clubs/ /
+redirect 301 /europe-pub-crawls/ /
+redirect 301 /valentines-day-party/ /
+redirect 301 /contact-us-london/ /contact/
+redirect 301 /fr/National%20Insurance%20Number.html /fr/blog/national-insurance-number/
+redirect 301 /fr/faire-la-fete-a-londres-rencontrer-des-francais/ /fr/
+redirect 301 /fr/qu-est-ce-que-le-pub-crawl-a-londres/ /fr/
