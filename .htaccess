@@ -29,3 +29,5 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 month"
 </IfModule>
 ## EXPIRES CACHING ##
+
+redirect 301 /fr/Guide-des-francais-a-londres.html /fr/guide-des-francais-a-londres/

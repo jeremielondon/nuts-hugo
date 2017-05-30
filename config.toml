@@ -42,8 +42,8 @@ defaultContentLanguage = "en"
 [Languages.en]
 title = "Nuts Pub Crawls London"
 weight = 1
-defaultKeywords = ["club crawl london", "pub crawl London", "pub crawl","crawl london"]
-defaultDescription = "Crawl the clubs and pubs of central London with Nuts Pub Crawl, London's best pub and club crawl"
+defaultKeywords = ["Pub crawls London", "pub crawl London", "pub crawl","crawl london"]
+defaultDescription = "Pub Crawls in London, it is probably the best way to party and discover the clubs and pubs of London with Nuts Pub Crawl, all our tours aim to provide a great night out."
 disqusShortname = "nutspubcrawl"
 
 [Languages.fr]
