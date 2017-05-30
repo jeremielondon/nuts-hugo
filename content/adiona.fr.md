@@ -27,5 +27,5 @@ slug = ""
 </div>
 </div>
 </section>
-<center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="12ccb5e6-f7e2-4f9d-b94d-8b568ac95b7e" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script></center>
+<center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="80d029b5-3143-4e89-bde2-01255f3d6c1d" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script></center>
 </div>
