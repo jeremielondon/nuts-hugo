@@ -87,8 +87,8 @@ redirect 301 /fr/point-de-rencontre/ /fr/
 redirect 301 /fr/partenaires-nuts-pub-crawl-londres/ /fr/
 redirect 301 /fr/f-a-q/ /fr/
 redirect 301 /fr/video-soirees-a-londres/ /fr
-redirect 301 https://www.nutspubcrawl.com/eazycity/ /easycity/
-redirect 301 https://www.nutspubcrawl.com/london-free-tours/ /
+redirect 301 www.nutspubcrawl.com/eazycity/ https://nutspubcrawl.com/easycity/
+redirect 301 www.nutspubcrawl.com/london-free-tours/ https://nutspubcrawl.com
 redirect 301 https://www.nutspubcrawl.com/movember-pub-crawl/ /
 redirect 301 https://www.nutspubcrawl.com/london-party-video/ /
 redirect 301 https://www.nutspubcrawl.com/bar-rumba-best-club-piccadilly-circus/ /
