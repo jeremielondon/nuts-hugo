@@ -165,12 +165,12 @@ description = ""
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/au-pair-a-londres" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/au-pairs-in-london" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Au Pair in London</h4>
 
                         <p class="card-text">How to find an au Pair familly in London? What are the contracts ? How to meet other au Pairs ?</p>
-                        <div class="card-btn"><a href="/fr/blog/au-pair-a-londres" class="btn btn-primary">More information</a></div>
+                        <div class="card-btn"><a href="/blog/au-pairs-in-london" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
             </div>

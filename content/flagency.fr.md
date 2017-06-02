@@ -1,6 +1,6 @@
 +++
-title = "easycity"
-description = "Easycity London agency helps your to find accommodation"
+title = "FLAgency"
+description = "FLAgency agence qui aide les francais à trouver un stage et un Logement à Londres"
 type = "nobanner"
 slug = ""
 +++
@@ -14,9 +14,9 @@ slug = ""
 <div class="mbr-section row">
 <div class="mbr-table-md-up">
 <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
-<h3 class="mbr-section-title display-2">London Pub Crawls</h3>
+<h3 class="mbr-section-title display-2">Tournée des clubs de Londres</h3>
 <div class="mbr-section-text">
-<p>Follow the leaders and party in different venues during your best night out in London!!!</p>
+<p>Visites plusieurs clubs de Londres &nbsp;en une soirée !!!</p>
 </div>
 </div>
 <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 65%;">
@@ -27,6 +27,10 @@ slug = ""
 </div>
 </div>
 </section>
+<section><container>
 <br>
-<center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="0e409d2e-8b06-47a2-9549-c7494d1f0776" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="calendar" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script></center>
-</div>
+<center><script src="https://assets.ticketinghub.com/checkout.js" data-channel="a74d8fc6-93c8-45cc-ab40-4c96a25b2199" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-fields="name,email,telephone" data-color="#314770" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1"></script>
+</center>
+
+
+</section>

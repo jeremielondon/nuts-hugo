@@ -1,7 +1,7 @@
 +++
 title = "Au Pair à Londres"
 banner = "famille-au-pair.jpg"
-categories = ["Au pair","Aeroports"]
+categories = ["Au pair"]
 description = "Comment trouver une famille au pair à Londres? quels sont les contrats ? rencontrer d'autres au pairs ?"
 +++
 
@@ -71,6 +71,8 @@ La durée des contrats varient également. Ils peuvent être de seulement 1 ou 2
 Avec toutes ces informations, vous avez désormais les cartes en main pour ne pas avoir de problèmes concernant votre futur contrat d’au pair.
 
 ## Comment rencontrer d’autres au pair a Londres ?
+
+On organise un [International pique nique](https://www.facebook.com/events/1700456319970311/ "international pique nique"), Rejoind nous.
 
 ##### 1. Les pages facebook
 En tant qu’au pair à Londres par exemple, des pages comme:
