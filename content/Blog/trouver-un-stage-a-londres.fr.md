@@ -1,7 +1,7 @@
 +++
 title ="Trouver un stage a Londres"
 banner = "interships-2000x1333.jpg"
-description =""
+description ="Trouver un stage à londres, on vous parle des agences anglaise, et des bons plans à explorer"
 categories = ["Travail","Stage"]
 +++
 
@@ -29,7 +29,7 @@ Peut etre vous n'etes pas au courant, mais il est probable que votre école gard
 Vous n'avez qu'une occasion pour donner une première impression alors mettez tous les atouts de votre coté.
 
 
-##### Les sites spécialisées
+##### Les sites spécialisés
 
 Certains sites appellé " market place " fond en sorte que l'offre et la demande se rencontre. En d'autres termes les entreprises propose des offres de stages auxquels vous pouvez postuler. Vous trouverez ci-dessous une liste non-exhaustive. N'hésitez pas a proposer vos bons plans dans les commentaires.
 
@@ -45,7 +45,8 @@ Les agences sont nombreuses, il y a des avantages et inconvénients à passer pa
     <li>[FLA agency](http://www.flagency.com/ "fla agency ")</li>
     <li>[My Internship Abroad](http://www.myinternshipabroad.com/ "my internship abroad")</li>
     <li>[CEI Londres](http://www.cei-work-travel-study.com/fr "Cei Londres")</li>
-    <li>[House London Trip](http://www.houselondontrip.com/"House London Trip")</li> 
+    <li>[House London Trip](http://www.houselondontrip.com/"House London Trip")</li>
+    <li>[Moveaway](https://www.movaway.fr/ "Moveaway")
 </ul>
 N'hésitez pas à commenter si vous connaissez d'autres agences, ou si certaines ne sont pas recommandable.
 #### Ne pas oublier
