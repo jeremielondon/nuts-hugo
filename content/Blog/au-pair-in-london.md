@@ -1,11 +1,9 @@
 +++
 title = "Au Pair à Londres"
-banner = "famille-au-pair.jpg"
-categories = ["Au pair","Aeroports"]
-description = "Comment trouver une famille au pair à Londres? quels sont les contrats ? rencontrer d'autres au pairs ?"
+banner = "aroport-de-londres-2000x1333.jpg"
+categories = ["Transport","Aeroports"]
+description = ""
 +++
-
-
 
 ## Hello les Frenchies !
 
