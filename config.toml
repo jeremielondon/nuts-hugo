@@ -21,7 +21,7 @@ MetaDataFormat = "yaml"
 [params]
 # 1000 free emails per month
 # with formspree.io
-    email = "info@nutspubcrawl.com"
+email = "info@nutspubcrawl.com"
 
 address = """118 King's Cross Rd.
 <br>London WC1X 9DS
@@ -49,6 +49,6 @@ disqusShortname = "nutspubcrawl"
 [Languages.fr]
 title = "Londres Pub Crawls Nuts"
 weight = 2
-defaultKeywords = ["club crawl londres", "pub crawl londres", "pub crawl","crawl londres"]
+defaultKeywords = ["Pub Crawl a londres", "pub crawl londres", "barathon","crawl londres"]
 defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
 disqusShortname = "nutspubcrawlfr"
