@@ -1,7 +1,7 @@
 +++
 title = "Le passeport a Londres"
 banner = "passeport-2000x1500.jpg"
-description = ""
+description = " Comment obtenir son passeport, quels justificatifs ? et les délais ? on vous dis tout."
 categories = ["Passeport","Administration"]
 +++
 
