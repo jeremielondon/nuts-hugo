@@ -99,3 +99,6 @@ redirect 301 /pub-crawl-news/trafik-bar-shoreditch/ /
 redirect 301 /pub-crawl-news/the-dictionary-hostel/ /
 redirect 301 /pub-crawl-news/who-is-keen-for-a-cinnamon-challenge-at-nuts-pub-crawl/ /
 redirect 301 /pub-tour-london/ /
+redirect 301 /nuts-pub-crawl-london-2/ /
+redirect 301 /blog/page/9/ /
+redirect 301 /blog/page/10/ /
