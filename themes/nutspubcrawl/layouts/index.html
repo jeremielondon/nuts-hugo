@@ -1,5 +1,5 @@
 
-{{ partial "header.html" . }}
+{{ partialCached "header.html" . }}
 <section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-2" style="background-image: url({{ .Site.BaseURL }}images/ministry-pic1-2000x1600.jpg);">
     <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"> </div>
     <div class="mbr-table mbr-table-full">
@@ -141,4 +141,4 @@
     </div>
 </section>
 
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}
