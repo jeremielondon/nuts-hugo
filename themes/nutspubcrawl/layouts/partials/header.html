@@ -38,8 +38,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MZ2W962');</script>
 <!-- End Google Tag Manager -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,700|Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" >
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,700|Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" >
+<!--<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/web/assets/mobirise-icons/mobirise-icons.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/et-line-font-plugin/style.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/tether/tether.min.css">
@@ -49,6 +49,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/socicon/css/styles.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/theme/css/style.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/mobirise/css/mbr-additional.min.css" type="text/css">
+-->
+{{ range .Site.Params.custom_css }}
+<link rel="stylesheet" type="text/css" href="{{ $.Site.BaseURL }}{{ . }}">
+{{ end }}
+
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ2W962"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

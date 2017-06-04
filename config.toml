@@ -27,6 +27,17 @@ address = """118 King's Cross Rd.
 <br>London WC1X 9DS
 <br>United Kingdom</p>"""
 
+custom_css = ["css/assets/bootstrap-material-design-font/css/material.min.css",
+"css/assets/web/assets/mobirise-icons/mobirise-icons.min.css",
+"css/assets/et-line-font-plugin/style.min.css",
+"css/assets/tether/tether.min.css",
+"css/assets/bootstrap/css/bootstrap.min.css",
+"css/assets/dropdown/css/style.min.css",
+"css/assets/animate.css/animate.min.css",
+"css/assets/socicon/css/styles.min.css",
+"css/assets/theme/css/style.min.css",
+"css/assets/mobirise/css/mbr-additional.min.css"]
+
 [params.widgets]
     categories = "true"
 
