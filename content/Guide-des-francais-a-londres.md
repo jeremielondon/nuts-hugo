@@ -1,6 +1,6 @@
 ﻿+++
 title = "A guide to London for expats"
-banner = "franais-londres-2000x1236.jpg"
+banner = "london-expats.jpg"
 lead = "We provide advice and we aim to be as objective as possible. We don’t have any partnerships with the companies or organisations mentioned, or if we do, we will show it with a [p]. We encourage contributions, you can help us keep our guide useful and informative for others, please leave your tips and tricks in the comments."
 slug = "blog-guide"
 description = ""
