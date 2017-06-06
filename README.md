@@ -2,7 +2,7 @@
 
 > Site ported from html to Hugo on 18/05/2017
 
-> by Luke Spear - https://lukespear.co.uk | https://worldtowriters.com
+> by Luke @ https://objectivelyfun.com
 
 ## Getting started
 
