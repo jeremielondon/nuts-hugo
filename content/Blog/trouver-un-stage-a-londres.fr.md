@@ -42,11 +42,13 @@ Certains sites appellé " market place " fond en sorte que l'offre et la demande
 
 Les agences sont nombreuses, il y a des avantages et inconvénients à passer par celle-ci. Certes une sommes est demandé, mais les agences souvent dans le meme temps vous [trouvent un logement](https://nutspubcrawl.com/fr/blog/logement-a-londres/ "trouver un logement"). Vous trouverez ci dessous une liste d'entreprise qui nous semble sérieuse :
 <ul><li>[S'Installer a Londres ](https://www.sinstalleralondres.com/"s'installer a londres")</li>
-    <li>[FLA agency](http://www.flagency.com/ "fla agency ")</li>
+    <li>[FLA agency](http://www.flagency.com/ "fla agency")</li>
     <li>[My Internship Abroad](http://www.myinternshipabroad.com/ "my internship abroad")</li>
     <li>[CEI Londres](http://www.cei-work-travel-study.com/fr "Cei Londres")</li>
     <li>[House London Trip](http://www.houselondontrip.com/"House London Trip")</li>
-    <li>[Moveaway](https://www.movaway.fr/ "Moveaway")
+    <li>[Movaway](https://www.movaway.fr/ "Movaway")</li>
+    <li>[Horizon London](http://horizonlondon.com/fr/accueil/ "Horizon London")</li>
+
 </ul>
 N'hésitez pas à commenter si vous connaissez d'autres agences, ou si certaines ne sont pas recommandable.
 #### Ne pas oublier

@@ -1,5 +1,5 @@
 +++
-title = "easycity"
+title = "eazycity"
 description = "Easycity London agency helps your to find accommodation"
 type = "nobanner"
 slug = ""
