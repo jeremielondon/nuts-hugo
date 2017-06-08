@@ -10,7 +10,7 @@ keywords = ["pub crawl londres","nuts pub crawl"]
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="mbr-section-title display-2">Comment ca marche?</h3>
+                <h3 class="mbr-section-title display-2">Comment ça marche?</h3>
                 <small class="mbr-section-subtitle"></small>
             </div>
         </div>
