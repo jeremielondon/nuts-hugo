@@ -15,7 +15,7 @@ description = "Photos de nos soirées en pub crawl"
 
 
               <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
-                  <h3 class="mbr-section-title display-2">Tu retrouvera toute nos photos sur le site indépendant</h3>
+                  <h3 class="mbr-section-title display-2">Tu retrouveras toutes nos photos sur le site indépendant</h3>
 
 
                   <div><a class="btn btn-primary" href="https://nutspubcrawl.com/photos/" target="_blank">PHOTOS</a></div>
