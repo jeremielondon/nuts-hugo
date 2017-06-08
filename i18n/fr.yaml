@@ -29,7 +29,7 @@
   translation: "/fr/propos"
 
 - id: pageAboutMenu
-  translation: "A PROPOS"
+  translation: "À PROPOS"
 
 - id: pagePhotos
   translation: "/fr/photos"
@@ -71,52 +71,52 @@
   translation: "Plus d'infos"
 
 - id: homeSec3
-  translation: "Qu'est ce que c'est ?"
+  translation: "Qu'est-ce que c'est ?"
 
 - id: homeSec4
-  translation: "Le Pub Crawl est l'équivalent d'un barathon. C'est a dire une tournée de différent pub ou club selon le tour choisi."
+  translation: "Le Pub Crawl est l'équivalent d'un barathon: une tournée de différents pubs ou clubs selon le tour choisi."
 
 - id: homeSec5
   translation: "Pour qui ?"
 
 - id: homeSec6
-  translation: "C'est fait pour tous les ages a partir de 18 ans. N'oublie pas ta carte d'identité et viens faire la fete avec nous !"
+  translation: "C'est fait pour tous les âges à partir de 18 ans. N'oublie pas ta carte d'identité et viens faire la fete avec nous !"
 
 - id: homeSec7
-  translation: "Comment ca marche ?"
+  translation: "Comment ça marche ?"
 
 - id: homeSec8
-  translation: "Les guides t'accueill a l'entrée pour te donner un ruban qui te donnera acces et t'accompagne dans tous les clubs"
+  translation: "Les guides t'accueillent à l'entrée pour te donner un ruban qui te donnera accès aux clubs et t'accompagnent toute la soirée."
 
 - id: homeSec9
-  translation: "On se retrouve ou ?"
+  translation: "On se retrouve où ?"
 
 - id: homeSec10
-  translation: "Selon le tour choisi, le point de rencontre est incrit sur le ticket. Soit Londres centre au zoo bar ou au blueberry bar."
+  translation: "Selon le tour choisi, le point de rencontre est inscrit sur le ticket: soit Londres centre avec le zoo bar, soit le quartier trendy de Shoreditch avec le blueberry bar."
 
 - id: homeSec11
   translation: "Qui sont nos guides ?"
 
 - id: homeSec12
-  translation: "Barbara vient du mexique. Elle aime danser et rencontrer des gens du Monde entier. Sa spécialité est de boire des yagger bombs. Elle parle, espagnole et anglais."
+  translation: "Barbara vient du Mexique. Elle aime danser et rencontrer des gens du Monde entier. Sa spécialité est de boire des yagger bombs. Elle parle espagnol et anglais."
 
 - id: homeSec12a
-  translation: "Guide et service clients"
+  translation: "Guide et service client"
 
 - id: homeSec13
-  translation: "Jérémie est francais, il habite Londres depuis 2009. Il connait bien Leicester Square et Piccadilly Circus. Sa spécialité est de prendre les photos. Il Parle francais et anglais."
+  translation: "Jérémie est français, il habite Londres depuis 2009. Il connaît bien Leicester Square et Piccadilly Circus. Sa spécialité est de prendre des photos. Il parle français et anglais."
 
 - id: homeSec13a
   translation: "Guide et Marketing Manager"
 
 - id: homeSec14
-  translation: "Mathilde est espagnole, elle aime voyager et le cinéma. Elle habite a Londres depuis 2015. Elle parle italien, espagnole et anglais."
+  translation: "Mathilde est espagnole, elle aime voyager et le cinéma. Elle habite à Londres depuis 2015. Elle parle italien, espagnol et anglais."
 
 - id: homeSec14a
   translation: "Guide et Operation manager"
 
 - id: homeSec15
-  translation: "Reste en contacte avec nous"
+  translation: "Reste en contact avec nous"
 
 - id: blogLogement
   translation: "/fr/blog/logement-a-londres"
