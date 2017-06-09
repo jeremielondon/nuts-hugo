@@ -87,7 +87,7 @@ redirect 301 /fr/point-de-rencontre/ /fr/
 redirect 301 /fr/partenaires-nuts-pub-crawl-londres/ /fr/
 redirect 301 /fr/f-a-q/ /fr/
 redirect 301 /fr/video-soirees-a-londres/ /fr
-redirect 301 www.nutspubcrawl.com/eazycity/ https://nutspubcrawl.com/easycity/
+redirect 301 www.nutspubcrawl.com/eazycity/ https://nutspubcrawl.com/eazycity/
 redirect 301 /london-free-tours/ /
 redirect 301 /movember-pub-crawl/ /
 redirect 301 /london-party-video/ /
