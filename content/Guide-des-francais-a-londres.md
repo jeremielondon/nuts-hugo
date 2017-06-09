@@ -51,6 +51,20 @@ description = ""
             </div>
         </div>
 
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london" class="mbri-star mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Party in London</h4>
+
+                        <p class="card-text">Where to party? Good deals, you will find all recommended spots and cool venues to enjoy London by night...</p>
+                        <div class="card-btn"><a href="/blog/party-in-london" class="btn btn-primary">More information</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 
     </div>
