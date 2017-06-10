@@ -5,7 +5,7 @@ description = ""
 categories = ["Transport","Airports"]
 slug = "londons-airports"
 +++
-# "Heathrow, Gatwick or Stansted?... Erm?
+# "Heathrow, Gatwick or Stansted?
 
 <strong>There are 5 airports in London, spread around the capital. All of them offer services into the centre. We’ve done a little roundup so that it’s clearer and easier on your arrival. </strong>
 
