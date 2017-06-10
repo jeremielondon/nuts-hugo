@@ -7,13 +7,13 @@ slug = "londons-airports"
 +++
 # "Heathrow, Gatwick or Stansted?
 
-<strong>There are 5 airports in London, spread around the capital. All of them offer services into the centre. We’ve done a little roundup so that it’s clearer and easier on your arrival. </strong>
+<strong>There are 5 airports in London surrounding the capital and in all of them you can find transport services that will take you to the centre. In this blog we summarise how to get around in each airport it’s clearer and easier upon your arrival. </strong>
 
 ## London Heathrow (LHR)
 
-...is the closest airport to the centre (25km) and busiest too, so you will not have any difficulty in reaching central London, in a variety of ways:
+...is the closest airport to the centre (25km) and busiest too but you will not have any difficulty in reaching central London, which you can do in a variety of ways:
 
-<ul><li><a href="https://www.heathrowexpress.com/">Heathrow Express</a>, the train that runs from the airport to the centre, or more precisely to Paddington station. For £25 (£37 return), you can board every 15 minutes and reach the station in just 15 minutes. You also have access to Heathrow Connect, which for the same destination can be less expensive (£10.20).</li><li>The underground is the cheapest way to get to the centre, using your <a href="Transport-a-londres.html">Oyster Card, Travel card</a>, or even your contactless credit card, you will have access to the Piccadilly Line which runs across London.</li><li>Several bus companies, such as the <a href="http://www.nationalexpress.com/coach/airport/heathrow-airport/index.html?utm_medium=businessdevelopment&amp;utm_source=heathrowairport.com&amp;utm_campaign=buses-and-coaches">National Express</a>, run shuttles between the airport and Victoria Coach Station. The journey will last between 1 and 2 hours, sometimes a little more depending on the time of departure, and will cost between £8 and £12.</li></ul> 
+<ul><li><a href="https://www.heathrowexpress.com/">Heathrow Express</a>, runs from the airport to the centre, or more precisely to Paddington station. For £25 (£37 return), you can board every 15 minutes and reach the station in only 15 minutes. A similar service is  Heathrow Connect, it's less expensive (£10.20) but it takes a little longer (45 min) because it calls at the following stations: Ealing Broadway, West Ealing, Hanwell, Southall, Hayes and Harlington. </li><li>The underground is the cheapest way to get to the centre (£5 single during peak times, £3 off-peak), using your <a href="Transport-a-londres.html">Oyster Card, Travel card</a>, or your contactless debit/credit card, you can get on the Piccadilly Line which runs across London.</li><li>Several bus companies, such as the <a href="http://www.nationalexpress.com/coach/airport/heathrow-airport/index.html?utm_medium=businessdevelopment&amp;utm_source=heathrowairport.com&amp;utm_campaign=buses-and-coaches">National Express</a>, run shuttles between the airport and Victoria Coach Station. The journey will last between 1 and 2 hours, sometimes a little more depending on the time of departure, and will cost between £8 and £12.</li></ul> 
 
 ## London Gatwick (LGW)
 
