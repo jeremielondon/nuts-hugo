@@ -1,6 +1,6 @@
 +++
 title = "Fox Pub Crawl"
-description = "London pub crawl follow the leader they will bring you to the best central clubs. Get you discounted tickets that include entries, free shots, etc..."
+description = "London pub crawl follow the leader they will bring you to the best central clubs. Get your discounted tickets that include entries, free shots, etc..."
 type = "nobanner"
 slug = ""
 +++

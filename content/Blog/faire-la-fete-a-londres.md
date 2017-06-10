@@ -1,6 +1,6 @@
 +++
 title ="Party in London"
-banner = "interships-2000x1333.jpg"
+banner = "london-party.jpg"
 description ="Where to party? Good deals, you will find all recommended spots and cool venues to enjoy London by night..."
 categories = ["Party in London"]
 slug = "party-in-london"

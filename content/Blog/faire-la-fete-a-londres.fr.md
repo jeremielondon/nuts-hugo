@@ -1,6 +1,6 @@
 +++
 title ="Faire la fete à Londres"
-banner = "interships-2000x1333.jpg"
+banner = "london-party.jpg.jpg"
 description ="Ou faire la fete à Londres? Plutot Leicester Square, Piccadilly Circus ou Shoredith On vous parle des tous pour rencontrer des français des étranger etc..."
 categories = ["faire la Fête"]
 +++
