@@ -102,8 +102,7 @@ III - Rencontrer des gens du monde entier - Le language exchange.
 
 Aux alentours de Leicester Square, plus précisément au zoo bar, il existe un événement organisé  par le Mammouth Exchange https://www.facebook.com/mammoth.london.language.exchange/ . Cet événement permet de faciliter les rencontres entres étrangers du monde entier, tout mercredi et dimanche soir. Les soirées commencent vers 19h et se terminent vers 22h30/ 23h en général. L'accès au club est gratuit à condition que vous veniez spécifiquement pour l'événement. Un vigile vous donnera alors un bracelet vous permettant d'entrer dans le club. Vous pourrez ensuite attraper un bout de papier afin d'y écrire votre nom, les langues que vous pratiquez et celles que vous souhaitez améliorer. Enfin, il ne vous restera plus qu'a aller rencontrer de nouvelles personnes dans la convivialité. Si vous êtes du genre timide,  il existe des tables avec différents drapeaux pour illustrer les différentes nationalités qui s'y trouvent afin de faciliter le dialogue. (exemple: Espagne / Italie / Portugal / France ). Allez y faire un tour et vous trouverez rapidement quelque personnes souhaitant discuter avec vous !
 
-Gingreau Thomas
+Thomas Gingreau
 
 
-
-Bonne chance à vous. Aidez-nous à enrichir le contenu en partageant vos bons plans dans les commentaires.
+Aidez-nous à enrichir le contenu en partageant vos bons plans dans les commentaires.

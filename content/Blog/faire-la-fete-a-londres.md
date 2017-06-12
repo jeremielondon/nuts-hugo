@@ -59,7 +59,7 @@ In Leicester Square, specifically at [the zoo bar](http://www.zoobar.co.uk/ " Zo
 The entry staffs will give you a bracelet allowing you to enter the club. You can then grab a piece of paper to write your name, the languages you practice and the languages you want to improve.
 Finally, you will only have to go and meet new people in conviviality. If you are shy, there are tables with different flags to illustrate the different nationalities that are there in order to facilitate meetings. (Eg Spain / Italy / Portugal / France).
 
-Feel free to let us know if the comments if you have any tips you would like to share. Spread the love ;)
+Feel free to let us know in the comments if you have any tips you would like to share. Spread the love ;)
 
 
-[Gingreau Thomas]()
+Thomas Gingreau
