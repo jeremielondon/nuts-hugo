@@ -31,7 +31,7 @@ ExpiresDefault "access 1 month"
 ## EXPIRES CACHING ##
 
 redirect 301 /fr/Guide-des-francais-a-londres.html /fr/guide-des-francais-a-londres/
-redirect 301 /fr/faire-la-fete-a-londres-rencontrer-des-francais/ /fr
+redirect 301 /fr/faire-la-fete-a-londres-rencontrer-des-francais/ /fr/blog/faire-la-fete-a-londres/
 redirect 301 /ministry-sound/ /
 redirect 301 /our-team/ /
 redirect 301 /clubs/ /
