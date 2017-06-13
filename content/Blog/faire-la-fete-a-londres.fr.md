@@ -58,6 +58,8 @@ devenu le lieu de référence pour les soirées londoniennes, ce quartier de l'e
 Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), il existe un événement organisé  par [Mammouth Exchange](http://www.mammothx.co.uk/ "London language exchange").
 Cet événement permet de faciliter les rencontres entres étrangers du monde entier. Tous les mercredis et dimanches soirs, les soirées commencent vers 19h et se terminent vers 22h30/ 23h. L'accès au club est gratuit à condition que vous veniez spécifiquement pour l'événement. Un vigile vous donnera alors un bracelet vous permettant d'entrer dans le club. Vous pourrez ensuite ajouter votre nom, les langues que vous pratiquez et celles que vous souhaitez améliorer sur un autocollant afin de faciliter les rencontres et d'échanger avec des gens du monde entier. Enfin, il ne vous restera plus qu'a aller rencontrer de nouvelles personnes dans la convivialité. Si vous êtes du genre timide,  il existe des tables avec différents drapeaux pour illustrer les différentes nationalités qui s'y trouvent afin de faciliter le dialogue. (exemple: Espagne / Italie / Portugal / France ). Allez y faire un tour et vous trouverez rapidement quelques personnes souhaitant discuter avec vous !
 
+Si vous etes dans l'optique d'apprendre l'anglais gratuitement, allez au [tropics global college](https://tropicsglobalcollege.co.uk/ " tropics global college") C'est un bon plan subventionné par l'état anglais.
+
 
 Thomas Gingreau
 
