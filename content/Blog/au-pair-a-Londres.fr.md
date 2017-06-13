@@ -2,7 +2,7 @@
 title = "Au Pair à Londres"
 banner = "famille-au-pair.jpg"
 categories = ["Au pair"]
-description = "Comment trouver une famille au pair à Londres? quels sont les contrats ? rencontrer d'autres au pairs ?"
+description = "Comment trouver une famille au pair à Londres? Quels sont les contrats ? Comment rencontrer d'autres au pairs ?"
 +++
 
 
@@ -21,7 +21,7 @@ Une jeune fille ou un jeune homme au pair s'occupe du/des enfant(s) au sein d’
 
 Afin de trouver la famille dans laquelle vous allez vivre pendant cette expérience, vous pouvez utiliser différents moyens. Je vais donc vous les présenter tout en énumérant leurs avantages et inconvénients (car oui, il y en a toujours).
 
-##### 1. Le bouche a oreille
+##### 1. Le bouche à oreille
 
 Cette méthode est la plus simple et est totalement gratuite. Elle permet de contacter d’ancien(ne)s au pair de la famille afin d’avoir leurs avis. En effet, sur Facebook il existe de nombreuses pages telles que: [au pair français(es) à Londres](https://www.facebook.com/groups/french.au.pairs.in.london/ "Facebook page au pair ") , où de nombreuses personnes postent des annonces afin de trouver un/une remplaçante pour leur famille d’accueil. L’inconvénient principal est qu’il est difficile de trouver une famille du fait du grand nombre d’autre jeunes filles et jeunes hommes qui postulent via ce même mode.
 
@@ -35,12 +35,12 @@ ne pas donner d’argent meme sous prétexte de visa ou autre bréxit taxe. Ce s
 
 Celles-ci sont spécialisées dans le placement d’au pair à l’étranger. Passer par ce biais pour trouver une famille présente de nombreux avantages. En effet, grâce à elles vous pouvez être sûr de trouver une famille de confiance, qui ne vous exploitera pas. En cas de placement en Angleterre par exemple, l’agence française va signer un contrat avec une agence anglaise qui, quant à elle, aura signé un contrat avec une famille anglaise. Cela amène de la sécurité et du confort pour les au pair. De plus, ces agences vous suivent tout le long de votre séjour et vous pouvez les contacter en cas de problèmes. De plus, si vous souhaitez changer de famille pour une raison valable, l'agence trouvera une famille de remplacemt pour le meme prix. Bien évidemment tout cela à un coût. Comptez entre 90€ et 170€ de frais de placement par agence. De plus, il faut également remplir de nombreux formulaires et dossiers, ce qui prend pas mal de temps. Enfin, si vous souhaitez tout de même passer par là pour trouver une famille d’accueil, essayer de trouver les agences françaises agréée par [l’UFAAP](http://www.ufaap.org/ "ufaap") ou qui sont liées à [l’IAPA](https://www.iapa.org/ "IAPA"). Les autres agences peuvent ne pas être fiables.
 
-Vous trouverez ici une liste d’agences françaises que nous recommandons avec une mention spéciale à Apitu et piplettes qui nous ont aidé à rédiger cette article et que nous remercions :<ul>
+Vous trouverez ici une liste d’agences françaises que nous recommandons avec une mention spéciale à Apitu et Piplettes qui nous ont aidé à rédiger cette article et que nous remercions :<ul>
 	<li>[APITU](http://www.apitu.com/ "APITU")</li>
 	<li>[Agence Pipelettes](http://agencepipelettes.fr/ "agence pipelettes")</li>
 	<li>[letsgopair](http://www.letsgopair.fr/ "letsgopair") (p)</li></ul>
 
-Concernant les agences anglaises, celles-ci sont conseillée:<ul>
+Concernant les agences anglaises, celles-ci sont conseillées:<ul>
 	<li>[Busybeeaupairs](http://www.busybeeaupairs.com/ "Busybeeaupairs")</li>
 	<li>[Heavenlyaupairs](https://www.heavenlyaupairs.com/ "Heavenlyaupairs")</li>
 	<li>[Childint](https://www.childint.co.uk/ "childint")</li>
@@ -55,7 +55,7 @@ A vous maintenant de déterminer le moyen qui vous semble le plus pertinent afin
 #### Les types d’au pair
 Légalement, il n’existe pas de limites aux rôles d’un au pair. Cependant, il faut différencier 3 types d’au pair: <ul>
 
-<li>Les au pair dites “normales”, qui travaillent entre 22h et 30h par semaine. En générale ses tâches sont divisées entre la garde d’enfant et le ménage (50/50), même si cela dépends fortement des familles et des habitudes culturelles de chacun des pays. </li>
+<li>Les au pair dites “normales”, qui travaillent entre 22h et 30h par semaine. En général ses tâches sont divisées entre la garde d’enfant et le ménage (50/50), même si cela dépends fortement des familles et des habitudes culturelles de chacun des pays. </li>
 <li>Les au pair plus, qui travaillent de 30h à 35h par semaine.</li>
 <li>Les aide maman, qui travaillent au-delà de 35h par semaine.</li> </ul>
 
@@ -72,10 +72,10 @@ Avec toutes ces informations, vous avez désormais les cartes en main pour ne pa
 
 ## Comment rencontrer d’autres au pair a Londres ?
 
-On organise un [International pique nique](https://www.facebook.com/events/1700456319970311/ "international pique nique"), Rejoind nous.
+On organise un [International pique nique](https://www.facebook.com/events/1700456319970311/ "international pique nique"), Rejoins nous.
 
 ##### 1. Les pages facebook
-En tant qu’au pair à Londres par exemple, des pages comme:
+En tant qu’au pair à Londres il existe par exemple des pages comme:
 
 [Au pair français(es) à Londres](https://www.facebook.com/groups/french.au.pairs.in.london/ "french au pair") ou [Au pair in UK](https://www.facebook.com/groups/aupairuk/ "au pair in uk") vous permettront de rencontrer d’autres au pair. Vous pouvez également nouer des liens avec des personnes non au pair avec des pages facebook comme: [Meet People in London](https://www.facebook.com/groups/238555079536645/"meet people in london") ou [Le cercle des français à Londres](https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/ "le cercle des francais a londres").  Il existe également notre page [bonjour frenchy](https://www.facebook.com/groups/171123389660775/ "bonjour frenchy") vous aidant dans votre nouvelle vie à Londres.  
 ##### 2.	Les agences
