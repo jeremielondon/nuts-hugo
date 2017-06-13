@@ -6,11 +6,15 @@ categories = ["Travail","Stage"]
 +++
 
 Si vous devez faire un stage dans le cadre de vos études et que Londres vous attire ou que vous souhaitez en profiter pour améliorer votre anglais sans partir à l’autre bout de la terre, alors cet article est pour vous ! Dans la rédac' nous sommes aussi passé par là et avons quelques petits conseils pour vous.
+
 <!--
 sdsdfs<li><span style="font-weight: 300; line-height: 1.5; font-family: Raleway, sans-serif; font-size: medium;">Commencez par mettre à jour votre CV en anglais ainsi que votre lettre de motivation</span></li>
 <li><span style="font-family: Raleway, sans-serif; font-size: 1.07rem; font-weight: 300; line-height: 1.5;">Si vous avez la chance que votre école met à votre disposition des offres de stages, ne les mettez pas de côté avec la conviction de pouvoir trouver mieux. Ce n’est pas si facile que ça de trouver un stage par ses propres moyens.</span></li>
 <li><span style="font-size: 1.07rem; font-weight: 300; font-family: Raleway, sans-serif; line-height: 1.5;">Consultez les étudiants de la promotion précédente qui sont eux aussi passer par là. Si leur stage s’est bien passé il est probable que leur entreprise recrute à nouveau des stagiaires. Demandez leur l'email de leur contact.</span></li>
 -->
+
+
+
 
 #### Où chercher
 

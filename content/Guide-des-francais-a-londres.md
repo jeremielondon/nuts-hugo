@@ -3,7 +3,7 @@ title = "A guide to London for expats"
 banner = "london-expats.jpg"
 lead = "We provide advice and we aim to be as objective as possible. We don’t have any partnerships with the companies or organisations mentioned, or if we do, we will show it with a [p]. We encourage contributions, you can help us keep our guide useful and informative for others, please leave your tips and tricks in the comments."
 slug = "blog-guide"
-description = ""
+description = " We help expats to find there way in London, Find an accommodation, open a bank account, find your job / internship, Become an au pair are some of the topics we cover..."
 +++
 
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-21" style="background-color: rgb(239, 239, 239);">
@@ -46,6 +46,20 @@ description = ""
 
                         <p class="card-text">What for? Where to go, how to get one, how to transfer my money; these are the questions we answer in this post...</p>
                         <div class="card-btn"><a href="/blog/opening-a-bank-account-in-london" class="btn btn-primary">More information</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london" class="mbri-star mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Party in London</h4>
+
+                        <p class="card-text">Where to party? Good deals, you will find all recommended spots and cool venues to enjoy London by night...</p>
+                        <div class="card-btn"><a href="/blog/party-in-london" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
             </div>

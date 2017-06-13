@@ -23,7 +23,7 @@ type="nobanner"
                   <h3 class="mbr-section-title display-2">LONDRES CENTRE NUTS PUB CRAWL</h3>
                   <div class="lead">
 
-                    <p>Tournée des clubs qui s'organise dans le centre de Londres. Tu verra les clubs dans les alentours de Leicester Square et Piccadilly Circus. Tous les clubs sont à environ 5 min de distance à pied.</p>
+                    <p>Tournée des clubs qui s'organise dans le centre de Londres. Tu verras les clubs dans les alentours de Leicester Square et Piccadilly Circus. Tous les clubs sont à environ 5 min de distance à pied.</p>
 
                   </div>
 
@@ -52,7 +52,7 @@ type="nobanner"
                   <h3 class="mbr-section-title display-2">THE SHOREDITCH PUB CRAWL</h3>
                   <div class="lead">
 
-                    <p>Le tour se passe dans le quartier de shoreditch. Les guides t'enmeneront dans les alentours de old street et shoreditch. Tous se fait a pied.&nbsp;</p>
+                    <p>Le tour se passe dans le quartier de Shoreditch. Les guides t'emmèneront dans les alentours de Old Street et Shoreditch. Tout se fait a pied.&nbsp;</p>
 
                   </div>
 

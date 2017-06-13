@@ -49,6 +49,20 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
             </div>
         </div>
 
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><a href="/fr/blog/faire-la-fete-a-londres" class="mbri-star mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Faire la fete</h4>
+
+                        <p class="card-text">Ou faire la fete à Londres? Quels sont les bons plans, Comment rencontrer des Francais, on vous dit tout...</p>
+                        <div class="card-btn"><a href="/fr/blog/faire-la-fete-a-londres" class="btn btn-primary">Plus d'infos</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 
     </div>
