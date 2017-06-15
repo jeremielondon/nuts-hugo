@@ -15,7 +15,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="{{ .Site.BaseURL }}images/logo-nuts-noir-128x128.png" type="image/x-icon">
+
+<!-- Real Favicon Generator -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="194x194" href="/favicon-194x194.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#f0f0f0">
 
 <!-- Facebook OpenGraph tags -->
 <meta property="og:title" content="{{ .Title }}" />
@@ -23,7 +34,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property='og:image' content="{{ .Site.BaseURL }}images/Nutspubcrawl-brand.png" />
-
 
 <!-- General meta -->
 <title>{{ .Title }}</title>
@@ -40,7 +50,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {{ end }}
 
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,700|Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" >
-<!--<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css">
+<!--
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/web/assets/mobirise-icons/mobirise-icons.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/et-line-font-plugin/style.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/tether/tether.min.css">
@@ -50,16 +61,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/socicon/css/styles.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/theme/css/style.min.css">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/mobirise/css/mbr-additional.min.css" type="text/css">
-
-
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main/main.css" type="text/css">
 -->
 {{ range .Site.Params.custom_css }}
 <link rel="stylesheet" type="text/css" href="{{ $.Site.BaseURL }}{{ . }}">
-{{ end }} -->
-
+{{ end }}
 </head>
-
 <body>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZ2W962"
