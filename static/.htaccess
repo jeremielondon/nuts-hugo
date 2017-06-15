@@ -31,7 +31,7 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
     # When navigating within this website, send full URL as referrer,
     # when from this to another HTTPS website send only home URL,
     # when from this to another HTTP website, send nothing.
-    Header always set Referrer-Policy strict-origin-when-cross-origin
+    Header always set Referrer-Policy origin-when-cross-origin
 </ifModule>
 
 
