@@ -24,7 +24,8 @@ enableRobotsTXT = true
 # 1000 free emails per month
 # with formspree.io
 email = "info@nutspubcrawl.com"
-
+twitter = "https://twitter.com/NutsPubCrawl"
+handle = "@NutsPubCrawl"
 address = """118 King's Cross Rd.
 <br>London WC1X 9DS
 <br>United Kingdom</p>"""
