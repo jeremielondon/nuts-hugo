@@ -7,6 +7,7 @@ baseurl = "https://nutspubcrawl.com/"
 #baseurl = "http://localhost.nutspubcrawl.com/"
 theme = "nutspubcrawl"
 MetaDataFormat = "yaml"
+enableRobotsTXT = true
 
 
 [author]
