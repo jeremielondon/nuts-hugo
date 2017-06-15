@@ -5,6 +5,7 @@ baseurl = "https://nutspubcrawl.com/"
 
 #Testing baseurl
 #baseurl = "http://localhost.nutspubcrawl.com/"
+canonifyURLs = true  # Transform all URLs to absolute using baseURL
 theme = "nutspubcrawl"
 MetaDataFormat = "yaml"
 enableRobotsTXT = true
