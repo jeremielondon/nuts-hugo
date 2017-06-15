@@ -22,7 +22,7 @@ The bank requesting the least documentation is <a href="https://www.lloydsbank.c
 
 ## What are the supporting documents?
 
-Identity card or <a href="/blog/passports-in-london">valid passport</a>. A proof of residence, such as a bill for gas, electricity ("utility bill"), this is what must be arranged in advance, because if you move, you risk not having this type of documents on your arrival and this will block the process of obtaining a UK account.
+Identity card or <a href="/blog/passports-in-london/">valid passport</a>. A proof of residence, such as a bill for gas, electricity ("utility bill"), this is what must be arranged in advance, because if you move, you risk not having this type of documents on your arrival and this will block the process of obtaining a UK account.
 
 You can also ask for a letter from your bank in France, it is not a mandatory document but it can allow you to speed up the procedure if the information works in to your advantage (if you are often in your overdraft it won’t work as well...).
 

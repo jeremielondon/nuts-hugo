@@ -22,7 +22,7 @@ La banque demandant le moins de pièces justificatives est <a href="https://www.
 
 ## Quels sont les pièces justificatives ?
 
-La carte d’identité ou <a href="/fr/blog/le-passeport-a-londres">le passeport</a> en court de validité sont nécessaires. Un justificatif de domicile du type facture de gaz, d’électricité (« utility bill ») l'est également, c’est là qu’il faut s’y prendre à l’avance, car
+La carte d’identité ou <a href="/fr/blog/le-passeport-a-londres/">le passeport</a> en court de validité sont nécessaires. Un justificatif de domicile du type facture de gaz, d’électricité (« utility bill ») l'est également, c’est là qu’il faut s’y prendre à l’avance, car
 si vous déménagez, vous risquez de ne pas avoir ce type de documents dès votre arrivée et cela bloquera le processus d’obtention d’un compte britannique.
 
 On peut vous demander aussi une lettre de votre banque en France, ce n’est pas un document obligatoire mais il peut permettre de faire accélérer la procédure si les informations vont à votre avantage (si vous êtes souvent à découvert

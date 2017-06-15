@@ -27,7 +27,7 @@ type="nobanner"
 
                   </div>
 
-                  <div><a class="btn btn-primary" href="/fr/tickets">TICKETS</a></div>
+                  <div><a class="btn btn-primary" href="/fr/tickets/">TICKETS</a></div>
               </div>
 
 
@@ -56,7 +56,7 @@ type="nobanner"
 
                   </div>
 
-                  <div><a class="btn btn-primary" href="/fr/tickets">TICKETS</a></div>
+                  <div><a class="btn btn-primary" href="/fr/tickets/">TICKETS</a></div>
               </div>
 
 

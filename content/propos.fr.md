@@ -21,7 +21,7 @@ keywords = ["pub crawl londres","nuts pub crawl"]
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p><font face="Montserrat, sans-serif"><span style="line-height: 26px;"><em>La tournée des clubs s'organise 4 soirs par semaine, du Mercredi au Samedi. Il suffit de réserver tes tickets, de te présenter à l'entrée du club ( l'adresse est inscrite sur le ticket ) et le guide te donnera un ruban en échange qui te donnera accès aux clubs. Nous proposons <a href="/fr/tours">différents tours</a>.</em></span></font></p></div>
+            <div class="col-xs-12 lead"><p><font face="Montserrat, sans-serif"><span style="line-height: 26px;"><em>La tournée des clubs s'organise 4 soirs par semaine, du Mercredi au Samedi. Il suffit de réserver tes tickets, de te présenter à l'entrée du club ( l'adresse est inscrite sur le ticket ) et le guide te donnera un ruban en échange qui te donnera accès aux clubs. Nous proposons <a href="/fr/tours/">différents tours</a>.</em></span></font></p></div>
         </div>
     </div>
 
@@ -42,7 +42,7 @@ keywords = ["pub crawl londres","nuts pub crawl"]
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p>Le ticket comprend : <br>- 1. L'entrée dans chaque club. Tu n'auras pas besoin de payer les entrées. En moyenne cela représente £40 d'économie.</p><p>-2. Un shooter te sera offert par club.</p><p>-3. Tu as des tarifs préférentiels. La bière et la vodka limonade sont à moitié prix.</p><p>-4. <a href="/fr/photos">Les photos</a> sont comprises.</p><p>-5. Le guide t'accompagne au long de la soirée.</p></div>
+            <div class="col-xs-12 lead"><p>Le ticket comprend : <br>- 1. L'entrée dans chaque club. Tu n'auras pas besoin de payer les entrées. En moyenne cela représente £40 d'économie.</p><p>-2. Un shooter te sera offert par club.</p><p>-3. Tu as des tarifs préférentiels. La bière et la vodka limonade sont à moitié prix.</p><p>-4. <a href="/fr/photos/">Les photos</a> sont comprises.</p><p>-5. Le guide t'accompagne au long de la soirée.</p></div>
         </div>
     </div>
 
