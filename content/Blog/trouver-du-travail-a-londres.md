@@ -6,9 +6,9 @@ slug = "finding-a-job-in-london"
 categories = ["Jobs","Work"]
 +++
 
-Like most expatriates, you are looking for a job.  We will give you a few tips to help you get started. Before you start looking for a job, you will have to get your <a href="/blog/national-insurance-number">National Insurance Number</a>. This document does not give you the right to work but insures you in the same way as a British person. Once your NIN is obtained, begin the process of opening <a href="/blog/opening-a-bank-account-in-london">a bank account.</a>
+Like most expatriates, you are looking for a job.  We will give you a few tips to help you get started. Before you start looking for a job, you will have to get your <a href="/blog/national-insurance-number/">National Insurance Number</a>. This document does not give you the right to work but insures you in the same way as a British person. Once your NIN is obtained, begin the process of opening <a href="/blog/opening-a-bank-account-in-london/">a bank account.</a>
 
-When you have everything set up, you just have to find where to work. If you are looking to work in order to live in London, you will find a job at restaurants or chains like Pret-a-Manger, Costa Coffee, that do not require much in the way of experience. <a href="/blog/housing-in-london">Youth hostels or student halls</a> can be a good idea to be housed and paid at the same time. 
+When you have everything set up, you just have to find where to work. If you are looking to work in order to live in London, you will find a job at restaurants or chains like Pret-a-Manger, Costa Coffee, that do not require much in the way of experience. <a href="/blog/housing-in-london/">Youth hostels or student halls</a> can be a good idea to be housed and paid at the same time. 
 
 #### To keep in mind
 

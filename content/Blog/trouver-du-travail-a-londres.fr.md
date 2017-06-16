@@ -6,9 +6,9 @@ categories = ["Travail"]
 +++
 
 
-Comme la plupart des expatriés, vous cherchez un emploi. On va vous donner quelques petits conseils pour vous éclairer dans vos démarches.Avant de commencer à chercher un travail il faudra que vous obteniez votre <a href="/fr/blog/national-insurance-number">National Insurance Number</a>, ce document ne donne pas le droit de travailler mais vous assure au même titre qu’un anglais. Une fois votre NIN obtenu, entamez les démarches pour ouvrir <a href="/fr/blog/ouvrir-un-compte-en-banque-a-Londres">un compte en banque</a>.
+Comme la plupart des expatriés, vous cherchez un emploi. On va vous donner quelques petits conseils pour vous éclairer dans vos démarches.Avant de commencer à chercher un travail il faudra que vous obteniez votre <a href="/fr/blog/national-insurance-number/">National Insurance Number</a>, ce document ne donne pas le droit de travailler mais vous assure au même titre qu’un anglais. Une fois votre NIN obtenu, entamez les démarches pour ouvrir <a href="/fr/blog/ouvrir-un-compte-en-banque-a-Londres/">un compte en banque</a>.
 
-Quand vous aurez tout, il n’y aura plus qu’à trouver où travailler. Si vous partez dans l’optique de travailler pour pouvoir vivre à Londres, vous trouverez votre bonheur auprès des restaurants ou chaînes comme Prêt-à-Manger, Costa Coffee qui ne demandent pas beaucoup d’expériences. Les <a href="/fr/blog/logement-a-londres">auberges de jeunesses ou résidences etudiantes</a> peuvent être des bons plans pour etre logé et payé en même temps.
+Quand vous aurez tout, il n’y aura plus qu’à trouver où travailler. Si vous partez dans l’optique de travailler pour pouvoir vivre à Londres, vous trouverez votre bonheur auprès des restaurants ou chaînes comme Prêt-à-Manger, Costa Coffee qui ne demandent pas beaucoup d’expériences. Les <a href="/fr/blog/logement-a-londres/">auberges de jeunesses ou résidences etudiantes</a> peuvent être des bons plans pour etre logé et payé en même temps.
 
 #### A garder en tete
 

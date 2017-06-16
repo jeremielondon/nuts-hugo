@@ -5,8 +5,10 @@ baseurl = "https://nutspubcrawl.com/"
 
 #Testing baseurl
 #baseurl = "http://localhost.nutspubcrawl.com/"
+canonifyURLs = true  # Transform all URLs to absolute using baseURL
 theme = "nutspubcrawl"
 MetaDataFormat = "yaml"
+enableRobotsTXT = true
 
 
 [author]
@@ -22,7 +24,8 @@ MetaDataFormat = "yaml"
 # 1000 free emails per month
 # with formspree.io
 email = "info@nutspubcrawl.com"
-
+twitter = "https://twitter.com/NutsPubCrawl"
+handle = "@NutsPubCrawl"
 address = """118 King's Cross Rd.
 <br>London WC1X 9DS
 <br>United Kingdom</p>"""

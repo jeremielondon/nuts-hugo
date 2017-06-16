@@ -14,7 +14,7 @@ We'll start with the lucky ones who have already found a job. In some companies,
 
 ## Not me...
 
-If you have to do it, we’re in the same situation as those <em><strong>looking for a job</strong></em>, you need to call 0345 600 0643 (the service is available from Monday to Friday between 8 am and 6 pm) explaining the reason for your call, and you will get an appointment where you will still need documents... <em><strong>Passport</strong></em> or identity card, proof of residence (a <a href="/blog/housing-in-london">youth hostel address</a> for example), the meeting request and a new one, proof that you are looking for a job. This can be letters from recruitment agencies if you have registered with them, letters of refusal... All this is in theory, they sometimes only require a piece of ID.
+If you have to do it, we’re in the same situation as those <em><strong>looking for a job</strong></em>, you need to call 0345 600 0643 (the service is available from Monday to Friday between 8 am and 6 pm) explaining the reason for your call, and you will get an appointment where you will still need documents... <em><strong>Passport</strong></em> or identity card, proof of residence (a <a href="/blog/housing-in-london/">youth hostel address</a> for example), the meeting request and a new one, proof that you are looking for a job. This can be letters from recruitment agencies if you have registered with them, letters of refusal... All this is in theory, they sometimes only require a piece of ID.
 
 You will be asked a few questions like "why do you want a NIN?", you will fill out a questionnaire with the supporting documents and that’s it. Within a few weeks you will receive your National Insurance Number, and then later your personal card.
 

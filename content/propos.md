@@ -21,7 +21,7 @@ keywords = ["pub crawl London","nuts pub crawl"]
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p><font face="Montserrat, sans-serif"><span style="line-height: 26px;"><em>The pub crawl takes place 4 evenings a week, from Wednesday to Saturday. You can book your tickets online or at the door. There is no need to print it, you can show it on your mobile. Join us at the meeting point (the address is written on the ticket) and the guide will give you a wristband that will give you access to all the clubs. See our <a href="/tours">different tours.</a></em></span></font></p></div>
+            <div class="col-xs-12 lead"><p><font face="Montserrat, sans-serif"><span style="line-height: 26px;"><em>The pub crawl takes place 4 evenings a week, from Wednesday to Saturday. You can book your tickets online or at the door. There is no need to print it, you can show it on your mobile. Join us at the meeting point (the address is written on the ticket) and the guide will give you a wristband that will give you access to all the clubs. See our <a href="/tours/">different tours.</a></em></span></font></p></div>
         </div>
     </div>
 
@@ -42,7 +42,7 @@ keywords = ["pub crawl London","nuts pub crawl"]
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p>The ticket includes: <br />1. Pre-paid entrance to each club. You will not need to pay entry fees. On average this saves £40.</p><p>2. You will get one free shot in each club.</p><p>3. You will get deals on drinks. Beer and vodka-lemonade are half price.</p><p>4. <a href="/photos">Professional Photos</a> of your night out in London</p><p>5. Fun guides that will lead the way through the city.</p></div>
+            <div class="col-xs-12 lead"><p>The ticket includes: <br />1. Pre-paid entrance to each club. You will not need to pay entry fees. On average this saves £40.</p><p>2. You will get one free shot in each club.</p><p>3. You will get deals on drinks. Beer and vodka-lemonade are half price.</p><p>4. <a href="/photos/">Professional Photos</a> of your night out in London</p><p>5. Fun guides that will lead the way through the city.</p></div>
         </div>
     </div>
 
