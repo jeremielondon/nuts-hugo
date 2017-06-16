@@ -2,7 +2,7 @@
 title ="Faire la fete à Londres"
 banner = "london-party.jpg"
 description ="Où faire la fete à Londres? Plutôt Leicester Square, Piccadilly Circus ou Shoredith? On vous parle de tout pour rencontrer des français, des étrangers etc..."
-categories = ["faire la Fête"]
+categories = ["faire la Fete"]
 +++
 
 La ville de Londres est connue pour être très onéreuse, que ce soit le prix des habitations ou encore l’accès aux différents clubs branchés. Nous allons vous indiquer les endroits les plus sympathiques et ayant un bon rapport qualité prix, nous parlerons ensuite un peu plus en détail des clubs situées dans quelques  quartiers les plus connus de la capitale tels que Piccadilly Circus, Soho, Brixton ou encore Shoreditch.
