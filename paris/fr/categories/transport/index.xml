@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transport on Londres Pub Crawls Nuts</title>
+    <link>https://nutspubcrawl.com/fr/categories/transport/</link>
+    <description>Recent content in Transport on Londres Pub Crawls Nuts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nutspubcrawl.com/fr/categories/transport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les aéroports de Londres</title>
+      <link>https://nutspubcrawl.com/fr/blog/aeroports-de-londres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nutspubcrawl.com/fr/blog/aeroports-de-londres/</guid>
+      <description>Heathrow, Gatwick ou Stansted ? … Hein ? Il existe 5 aéroports à Londres répartis autour de la capitale. Tous vous proposent des services afin de rejoindre le centre. On vous a fait un petit récap’ pour que ce soit plus clair et plus facile à votre arrivée.
+London Heathrow (LHR) C’est l’aéroport à la fois le plus proche du centre (25km) et le plus fréquenté, vous n’aurez donc pas de difficulté à rejoindre le centre de Londres, et par différents moyens :</description>
+    </item>
+    
+    <item>
+      <title>Transport à londres</title>
+      <link>https://nutspubcrawl.com/fr/blog/transport-a-londres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nutspubcrawl.com/fr/blog/transport-a-londres/</guid>
+      <description>Mind the gap !!! Quand vous arriverez à Londres, vous vous rendrez vite compte que le coût du transport est extrêmement élevé. Pour savoir combien vous allez devoir débourser par mois pour vous déplacez dans la capitale, on vous a fait un petit récap :
+Visitor Oyster Card : C’est le moyen le moins coûteux pour les trajets uniques. Carte en plastique dite « intelligente », elle fonctionne avec le système « Pay as you go », c’est-à-dire que vous pouvez la recharger autant de fois que vous le voulez et elle sera débitée automatiquement à chaque trajet.</description>
+    </item>
+    
+  </channel>
+</rss>

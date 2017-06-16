@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Nuts Pub Crawls London</title>
+    <link>https://nutspubcrawl.com/categories/apps/</link>
+    <description>Recent content in Apps on Nuts Pub Crawls London</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nutspubcrawl.com/categories/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful apps to download in London</title>
+      <link>https://nutspubcrawl.com/blog/useful-apps-in-london/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nutspubcrawl.com/blog/useful-apps-in-london/</guid>
+      <description>Arriving in the most densely populated capital of Europe, you have to adapt, so we’ve put together a top list of essential apps to have to hand when settling in London.
+Find your way Apps  CityMapper: To know where you are going, you could use the GPS already installed on your phone, but when you start to use it, you will understand. For all your journeys, the app calculates the optimal route for you, depending on your preferences.</description>
+    </item>
+    
+  </channel>
+</rss>

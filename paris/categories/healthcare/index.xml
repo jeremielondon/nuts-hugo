@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare on Nuts Pub Crawls London</title>
+    <link>https://nutspubcrawl.com/categories/healthcare/</link>
+    <description>Recent content in Healthcare on Nuts Pub Crawls London</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://nutspubcrawl.com/categories/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Healthcare in London</title>
+      <link>https://nutspubcrawl.com/blog/healthcare-in-london/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nutspubcrawl.com/blog/healthcare-in-london/</guid>
+      <description>How to find your General Practioner (GP)? To access healthcare as we have it back at home, you will need to register with a General Practitioner, or GP. In England this works by area, i.e. your GP will be the one who lives closest to you (according to your post code), so it is easy to find them, you can go to the National Health Service site and search using your post code.</description>
+    </item>
+    
+  </channel>
+</rss>
