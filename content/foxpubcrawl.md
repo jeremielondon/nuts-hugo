@@ -19,8 +19,8 @@ slug = ""
 <p>Follow the leaders and party in different venues during your best night out in London!!!</p>
 </div>
 </div>
-<div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 65%;">
-<div class="mbr-figure"><a href="https://nutspubcrawl.com"><img src="/images/original-1400x1225.png"></a></div>
+<div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
+<div class="mbr-figure"><a href="https://nutspubcrawl.com/foxpubcrawl/"><img src="/images/fox-pub-crawl-logo.png"></a></div>
 </div>
 </div>
 </div>
