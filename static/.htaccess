@@ -11,28 +11,28 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
 
 ## Redirect www to non-www URL (plain domain) over HTTPS
 ## --------------------------------------------------------
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+## RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+## RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
 
 ## Security headers: HSTS, CSP etc.
 ## --------------------------------------------------------
-<ifModule mod_headers.c>
+# <ifModule mod_headers.c>
     # Make browsers remember that this website prefers HTTPS over HTTP.
-    Header set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
+    # Header set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
     # Allow any domain to load resources but over HTTPS only
-    Header set Content-Security-Policy "script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'"
+    # Header set Content-Security-Policy "script-src 'self' https://www.googletagmanager.com https://www.google-analytics.com 'unsafe-inline'; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'"
     # Don't allow the website to be iframed.
-    Header always set X-Frame-Options "DENY"
+    # Header always set X-Frame-Options "DENY"
     # Disable MIME type sniffing, which can e.g. make IE execute an innocent looking .img URL as a javascript.
-    Header always set X-Content-Type-Options nosniff
+    # Header always set X-Content-Type-Options nosniff
     # Enable the built in reflective XSS protection in some browsers.
-    Header always set X-Xss-Protection "1; mode=block"
+    # Header always set X-Xss-Protection "1; mode=block"
     # When navigating within this website, send full URL as referrer,
     # when from this to another HTTPS website send only home URL,
     # when from this to another HTTP website, send nothing.
-    Header always set Referrer-Policy origin-when-cross-origin
-</ifModule>
+    # Header always set Referrer-Policy origin-when-cross-origin
+# </ifModule>
 
 
 ## Set HTTP headers for Charset and Content language
@@ -47,7 +47,7 @@ AddCharset utf-8 .html .css .js .txt .xml .json .asc
     mod_gzip_on Yes
     mod_gzip_dechunk Yes
     mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
-    mod_gzip_item_include handler ^cgi-script$
+    # mod_gzip_item_include handler ^cgi-script$
     mod_gzip_item_include mime ^text/.*
     mod_gzip_item_include mime ^application/x-javascript.*
     mod_gzip_item_exclude mime ^image/.*
