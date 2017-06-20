@@ -5,7 +5,22 @@ description ="We run Special events in London check out here what is coming next
 categories = ["party-in-london"]
 +++
 
-<container>
-<div style="left: 0; width: 480px; height: 1600px; position: relative; padding-bottom: 100px; margin-top: 20px; margin-bottom: 30px;"><iframe src="https://crm.lostinlondon.com/orderitems/new_group_event?event_id=1086&group_id=35" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div>
-</container>
-<container>
+<div class="row">
+  <div class="col-md-6">
+  <img src="/images/Ministry.jpg" alt="Mountain View" style="width:400px;height:600px;">
+  </div>
+  <div class="col-md-6">
+
+ <h1>Friday 30th of June</h1>
+
+Let's party... Showtek will be there, we got a great deal for you guys only £6 if you book now online.
+You will also need to show up at the door before midnight. An extra £5 note will be ask for the fashionably late people.<br>
+<br>
+
+See you there
+<br>
+<br>
+  <a href="https://crm.lostinlondon.com/orderitems/new_group_event?event_id=1086&group_id=35"> <button type="button" class="btn btn-primary btn-lg">Discounted Online tickets</button></a>
+
+</div>
+</div>
