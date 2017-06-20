@@ -10,7 +10,7 @@ categories = ["faire la Fete"]
   <div class="col-md-6">
   <img src="/images/Ministry.jpg" class="img-responsive" alt="Ministry of Sound" style="max-width:100%;height:auto;>
 
-  <img src="" alt="" ">
+  <img src="">
   </div>
   <div class="col-md-6">
 
