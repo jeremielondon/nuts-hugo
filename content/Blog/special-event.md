@@ -7,7 +7,8 @@ categories = ["party-in-london"]
 
 <div class="row">
   <div class="col-md-6">
-  <img src="/images/Ministry.jpg" alt="Mountain View" style="width:400px;height:600px;">
+  <img src="/images/Ministry.jpg" class="img-responsive" alt="Ministry of Sound" style="max-width:100%;height:auto;>
+  <img src="">
   </div>
   <div class="col-md-6">
 
@@ -20,7 +21,7 @@ You will also need to show up at the door before midnight. An extra £5 note wil
 See you there
 <br>
 <br>
-  <a href="https://crm.lostinlondon.com/orderitems/new_group_event?event_id=1086&group_id=35"> <button type="button" class="btn btn-primary btn-lg">Discounted Online tickets</button></a>
+  <a href="https://crm.lostinlondon.com/orderitems/new_group_event?event_id=1086&group_id=35"> <button type="button" class="btn btn-primary btn-lg">Discounted Tickets</button></a>
 
 </div>
 </div>
