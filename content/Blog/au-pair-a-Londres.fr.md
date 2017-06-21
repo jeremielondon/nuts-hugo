@@ -72,7 +72,7 @@ Avec toutes ces informations, vous avez désormais les cartes en main pour ne pa
 
 ## Comment rencontrer d’autres au pair a Londres ?
 
-On organise un [International pique nique](https://www.facebook.com/events/1700456319970311/ "international pique nique"), Rejoins nous.
+On organise un [International pique nique](https://www.facebook.com/InternationalLondonPicnics/ "international pique nique"), Rejoins nous.
 
 ##### 1. Les pages facebook
 En tant qu’au pair à Londres il existe par exemple des pages comme:

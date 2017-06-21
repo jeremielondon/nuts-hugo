@@ -62,7 +62,7 @@ The duration of contracts also varies. It can be of only 1 or 2 months during su
 With all of these information, you are now aware of almost everything and you will not have any issues for your au pair life.
 
 ## How to meet au pairs or new people in London ?
-We organise an [international picnic](https://www.facebook.com/events/1700456319970311/ "International picnic") join us it is free
+We organise an [international picnic](https://www.facebook.com/InternationalLondonPicnics/ "International picnic") join us it is free
 
 
 ##### 1. On Facebook
