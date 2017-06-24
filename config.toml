@@ -66,3 +66,11 @@ weight = 2
 defaultKeywords = ["Pub Crawl a londres", "pub crawl londres", "barathon","crawl londres"]
 defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
 disqusShortname = "nutspubcrawlfr"
+
+
+[Languages.es]
+title = "Nuts Pub Crawls Londres"
+weight = 3
+defaultKeywords = ["Pub crawls London", "pub crawl London", "pub crawl","crawl london"]
+defaultDescription = "Pub Crawls in London, it is probably the best way to party and discover the clubs and pubs of London with Nuts Pub Crawl, all our tours aim to provide a great night out."
+disqusShortname = "nutspubcrawles"

@@ -1,0 +1,156 @@
+- id: contactName
+  translation: "Name"
+
+- id: contactMail
+  translation: "Email"
+
+- id: contactForm
+  translation: "Contact form"
+
+- id: contactSend
+  translation: "Send"
+
+- id: contactAddrTitle
+  translation: "Address"
+
+- id: footerLinksTitle
+  translation: "Links"
+
+- id: contactMessage
+  translation: "Your message"
+
+- id: pageHome
+  translation: "/es"
+
+- id: pageHomeMenu
+  translation: "PUB CRAWLS IN LONDRES"
+
+- id: pageAbout
+  translation: "/es/sobre-nosotros/"
+
+- id: pageAboutMenu
+  translation: "SOBRE NOSOTROS"
+
+- id: pagePhotos
+  translation: "/es/fotos/"
+
+- id: pagePhotosMenu
+  translation: "FOTOS"
+
+- id: pageTours
+  translation: "/es/nuestros-tours/"
+
+- id: pageToursMenu
+  translation: "NUESTROS TOURS"
+
+- id: pageBlog
+  translation: "/blog-guide"
+
+- id: pageBlogMenu
+  translation: "BLOG"
+
+- id: pageContact
+  translation: "/es/contacto/"
+
+- id: pageContactMenu
+  translation: "CONTACTO"
+
+- id: pageTickets
+  translation: "/es/tickets/"
+
+- id: pageTicketsMenu
+  translation: "TICKETS"
+
+- id: homeSec1
+  translation: "Pub Crawls en Londres"
+
+- id: homeSec2
+  translation: "¡Visita las mejores discotecas de Londres en una noche!"
+
+- id: homeSec2a
+  translation: "Más info"
+
+- id: homeSec3
+  translation: "¿Qué es un Pub Crawl?"
+
+- id: homeSec4
+  translation: "Un pub crawl, también conocido como barathon, es un tour de bares y discotecas en un área de la ciudad."
+
+- id: homeSec5
+  translation: "¿Para quién es?"
+
+- id: homeSec6
+  translation: "Para todas las edades de 18 en adelante ¡Sólo necesitas tu ID para unirte a la fiesta!"
+
+- id: homeSec7
+  translation: "¿Cómo funciona?"
+
+- id: homeSec8
+  translation: "Todo comienza en el punto de reunión donde te daremos la pulsera oficial con la que tendrás acceso a todos los lugares que visitaremos."
+
+- id: homeSec9
+  translation: "¿Dónde es el punto de encuentro?"
+
+- id: homeSec10
+  translation: "Depending on your choice, the meeting point will be written on the ticket. Contact us if you have any questions."
+
+- id: homeSec11
+  translation: "Who are our guides?"
+
+- id: homeSec12
+  translation: "Barbara is from Mexico. She likes to dance and to meet people from all over the world. Her speciality is drinking Jager bombs. She speaks Spanish and English."
+
+- id: homeSec12a
+  translation: "Guide and customer service"
+
+
+- id: homeSec13
+  translation: "Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus like the back of his hand. His speciality is to take the pictures. He speaks French and English."
+
+- id: homeSec13a
+  translation: "Guide and Marketing Manager"
+
+
+- id: homeSec14
+  translation: "Mathilde is Spanish, she loves to travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."
+
+- id: homeSec14a
+  translation: "Guide and Operations Manager"
+
+- id: homeSec15
+  translation: "Stay in touch!"
+
+- id: blogLogement
+  translation: "/blog/housing-in-london"
+
+- id: blogPasseport
+  translation: "/blog/passports-in-london"
+
+- id: blogBanque
+  translation: "/blog/opening-a-bank-account-in-london"
+
+- id: blogTravail
+  translation: "/blog/finding-a-job-in-london"
+
+- id: blogStage
+  translation: "/blog/finding-an-internship-in-london"
+
+- id: blogApps
+  translation: "/blog/useful-apps-in-london"
+
+- id: blogSante
+  translation: "/blog/healthcare-in-london"
+
+- id: blogNIN
+  translation: "/blog/national-insurance-number-london"
+
+- id: blogTransp
+  translation: "/blog/transport-in-london"
+
+- id: blogAero
+  translation: "/blog/londons-airports"
+
+
+
+- id: categoriesTitle
+  translation: "Categories"
