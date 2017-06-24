@@ -13,12 +13,12 @@ type = "nobanner"
 <div class="mbr-section row">
 <div class="mbr-table-md-up">
 <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
-<h3 class="mbr-section-title display-2">London Pub Crawls</h3>
+<h3 class="mbr-section-title display-2">Pub Crawls en Londres</h3>
 <div class="mbr-section-text">
-<p>Follow the leader and party in different venues during your best night out in London !!!</p>
+<p>¡Únete a la mejor fiesta en Londres!</p>
 </div>
 </div>
-<div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 65%;">
+<div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
 <div class="mbr-figure"><a href="https://nutspubcrawl.com"><img src="/images/original-1400x1225.png"></a></div>
 </div>
 </div>

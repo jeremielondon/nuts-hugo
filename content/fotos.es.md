@@ -15,10 +15,10 @@ description = "Fotos de nuestros tours"
 
 
               <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
-                  <h3 class="mbr-section-title display-2">You’ll find all of our photos on the photo site:</h3>
+                  <h3 class="mbr-section-title display-2">Aquí encontrarás las fotos de la noche</h3>
 
 
-                  <div><a class="btn btn-primary" href="https://nutspubcrawl.com/photos/" target="_blank">PHOTOS</a></div>
+                  <div><a class="btn btn-primary" href="https://nutspubcrawl.com/photos/" target="_blank">FOTOS</a></div>
               </div>
               <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 54%;">
                   <div class="mbr-figure"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/buSATlo1uuI?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="640" height="360" frameborder="0" allowfullscreen></iframe></div>

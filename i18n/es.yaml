@@ -1,29 +1,29 @@
 - id: contactName
-  translation: "Name"
+  translation: "Nombre"
 
 - id: contactMail
-  translation: "Email"
+  translation: "Correo"
 
 - id: contactForm
-  translation: "Contact form"
+  translation: "Formulario"
 
 - id: contactSend
-  translation: "Send"
+  translation: "Enviar"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Dirección"
 
 - id: footerLinksTitle
-  translation: "Links"
+  translation: "Vínculos"
 
 - id: contactMessage
-  translation: "Your message"
+  translation: "Tu mensaje"
 
 - id: pageHome
   translation: "/es"
 
 - id: pageHomeMenu
-  translation: "PUB CRAWLS IN LONDRES"
+  translation: "PUB CRAWLS EN LONDRES"
 
 - id: pageAbout
   translation: "/es/sobre-nosotros/"
@@ -92,33 +92,33 @@
   translation: "¿Dónde es el punto de encuentro?"
 
 - id: homeSec10
-  translation: "Depending on your choice, the meeting point will be written on the ticket. Contact us if you have any questions."
+  translation: "Dependiendo de tu elección, el punto de reunión estará indicado en el ticket. Contáctamos si tienes alguna pregunta."
 
 - id: homeSec11
-  translation: "Who are our guides?"
+  translation: "¿Quiénes son nuestros guías?"
 
 - id: homeSec12
-  translation: "Barbara is from Mexico. She likes to dance and to meet people from all over the world. Her speciality is drinking Jager bombs. She speaks Spanish and English."
+  translation: "Bárbara es mexicana, le encanta bailar y conocer a gente de todo el mundo, más con unas jager bombs. Ella habla español e inglés."
 
 - id: homeSec12a
-  translation: "Guide and customer service"
+  translation: "Guía y servicio al cliente"
 
 
 - id: homeSec13
-  translation: "Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus like the back of his hand. His speciality is to take the pictures. He speaks French and English."
+  translation: "Jeremie es francés, ha vivido en Londres desde 2009. Él conoce Leicester Square y Piccadilly Circus como la palma de su mano y toma las mejores fotos. Él habla francés e inglés. "
 
 - id: homeSec13a
-  translation: "Guide and Marketing Manager"
+  translation: "Guía y gerente de marketing."
 
 
 - id: homeSec14
-  translation: "Mathilde is Spanish, she loves to travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."
+  translation: "Mathilde es española, ella ama el cine y viajar. Ha vivido en Londres desde 2015. Ella habla italiano, español e inglés."
 
 - id: homeSec14a
-  translation: "Guide and Operations Manager"
+  translation: "Guía y gerente de operaciones."
 
 - id: homeSec15
-  translation: "Stay in touch!"
+  translation: "¡Síguenos!"
 
 - id: blogLogement
   translation: "/blog/housing-in-london"
@@ -153,4 +153,4 @@
 
 
 - id: categoriesTitle
-  translation: "Categories"
+  translation: "Categorías"
