@@ -17,7 +17,7 @@ categories = ["faire la Fete"]
 
 Café de Paris, soirée Smart, soirée classe. Seulement £7 si tu réserves en ligne.<br>
 
-- Des cocktails, des strass, des paillettes et du bon sons. Allé viens on est bien tu verra
+- Des cocktails, des strass, des paillettes et du bon sons. Allé viens, on est bien tu verra
 <br>
 <br>
 
@@ -47,7 +47,7 @@ Café de Paris, soirée Smart, soirée classe. Seulement £7 si tu réserves en 
 
 Le bon coin des filles, c'est le moment de célébrer l'été. C'est leur deuxième édition. Les francaises organisent un moment shopping / cocooning.<br>
 
-- t'a eu une longue semaine et tu cherches à te relaxer<br>
+- t'as eu une longue semaine et tu cherches à te relaxer<br>
 - Tu veux te préparer pour la soirée qui vient <br>
 <br>
 
