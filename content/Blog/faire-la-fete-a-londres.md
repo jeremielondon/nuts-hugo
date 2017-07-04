@@ -51,7 +51,7 @@ Is becoming the reference point for London nights, this district of East London 
 - [The Shoreditch](http://theshoreditch-london.co.uk/ "The Shoreditch" ) between its various musical animations, its weekend DJs and the huge variety in music genres (80's, 90's, house, Disco...) Time will goes in the blink of an eye! Good to know, entries are free on Friday and Saturday until 10pm, however, better to think to book.
 
 
-# Cultural exchanges and pub crawl
+# Language exchanges and Meetups...
 
 Meet people from all around the world -
 
@@ -60,4 +60,3 @@ In Leicester Square, specifically at [the zoo bar](http://www.zoobar.co.uk/ " Zo
 So, ready to party with the coolest people in London? 
 
 
-Thomas Gingreau
