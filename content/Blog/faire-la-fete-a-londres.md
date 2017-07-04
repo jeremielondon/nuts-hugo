@@ -51,15 +51,13 @@ Is becoming the reference point for London nights, this district of East London 
 - [The Shoreditch](http://theshoreditch-london.co.uk/ "The Shoreditch" ) between its various musical animations, its weekend DJs and the huge variety in music genres (80's, 90's, house, Disco...) Time will goes in the blink of an eye! Good to know, entries are free on Friday and Saturday until 10pm, however, better to think to book.
 
 
-# Language exchanges
+# Cultural exchanges and pub crawl
 
 Meet people from all around the world -
 
-In Leicester Square, specifically at [the zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), there is an event organized by [Mammouth Exchange](http://www.mammothx.co.uk/ "London language exchange") This event facilitates meetings between foreigners from all around the world, every Wednesdays and Sundays evening. Parties start around 7pm and end around 10.30pm / 11pm. The club acces is free specifically for the event.
-The entry staffs will give you a bracelet allowing you to enter the club. You can then grab a piece of paper to write your name, the languages you practice and the languages you want to improve.
-Finally, you will only have to go and meet new people in conviviality. If you are shy, there are tables with different flags to illustrate the different nationalities that are there in order to facilitate meetings. (Eg Spain / Italy / Portugal / France).
+In Leicester Square, specifically at [the zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), begins the [NutsPubCrawl](https://nutspubcrawl.com/ "NutsPubCrawl")  This event facilitates meetings between foreigners from all around the world and English people. The Pub Crawl starts at 9 p.m. from Wednesday to Saturday. You will gain access to 4 clubs for free by buying the [NutsPubCrawl ticket online](https://nutspubcrawl.com/tickets/ "Tickets here!"). You will have free shots and discounts inside of the clubs!
 
-Feel free to let us know in the comments if you have any tips you would like to share. Spread the love ;)
+So, ready to party with the coolest people in London? 
 
 
 Thomas Gingreau
