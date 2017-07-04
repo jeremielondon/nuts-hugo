@@ -73,7 +73,7 @@ Avec toutes ces informations, vous avez désormais les cartes en main pour ne pa
 ## Comment rencontrer d’autres au pair a Londres ?
 
 On organise un [International pique nique](https://www.facebook.com/InternationalLondonPicnics/ "international pique nique"), Rejoins-nous.
-Les étrangers, et particulièrement les Français, se retrouvent lors de pub crawl (tournée des bars) à Londres. C'est une solution économique et conviviale permettant de sortir. Des shots gratuits, des réductions sur les boissons, et ce dans 4 clubs différents. Je vous invite à visiter le site [NutsPubCrawl](https://nutspubcrawl.com/ "Nuts Pub Crawl") pour plus d'informations.
+Les étrangers, et particulièrement les Français, se retrouvent lors de pub crawl (tournée des bars) à Londres. C'est une solution économique et conviviale permettant de sortir. Des shots gratuits, des réductions sur les boissons, et ce dans 4 clubs différents. Je vous invite à visiter le site [NutsPubCrawl](https://nutspubcrawl.com/fr/ "Faire la fête") pour plus d'informations.
 
 ##### 1. Les pages facebook
 En tant qu’au pair à Londres il existe par exemple des pages comme:
