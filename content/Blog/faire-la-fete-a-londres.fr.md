@@ -59,7 +59,7 @@ Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zo
 Cet événement permet de faciliter les rencontres entre étrangers du monde entier et Anglais. Tous les mercredi, jeudi, vendredi et samedi soirs, les soirées commencent vers 21h et se poursuivent jusqu'à 3h. L'accès aux différents clubs est gratuit à condition que vous ayez pris vos places en ligne sur https://nutspubcrawl.com/. Une fois sur place, un membre de notre staff vous donnera un bracelet vous permettant d'entrer gratuitement dans les clubs et d'obtenir des free shots ainsi que des réductions dans tous les clubs fréquentés au cours de la soirée. Vous pourrez ainsi boire, danser, voire même offrir des verres sans vous ruiner!
 C'est une excellente option si vous souhaitez faire la fête à Londres en tant qu'étranger ne connaissant personne, ou si vous souhaitez rencontrer de nouvelles personnes sans vous ruiner.
 
-Alors ne restez pas chez vous, et profitez de votre expérience londonienne comme vous le devez -> https://nutspubcrawl.com/tickets/
+Alors ne restez pas chez vous, et profitez de votre expérience londonienne, venez [faire la fête à Londres]( https://nutspubcrawl.com/tickets/ "Nuts Pub Crawl")
 
 Si vous etes dans l'optique d'apprendre l'anglais gratuitement, allez au [tropics global college](https://tropicsglobalcollege.co.uk/ " tropics global college") C'est un bon plan subventionné par l'état anglais.
 
