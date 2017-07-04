@@ -27,6 +27,8 @@ categories = ["Apps"]
 
 <li><strong><a href="https://www.feverup.com/things-to-do/london/">Fever</a> / <a href="https://www.dojoapp.co/">Dojo</a> / <a href="https://yplanapp.com/">Yplan</a></strong>: These apps will let you find activities to do around you. Sorted by categories, you will inevitably find what you want, be it for eating, going out, entertaining yourself, all throughout the day, often with discounts, so don’t hesitate to take a look every now and then.</li>
 
+<a href="https://https://nutspubcrawl.com/things-to-do/london/"> By the way, if you don't know where to spend your night, take a look at NutsPubCrawl. You will meet new people, maybe some foreigners, and you can chill and take a beer with the guides ! It's cheap, it's fresh, it's good.
+
 ## Find a job apps
 
 <li><strong><a href="https://syftapp.com/">Syft</a> / <a href="https://www.coople.com/uk/en/">Coople</a></strong>: These apps will be useful to you if you are looking for a job, whether permanent or short term, as a waiter, hostess, and many others, you will have plenty to choose from.</li>
