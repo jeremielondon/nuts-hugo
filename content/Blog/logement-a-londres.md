@@ -35,6 +35,8 @@ There are plenty of student residences and below you will find a list of recomma
 * <a href="http://thestudenthousingcompany.com/">Student House Company</a>
 * <a href="http://www.unitestudents.com/london">Unit Student</a>
 * <a href="https://www.chapter-living.com/">Iq Student Accommodations</a>
+* <a href="http://halls.london.ac.uk/">University of London</a>
+
 
 ## Staying for more than 14 days
 
