@@ -52,11 +52,14 @@ Devenu le lieu de référence pour les soirées londoniennes, ce quartier de l'e
 - Testez le [Shoreditch Pub Crawl](https://nutspubcrawl.com/fr/tours/ "Shoreditch Pub Crawl"), si vous voulez en une soirée découvrir plusieurs clubs et rencontrer de nouvelles personnes.
 
 
-# Rencontrer des gens du monde entier "Language exchanges"
+# Rencontrer des gens du monde entier et "Language exchanges"
 
 
-Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), il existe un événement organisé  par [Mammouth Exchange](http://www.mammothx.co.uk/ "London language exchange").
-Cet événement permet de faciliter les rencontres entre étrangers du monde entier. Tous les mercredi et dimanche soirs, les soirées commencent vers 19h et se terminent vers 22h30/ 23h. L'accès au club est gratuit à condition que vous veniez spécifiquement pour l'événement. Un vigile vous donnera alors un bracelet vous permettant d'entrer dans le club. Vous pourrez ensuite ajouter votre nom, les langues que vous pratiquez et celles que vous souhaitez améliorer sur un autocollant afin de faciliter les rencontres et d'échanger avec des gens du Monde entier. Enfin, il ne vous restera plus qu'à aller rencontrer de nouvelles personnes dans la convivialité. Si vous êtes du genre timide,  il existe des tables avec différents drapeaux pour illustrer les différentes nationalités qui s'y trouvent afin de faciliter le dialogue. (exemple: Espagne / Italie / Portugal / France ). Allez y faire un tour et vous trouverez rapidement quelques personnes souhaitant discuter avec vous !
+Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), commence une tournée des bars regroupant des Français, des Anglais, et beaucoup d'autres nationalités.
+Cet événement permet de faciliter les rencontres entre étrangers du monde entier et Anglais. Tous les mercredi, jeudi, vendredi et samedi soirs, les soirées commencent vers 21h et se poursuivent jusqu'à 3h. L'accès aux différents clubs est gratuit à condition que vous ayez pris vos places en ligne sur https://nutspubcrawl.com/. Une fois sur place, un membre de notre staff vous donnera un bracelet vous permettant d'entrer gratuitement dans les clubs et d'obtenir des free shots ainsi que des réductions dans tous les clubs fréquentés au cours de la soirée. Vous pourrez ainsi boire, danser, voire même offrir des verres sans vous ruiner!
+C'est une excellente option si vous souhaitez faire la fête à Londres en tant qu'étranger ne connaissant personne, ou si vous souhaitez rencontrer de nouvelles personnes sans vous ruiner.
+
+Alors ne restez pas chez vous, et profitez de votre expérience londonienne comme vous le devez -> https://nutspubcrawl.com/tickets/
 
 Si vous etes dans l'optique d'apprendre l'anglais gratuitement, allez au [tropics global college](https://tropicsglobalcollege.co.uk/ " tropics global college") C'est un bon plan subventionné par l'état anglais.
 
