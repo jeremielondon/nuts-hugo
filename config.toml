@@ -39,7 +39,8 @@ custom_css = ["css/assets/bootstrap-material-design-font/css/material.min.css",
 "css/assets/animate.css/animate.min.css",
 "css/assets/socicon/css/styles.min.css",
 "css/assets/theme/css/style.min.css",
-"css/assets/mobirise/css/mbr-additional.min.css"]
+"css/assets/mobirise/css/mbr-additional.min.css",
+]
 
 [params.widgets]
     categories = "true"

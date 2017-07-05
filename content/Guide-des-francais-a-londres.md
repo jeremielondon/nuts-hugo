@@ -14,7 +14,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/housing-in-london/" class="mbri-home mbr-iconfont mbr-iconfont-features3" style="color: rgb(250, 197, 28);"></a></div>
+                  <div class="card-img"><a href="/blog/housing-in-london/" class="fa fa-home fa-5x" style="color: rgb(250, 197, 28);"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Housing in London<br /></h4>
 
@@ -27,7 +27,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/passports-in-london/" class="mbri-contact-form mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/passports-in-london/" class="fa fa-id-card-o fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Passport</h4>
 
@@ -40,7 +40,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="mbri-cash mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="fa fa-university fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Opening a bank account</h4>
 
@@ -54,7 +54,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="mbri-star mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Party in London</h4>
 
@@ -78,7 +78,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/finding-a-job-in-london/" class="etl-icon icon-streetsign mbr-iconfont mbr-iconfont-features3"></a></div>
+                  <div class="card-img"><a href="/blog/finding-a-job-in-london/" class="fa fa-camera-retro fa-5x"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Find a job</h4>
 
