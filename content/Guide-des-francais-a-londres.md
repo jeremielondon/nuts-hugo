@@ -54,7 +54,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true""></a></div>
+                    <div class="card-img"><a href="/blog/party-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Party in London</h4>
 
@@ -78,7 +78,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/finding-a-job-in-london/" class="fa fa-camera-retro fa-5x"></a></div>
+                  <div class="card-img"><a href="/blog/finding-a-job-in-london/" class="fa fa-briefcase fa-5x" aria-hidden="true"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Find a job</h4>
 
@@ -91,7 +91,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/finding-an-internship-in-london/" class="etl-icon icon-compass mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/finding-an-internship-in-london/" class="fa fa-user-circle-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Find an internship</h4>
 
@@ -104,7 +104,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/useful-apps-in-london/" class="etl-icon icon-mobile mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/useful-apps-in-london/" class="fa fa-mobile fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Useful apps</h4>
 
@@ -117,7 +117,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/healthcare-in-london/" class="mbri-hearth mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/healthcare-in-london/" class="fa fa-user-md fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Health</h4>
 
@@ -140,7 +140,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/national-insurance-number/" class="mbri-bookmark mbr-iconfont mbr-iconfont-features3"></a></div>
+                  <div class="card-img"><a href="/blog/national-insurance-number/" class="fa fa-heartbeat fa-5x" aria-hidden="true"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">National Insurance Number</h4>
 
@@ -153,7 +153,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/transport-in-london/" class="mbri-delivery mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/transport-in-london/" class="fa fa-train fa-5x"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Transport</h4>
 
@@ -166,7 +166,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/londons-airports/" class="mbri-paper-plane mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/londons-airports/" class="fa fa-plane fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">London airports</h4>
 
@@ -179,7 +179,7 @@ description = " We help expats to find there way in London, Find an accommodatio
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/au-pairs-in-london/" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/blog/au-pairs-in-london/" class="fa fa-child fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Au Pair in London</h4>
 

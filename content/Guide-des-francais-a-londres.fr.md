@@ -1,9 +1,9 @@
 +++
-title = "Guide des français à londres"
+title = "Guide des Français à Londres"
 banner = "franais-londres-2000x1236.jpg"
 lead = "Dans nos conseils, on s’attache à être le plus objectif possible. Si un partenariat est engagé, nous le préciserons d'un [p]. Aidez-nous à être le plus informatif possible en partageant vos bonnes adresses ou astuces dans les commentaires."
 slug = "Guide-des-francais-a-londres"
-description = "Ce Guide est fait pour aider les français à s'installer à Londres. On te conseille pour trouver un logement, trouver du travail, ouvrir un compte en banque etc..."
+description = "Ce Guide est fait pour aider les Français à s'installer à Londres. On te conseille pour trouver un logement, trouver du travail, ouvrir un compte en banque etc..."
 +++
 
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-21" style="background-color: rgb(239, 239, 239);">
@@ -12,7 +12,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/fr/blog/logement-a-londres/" class="mbri-home mbr-iconfont mbr-iconfont-features3" style="color: rgb(250, 197, 28);"></a></div>
+                  <div class="card-img"><a href="/fr/blog/logement-a-londres/" class="fa fa-home fa-5x" style="color: rgb(250, 197, 28);"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Le Logement à Londres<br></h4>
 
@@ -25,7 +25,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/le-passeport-a-londres/" class="mbri-contact-form mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/le-passeport-a-londres/" class="fa fa-id-card-o fa-5x"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Le Passeport</h4>
 
@@ -38,7 +38,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/ouvrir-un-compte-en-banque-a-londres/" class="mbri-cash mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/ouvrir-un-compte-en-banque-a-londres/" class="fa fa-university fa-5x"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Ouvrir un compte en banque</h4>
 
@@ -52,7 +52,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/faire-la-fete-a-londres/" class="mbri-star mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/faire-la-fete-a-londres/" class="fa fa-star-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Faire la fete</h4>
 
@@ -76,7 +76,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/fr/blog/trouver-du-travail-a-londres/" class="etl-icon icon-streetsign mbr-iconfont mbr-iconfont-features3"></a></div>
+                  <div class="card-img"><a href="/fr/blog/trouver-du-travail-a-londres/" class="fa fa-briefcase fa-5x"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Trouver un job</h4>
 
@@ -89,7 +89,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/trouver-un-stage-a-londres/" class="etl-icon icon-compass mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/trouver-un-stage-a-londres/" class="fa fa-user-circle-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Trouver un Stage</h4>
 
@@ -102,7 +102,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/les-applications-utiles-a-londres/" class="etl-icon icon-mobile mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/les-applications-utiles-a-londres/" class="fa fa-mobile fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Les applications utiles</h4>
 
@@ -115,7 +115,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/sante-a-londres/" class="mbri-hearth mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/sante-a-londres/" class="fa fa-user-md fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Santé</h4>
 
@@ -138,7 +138,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/fr/blog/national-insurance-number/" class="mbri-bookmark mbr-iconfont mbr-iconfont-features3"></a></div>
+                  <div class="card-img"><a href="/fr/blog/national-insurance-number/" class="fa fa-heartbeat fa-5x" aria-hidden="true"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">"National Insurance Number"</h4>
 
@@ -151,7 +151,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/transport-a-londres/" class="mbri-delivery mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/transport-a-londres/" class="fa fa-train fa-5x"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Transports</h4>
 
@@ -164,7 +164,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/aeroports-de-londres/" class="mbri-paper-plane mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/aeroports-de-londres/" class="fa fa-plane fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Les aéroports de Londres</h4>
 
@@ -178,7 +178,7 @@ description = "Ce Guide est fait pour aider les français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/au-pair-a-londres/" class="mbri-users mbr-iconfont mbr-iconfont-features3"></a></div>
+                    <div class="card-img"><a href="/fr/blog/au-pair-a-londres/" class="fa fa-child fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Au Pair à Londres</h4>
 
