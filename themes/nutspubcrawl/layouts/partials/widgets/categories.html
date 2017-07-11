@@ -2,7 +2,6 @@
 {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
 <div class="panel panel-default sidebar-menu">
-
     <div class="panel-heading">
       <h3 class="panel-title">{{ i18n "categoriesTitle" }}</h3>
     </div>
@@ -14,8 +13,10 @@
             <li><a href="{{ "categories/" | absLangURL }}{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>
             </li>
             {{ end }}
+
         </ul>
     </div>
+
 </div>
 {{ end }}
 {{ end }}
