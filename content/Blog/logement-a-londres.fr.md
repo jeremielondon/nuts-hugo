@@ -2,6 +2,7 @@
 title = "Logement à londres"
 banner = "notting-hill-houses-2000x1149.jpg"
 categories = ["Logement"]
+description ="Trouver un logement à Londres, dépend de votre budget, de votre durée de séjour et vos envies de quartiers. On vous propose plusieurs solutions comme les auberges des jeunesses, résidences étudiantes ou collocations, à vous de choisir"
 +++
 
 <center><h2><strong>Trouver un logement correspondant à la durée du séjour, au budget et quartier souhaité</strong></h2></center>
@@ -42,7 +43,7 @@ Les résidences étudiantes sont nombreuses. Vous trouverez ci-dessous une liste
 
 Il faudra vous armer de patience, de courage et de tout ce que vous pouvez, car ce sera long et semé d’embûches pour arriver à trouver son petit havre de paix, mais c’est possible.
 
-Le plus courant et le moins coûteux (et encore), c’est la colocation. Entre agences et annonces sur site internet ou même sur Facebook, vous avez l’embarrât du choix. Vous pouvez vous y prendre à l’avance, mais sachez que 1 mois suffit. Vous pouvez également trouver le plan une fois sur place.
+Le plus courant et le moins coûteux (et encore), c’est la colocation. Entre agences et annonces sur site internet ou même sur Facebook, vous avez l’embarrâs du choix. Vous pouvez vous y prendre à l’avance, mais sachez que 1 mois suffit. Vous pouvez également trouver le plan une fois sur place.
 
 #### Les sites de Logement a Londres
 
@@ -67,4 +68,3 @@ Enfin, quelques petites explications sur les expressions utilisées dans les ann
 Un dernier petit conseil et sûrement le plus fiable, c’est de ne pas prendre votre logement depuis la France, ou alors de demander à quelqu’un de le visiter pour vous, ça vous évitera des arnaques. Vous pouvez vous prendre une chambre en auberge de jeunesse pendant quelques jours et ainsi prendre le temps de visiter les logements et voir réellement ce qui vous attends.
 
 Vous voilà maintenant armé pour trouver votre nid à Londres, si vous avez des questions ou remarques n’hésitez pas à laisser un commentaire, nous modifierons notre article en fonction de celles-ci afin de le rendre plus informatif et pertinent.
-        

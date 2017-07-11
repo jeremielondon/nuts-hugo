@@ -38,7 +38,7 @@ Ancien quartier malfamé des années 80, il est aujourd'hui réputé pour ces ba
 
 - [Fridge Bar](http://www.fridge.co.uk/ "Fridge Bar") un nouveau genre de night club proposant en fonction des soirées du rétro, R' n' B, techno, hip-hop.
 
-- [Brixton O2 Academy](https://www.academymusicgroup.com/o2academybrixton/ "Brixton O2 Academy"), principalement centré sur le funk, rap et rock, cet endroit à une capacité de casiment 5000 personnes et est connu pour être l'un des endroits les plus fréquentés du sud de Londres.
+- [Brixton O2 Academy](https://www.academymusicgroup.com/o2academybrixton/ "Brixton O2 Academy"), principalement centré sur le funk, rap et rock, cet endroit à une capacité de quasiment 5000 personnes et est connu pour être l'un des endroits les plus fréquentés du sud de Londres.
 
 ### Shoreditch
 Devenu le lieu de référence pour les soirées londoniennes, ce quartier de l'est de Londres est de plus en plus à la mode, pour toute les générations confondues, notamment grâce à des lieux comme :
