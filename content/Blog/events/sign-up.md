@@ -4,7 +4,8 @@ banner = "picnic.jpg"
 description = "Sign up so you will be aware of the coming events and great Meetup news..."
 +++
 
-## We don't Span you will just be aware of the cool events we organise...
+## We don't Spam you will just be aware of the coming events
+some are free like [the picnics](https://www.facebook.com/InternationalLondonPicnics/ " InternationalLondonPicnics"), or [Meetups / Parties](https://nutspubcrawl.com/blog/special-event/ "Meetups / Parties "), some are [pub crawls](https://nutspubcrawl.com/), others are Activities. Our goal is to make sure people gather together so you will find a buddy to team up to discover London with.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
