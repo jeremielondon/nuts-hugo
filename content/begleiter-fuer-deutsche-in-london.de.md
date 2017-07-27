@@ -1,9 +1,9 @@
 ﻿+++
-title = "Begleiter für deutsche in London"
+title = "Begleiter für Deutsche in London"
 banner = "london-expats.jpg"
-lead = "We provide advice and we aim to be as objective as possible. We don’t have any partnerships with the companies or organisations mentioned, or if we do, we will show it with a [p]. We encourage contributions, you can help us keep our guide useful and informative for others, please leave your tips and tricks in the comments."
+lead = "Wir geben dir Hinweise und versuchen dabei so objektiv wie möglich zu bleiben. Wir haben keine Vereinbarungen mit anderen Firmen oder Organisationen, falls doch sind diese mit [p] gekennzeichnet. Mit fördernden Beiträgen kannst du uns helfen, den Reiseführer nützlicher und informativer für andere zu gestalten. Hinterlasse uns hierzu Tipps oder Tricks in der Kommentarbox."
 slug = "begleiter-fuer-deutsche-in-london"
-description = " We help expats to find there way in London, Find an accommodation, open a bank account, find your job / internship, Become an au pair are some of the topics we cover..."
+description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunft zu finden, ein Bankkonto zu eröffnen, bei der Job-/Praktikumssuche und ein Au Pair zu werden."
 +++
 
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-21" style="background-color: rgb(239, 239, 239);">
@@ -16,9 +16,9 @@ description = " We help expats to find there way in London, Find an accommodatio
               <div class="card cart-block">
                   <div class="card-img"><a href="/blog/housing-in-london/" class="fa fa-home fa-5x" style="color: rgb(250, 197, 28);"></a></div>
                   <div class="card-block">
-                    <h4 class="card-title">Housing in London<br /></h4>
+                    <h4 class="card-title">Unterkünfte in London<br/></h4>
 
-                    <p class="card-text">We’ve gathered a range of sites, organisations and tips to help you find accommodation depending on the length of your stay&nbsp;</p>
+                    <p class="card-text">Wir haben eine große Anzahl an Seiten, Organisationen und einige Tipps gesammelt, die dir       helfen, eine Unterkunft zu finden&nbsp;</p>
                     <div class="card-btn"><a href="/blog/housing-in-london/" class="btn btn-primary">More information</a> </div>
                     </div>
                 </div>
@@ -29,9 +29,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/passports-in-london/" class="fa fa-id-card-o fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Passport</h4>
+                        <h4 class="card-title">Reisepass</h4>
 
-                        <p class="card-text">What to do? How long will it take and what documents do I need to show upon arrival?</p>
+                        <p class="card-text">Was ist zu tun? Wie lange dauert es und welche Dokumente müssen bei der Ankunft gezeigt                                werden?</p>
                         <div class="card-btn"><a href="/blog/passports-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -42,9 +42,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/opening-a-bank-account-in-london/" class="fa fa-university fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Opening a bank account</h4>
+                        <h4 class="card-title">Bankkonto eröffnen</h4>
 
-                        <p class="card-text">What for? Where to go, how to get one, how to transfer my money; these are the questions we answer in this post...</p>
+                        <p class="card-text">Anlaufstellen, ein Konto eröffnen, Geld überweisen; diese Fragen beantworten wir hier...</p>
                         <div class="card-btn"><a href="/blog/opening-a-bank-account-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -56,9 +56,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/party-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Party in London</h4>
+                        <h4 class="card-title">Feiern gehen in London</h4>
 
-                        <p class="card-text">Where to party? Good deals, you will find all recommended spots and cool venues to enjoy London by night...</p>
+                        <p class="card-text">Wo steigt die Party? Gute Angebote, beliebte Orte und die angesagtesten Clubs, um sich in London bei Nacht zu vergnügen...</p>
                         <div class="card-btn"><a href="/blog/party-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -80,9 +80,9 @@ description = " We help expats to find there way in London, Find an accommodatio
               <div class="card cart-block">
                   <div class="card-img"><a href="/blog/finding-a-job-in-london/" class="fa fa-briefcase fa-5x" aria-hidden="true"></a></div>
                   <div class="card-block">
-                    <h4 class="card-title">Find a job</h4>
+                    <h4 class="card-title">Einen Arbeitsplatz finden</h4>
 
-                    <p class="card-text">What to do, what sites to visit; we give you all of our top tips...</p>
+                    <p class="card-text">Was ist zu tun, welche Seiten sind geeignet; wir geben dir die besten Tipps...</p>
                     <div class="card-btn"><a href="/blog/finding-a-job-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -93,9 +93,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/finding-an-internship-in-london/" class="fa fa-user-circle-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Find an internship</h4>
+                        <h4 class="card-title">Einen Praktikumsplatz finden</h4>
 
-                        <p class="card-text">How to find an internship in London? Which methods to use to be most effective in your search</p>
+                        <p class="card-text">Wie findest du einen Praktikumsplatz in London? Welche Methoden solltest du benutzen um einen geeigneten Praktikumsplatz zu finden?</p>
                         <div class="card-btn"><a href="/blog/finding-an-internship-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -106,9 +106,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/useful-apps-in-london/" class="fa fa-mobile fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Useful apps</h4>
+                        <h4 class="card-title">Nützliche Apps</h4>
 
-                        <p class="card-text">Best apps to find your way around the city, give you ideas for activities, restaurants, events etc...</p>
+                        <p class="card-text">Die besten Apps, um sich in London zurecht zu finden, Ideen für Aktivitäten, Restaurants, Veranstaltungen, etc...</p>
                         <div class="card-btn"><a href="/blog/useful-apps-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -119,9 +119,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/healthcare-in-london/" class="fa fa-user-md fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Health</h4>
+                        <h4 class="card-title">Gesundheit</h4>
 
-                        <p class="card-text">How to find your general practitioner, where to sign up and what documents to bring.&nbsp;</p>
+                        <p class="card-text">Wie findest du einen geeigneten Arzt, wo musst du dich anmelden und welche Dokumente benötigst du?&nbsp;</p>
                         <div class="card-btn"><a href="/blog/healthcare-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -142,9 +142,9 @@ description = " We help expats to find there way in London, Find an accommodatio
               <div class="card cart-block">
                   <div class="card-img"><a href="/blog/national-insurance-number/" class="fa fa-heartbeat fa-5x" aria-hidden="true"></a></div>
                   <div class="card-block">
-                    <h4 class="card-title">National Insurance Number</h4>
+                    <h4 class="card-title">Nationale Versicherungsnummer</h4>
 
-                    <p class="card-text">What is it? How to register? How long it takes, we tell you everything.</p>
+                    <p class="card-text">Was ist das? Wie erfolgt die Registrierung? Wie lange dauert es, wir verraten es dir.</p>
                     <div class="card-btn"><a href="/blog/national-insurance-number/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -157,7 +157,7 @@ description = " We help expats to find there way in London, Find an accommodatio
                     <div class="card-block">
                         <h4 class="card-title">Transport</h4>
 
-                        <p class="card-text">The London Underground, the Oyster Card, how does it work? How much does it cost ? etc ...&nbsp;</p>
+                        <p class="card-text">Wie funktioniert die U-Bahn und die Oyster Card? Wie viel kostet es? etc...&nbsp;</p>
                         <div class="card-btn"><a href="/blog/transport-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -168,9 +168,9 @@ description = " We help expats to find there way in London, Find an accommodatio
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/londons-airports/" class="fa fa-plane fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">London airports</h4>
+                        <h4 class="card-title">Londoner Flughäfen</h4>
 
-                        <p class="card-text">How to get to the centre from the different airports: Heathrow, Gatwick, Luton and Stanstead</p>
+                        <p class="card-text">Wie gelangst du am besten von den Flughäfen (Heathrow, Getwick, Luton und Stanstad) ins Zentrum?</p>
                         <div class="card-btn"><a href="/blog/londons-airports/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@ description = " We help expats to find there way in London, Find an accommodatio
                     <div class="card-block">
                         <h4 class="card-title">Au Pair in London</h4>
 
-                        <p class="card-text">How to find an au Pair familly in London? What are the contracts ? How to meet other au Pairs ?</p>
+                        <p class="card-text">Au Pair Familie finden? Kontakte knüpfen? Andere Au Pairs treffen?</p>
                         <div class="card-btn"><a href="/blog/au-pairs-in-london/" class="btn btn-primary">More information</a></div>
                     </div>
                 </div>
