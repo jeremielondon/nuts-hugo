@@ -11,13 +11,13 @@
   translation: "Senden"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Adresse"
 
 - id: footerLinksTitle
   translation: "Links"
 
 - id: contactMessage
-  translation: "Your message"
+  translation: "Deine Nachricht"
 
 - id: pageHome
   translation: "/"
@@ -26,37 +26,37 @@
   translation: "PUB CRAWLS IN LONDON"
 
 - id: pageAbout
-  translation: "/about"
+  translation: "/Über uns"
 
 - id: pageAboutMenu
-  translation: "ABOUT"
+  translation: "ÜBER UNS"
 
 - id: pagePhotos
-  translation: "/photos"
+  translation: "/Fotos"
 
 - id: pagePhotosMenu
-  translation: "PHOTOS"
+  translation: "FOTOS"
 
 - id: pageTours
-  translation: "/tours"
+  translation: "/Touren"
 
 - id: pageToursMenu
-  translation: "OUR TOURS"
+  translation: "UNSERE TOUREN"
 
 - id: pageBlog
-  translation: "/blog-guide"
+  translation: "/Blog-Begleiter"
 
 - id: pageBlogMenu
   translation: "BLOG"
 
 - id: pageContact
-  translation: "/contact"
+  translation: "/Kontakt"
 
 - id: pageContactMenu
-  translation: "CONTACT"
+  translation: "KONTAKT"
 
 - id: pageTickets
-  translation: "/tickets"
+  translation: "/Tickets"
 
 - id: pageTicketsMenu
   translation: "TICKETS"
@@ -65,92 +65,92 @@
   translation: "Pub Crawls in London"
 
 - id: homeSec2
-  translation: "Visit London's best clubs in one night!"
+  translation: "Besuche die besten Clubs Londons in einer Nacht!"
 
 - id: homeSec2a
-  translation: "More info"
+  translation: "Mehr Infos"
 
 - id: homeSec3
-  translation: "What is it?"
+  translation: "Was ist das?"
 
 - id: homeSec4
-  translation: "A pub crawl, sometimes known as a barathon, is a tour of different pubs and clubs in an area of your choice."
+  translation: "Pub crawl ist eine Tour in der man verschiedene Kneipen und Clubs in einem Wahlgebiet besucht."
 
 - id: homeSec5
-  translation: "Who is it for?"
+  translation: "Für wen ist es?"
 
 - id: homeSec6
-  translation: "For all ages from 18 up. All you need is your ID to join the party!"
+  translation: "Für alle Altersklassen ab 18 Jahren. Alles was du benötigst ist dein Ausweis!"
 
 - id: homeSec7
-  translation: "How does it work?"
+  translation: "Wie funktioniert es?"
 
 - id: homeSec8
-  translation: "It all starts at the meeting point where we will provide you with a wristband that gives you access to all the clubs we will take you to."
-
+  translation: "Wir treffen uns an einem vereinbarten Ort und überreichen dir dein Armband, mit dem du in die Clubs kommst, zu denen wir dich bringen."
+  
 - id: homeSec9
-  translation: "Where do we meet?"
+  translation: "Wo treffen wir uns?"
 
 - id: homeSec10
-  translation: "Depending on your choice, the meeting point will be written on the ticket. Contact us if you have any questions."
+  translation: "Der Treffpunkt hängt von deiner Entscheidung ab und steht dann nochmals auf deinem Ticket. Wenn du Fragen hast, kannst du uns gerne kontaktieren."
 
 - id: homeSec11
-  translation: "Who are our guides?"
+  translation: "Wer sind eure Partybegleiter?"
 
 - id: homeSec12
-  translation: "Barbara is from Mexico. She likes to dance and to meet people from all over the world. Her speciality is drinking Jager bombs. She speaks Spanish and English."
+  translation: "Barbara kommt aus Mexiko. Sie tanzt viel und trifft gerne Menschen aus der ganzen Welt. Ihr Lieblingsgetränk ist Jägermeister. Sie spricht spanisch und englisch"
 
 - id: homeSec12a
-  translation: "Guide and customer service"
+  translation: "Begleiter und Kundenbetreuer/in"
 
 
 - id: homeSec13
-  translation: "Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus like the back of his hand. His speciality is to take the pictures. He speaks French and English."
+  translation: "Jeremie ist Franzose und lebt seit 2009 in London. Er kennt den Leicester Square und Piccadilly Circus in und auswendig. Zudem ist er der Fotograf und schießt die Bilder. Er spricht französich und englisch. "
 
 - id: homeSec13a
-  translation: "Guide and Marketing Manager"
+  translation: "Begleiter und Marketing Leiter"
 
 
 - id: homeSec14
-  translation: "Mathilde is Spanish, she loves to travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."
+  translation: "Mathilde ist Spanierin, sie liebt es zu reisen und ins Kino zu gehen. Sie lebt seit 2015 in London. Sie spricht italienisch, spanisch und englisch."
 
 - id: homeSec14a
-  translation: "Guide and Operations Manager"
+  translation: "Begleiter und Geschäftsführer/in"
 
 - id: homeSec15
-  translation: "Stay in touch!"
+  translation: "Bleibe immer auf dem neusten Stand!"
 
 - id: blogLogement
-  translation: "/blog/housing-in-london"
+  translation: "/blog/Unterkünfte-in-london"
 
 - id: blogPasseport
-  translation: "/blog/passports-in-london"
+  translation: "/blog/Reisepass-in-london"
 
 - id: blogBanque
-  translation: "/blog/opening-a-bank-account-in-london"
+  translation: "/blog/Bankkonto-eröffnen-in-london"
 
 - id: blogTravail
-  translation: "/blog/finding-a-job-in-london"
+  translation: "/blog/Jobsuche-in-london"
 
 - id: blogStage
-  translation: "/blog/finding-an-internship-in-london"
+  translation: "/blog/Praktikumssuche-in-london"
 
 - id: blogApps
-  translation: "/blog/useful-apps-in-london"
+  translation: "/blog/Hilfreiche-apps-in-london"
 
 - id: blogSante
-  translation: "/blog/healthcare-in-london"
+  translation: "/blog/Medizinische-Versorgung-in-london"
 
 - id: blogNIN
-  translation: "/blog/national-insurance-number-london"
+  translation: "/blog/Nationale-Versicherungsnummer-in-london"
 
 - id: blogTransp
-  translation: "/blog/transport-in-london"
+  translation: "/blog/Transport-in-london"
 
 - id: blogAero
-  translation: "/blog/londons-airports"
+  translation: "/blog/Londoner-Flughäfen"
 
 
 
 - id: categoriesTitle
-  translation: "Categories"
+  translation: "Kategorien"
