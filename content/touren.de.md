@@ -22,7 +22,7 @@ type="nobanner"
                   <h3 class="mbr-section-title display-2">CENTRAL LONDON NUTS PUB CRAWL</h3>
                   <div class="lead">
 
-                    <p>Pub crawl run in central London. You will visit the best clubs around Leicester Square and Piccadilly Circus. All clubs are within a 5 minute walk.</p>
+                    <p>Dieser Pub Crawl findet im Zentrum von London statt. Du wirst in den besten Clubs rund um den Leicester Square und Piccadilly Circus feiern, welche durch einen 5 minütigen Fußweg voneinander getrennt sind.</p>
 
                   </div>
 
@@ -51,7 +51,7 @@ type="nobanner"
                   <h3 class="mbr-section-title display-2">THE SHOREDITCH PUB CRAWL</h3>
                   <div class="lead">
 
-                    <p>This tour takes place in the district of Shoreditch. The guides will take you around Old Street and Shoreditch. All venues are within walking distance.&nbsp;</p>
+                    <p>Diese Tour findet rund um Shoreditch statt. Die Begleiter führen dich durch die alten Straßen von Shoreditch bis zu den zu Fuß erreichbaren Clubs.&nbsp;</p>
 
                   </div>
 
