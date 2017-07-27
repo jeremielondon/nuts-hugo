@@ -68,8 +68,14 @@ defaultKeywords = ["Pub Crawl a londres", "pub crawl londres", "barathon","crawl
 defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
 disqusShortname = "nutspubcrawlfr"
 
-
 [Languages.es]
+title = "Nuts Pub Crawls Londres"
+weight = 3
+defaultKeywords = ["Pub crawls Londres", "pub crawl Londres", "pub crawl","crawl londres"]
+defaultDescription = "Pub Crawls en Londres, es la mejor forma para salir de fiesta en Londres y descubrir las discotecas y bares más populares con Nuts Pub Crawl, todos nuestros tours son garantía de una gran noche."
+disqusShortname = "nutspubcrawles"
+
+[Languages.de]
 title = "Nuts Pub Crawls Londres"
 weight = 3
 defaultKeywords = ["Pub crawls Londres", "pub crawl Londres", "pub crawl","crawl londres"]

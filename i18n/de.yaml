@@ -20,43 +20,43 @@
   translation: "Deine Nachricht"
 
 - id: pageHome
-  translation: "/"
+  translation: "/de/"
 
 - id: pageHomeMenu
   translation: "PUB CRAWLS IN LONDON"
 
 - id: pageAbout
-  translation: "/Über uns"
+  translation: "/de/ueber-uns"
 
 - id: pageAboutMenu
   translation: "ÜBER UNS"
 
 - id: pagePhotos
-  translation: "/Fotos"
+  translation: "/photos"
 
 - id: pagePhotosMenu
   translation: "FOTOS"
 
 - id: pageTours
-  translation: "/Touren"
+  translation: "/de/touren"
 
 - id: pageToursMenu
   translation: "UNSERE TOUREN"
 
 - id: pageBlog
-  translation: "/Blog-Begleiter"
+  translation: "/de/begleiter-fuer-deutsche-in-london"
 
 - id: pageBlogMenu
   translation: "BLOG"
 
 - id: pageContact
-  translation: "/Kontakt"
+  translation: "/de/kontakt"
 
 - id: pageContactMenu
   translation: "KONTAKT"
 
 - id: pageTickets
-  translation: "/Tickets"
+  translation: "/de/tickets"
 
 - id: pageTicketsMenu
   translation: "TICKETS"
@@ -87,7 +87,7 @@
 
 - id: homeSec8
   translation: "Wir treffen uns an einem vereinbarten Ort und überreichen dir dein Armband, mit dem du in die Clubs kommst, zu denen wir dich bringen."
-  
+
 - id: homeSec9
   translation: "Wo treffen wir uns?"
 
