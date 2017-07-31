@@ -12,7 +12,7 @@ categories = ["Unterkünfte"]
 
 ### **Ich bleibe weniger als 14 Tage**
 
-Für einen kurzen Aufentthalt empfehlen wir dir folgende Varianten: **Jugendherbergen, Airbnb, Studentenwohnheime und Couchsurfing**
+Für einen kurzen Aufenthalt empfehlen wir dir folgende Varianten: **Jugendherbergen, Airbnb, Studentenwohnheime und Couchsurfing**
 
 #### Jugendherbergen
 
