@@ -1,7 +1,8 @@
 ﻿+++
 title = "London's airports"
 banner = "aroport-de-londres-2000x1333.jpg"
-description = ""
+description = "Heathrow, Gatwick, Stansted, Luton, we help you to find the right London airport"
+og_image = "/images/aroport-de-londres-2000x1333.jpg"
 categories = ["Transport","Airports"]
 slug = "londons-airports"
 +++

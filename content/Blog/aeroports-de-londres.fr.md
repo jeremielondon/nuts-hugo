@@ -2,7 +2,8 @@
 title = "Les aéroports de Londres"
 banner = "aroport-de-londres-2000x1333.jpg"
 categories = ["Transport","Aeroports"]
-description = ""
+description = "Heathrow, Gatwick, Stansted, Luton, on vous aide à retrouver le bon aéroport de Londres"
+og_image = "/images/aroport-de-londres-2000x1333.jpg"
 +++
 
 # Heathrow, Gatwick ou Stansted ? … Hein  ?

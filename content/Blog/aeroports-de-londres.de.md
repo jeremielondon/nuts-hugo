@@ -1,11 +1,11 @@
 ﻿+++
 title = "Londoner Flughäfen"
 banner = "aroport-de-londres-2000x1333.jpg"
-description = "Wie gelangst du am besten von den Flughäfen (Heathrow, Gatwick, Stansted und Luton) ins Zentrum von London?
+description = "Wie gelangst du am besten von den Flughäfen (Heathrow, Gatwick, Stansted und Luton) ins Zentrum von London?"
 categories = ["Transport","Flughafen"]
-slug = "londons-airports"
+slug = "londoner-flughaefen"
 +++
-# "Heathrow, Gatwick oder Stansted?
+# Heathrow, Gatwick oder Stansted?
 
 <strong>Es gibt fünf Flughäfen um London herum. In jedem hast du mehrere Transportmöglichkeiten, die dich in das Zentrum bringen. In diesem Blog fassen wir für dich zusammen, wie du dich am besten an den Flughäfen zurechtfinden kannst. </strong>
 
@@ -27,7 +27,7 @@ slug = "londons-airports"
 
 ## London Luton Airport (LLA)
 
-Wenn du an diesem Flughafen, welcher im Norden Londons gelegen ist, ankommst, hast du folgende Transportmöglichkeiten:
+...wenn du an diesem Flughafen, welcher im Norden Londons gelegen ist, ankommst, hast du folgende Transportmöglichkeiten:
 
 <ul><li>Busunternehmen, wie <a href="http://www.terravision.eu/">Terravision</a> oder <a href="http://www.nationalexpress.com/fr/airports/luton-airport.aspx">National Express</a> bieten dir die Möglichkeit viele verschiedene Ziele zu erreichen, mit Zutritt zur Metro. Der Preis liegt bei ca. £11, je nachdem wohin du fahren willst </li><li>Vom Flughafen aus hast du die Möglichkeit <a href="http://www.london-luton.co.uk/to-and-from-lla">to trains</a> zu nehmen, dieser direkt ins Zentrum fährt. Der Zug fährt alle 10 Minuten und kostet ca. £15.</li></ul>
 
@@ -40,4 +40,3 @@ Wenn du an diesem Flughafen, welcher im Norden Londons gelegen ist, ankommst, ha
 ...ist Londons fünfter Flughafen. Der <a href="https://www.londoncityairport.com/">London City Airport</a> ist der kleinste FLughafen in London, mit nur einer Rollbahn und befindet sich im Zentrum von London, mit Verbindung zum öffentlichen Bahnverkehr. Flüge von Deutschland sind nicht so häufig und könnten teurer sein. Die Verbindung von der Schweiz ist allerdings gut.
 
 Im Allgemeinen haben alle Busse und Eilzüge WLAN. Wenn du dein Ticket online buchst, ist es den ganzen Tag gültig, manchmal auch noch die nächsten Tage. Du brauchst dich somit nicht unter Druck zu setzen und zu beeilen. Wenn du dein Ticket nicht vorher gekauft hast, hast du am Flughafen genügend Möglichkeiten, dies zu tun. Es wird dich £1 - £2 mehr als im Internet kosten. Somit weißt du alles, was du brauchst um ins Zentrum bzw. an den Flughafen zu kommen. Teile deine Erfahrungen, um anderen Reisenden zu helfen.
-

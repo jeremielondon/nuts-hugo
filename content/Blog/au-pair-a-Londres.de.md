@@ -4,6 +4,7 @@ banner = "famille-au-pair.jpg"
 categories = ["london au pairs"]
 description = "How to find an au Pair familly in London? What are the contracts ? How to meet other au Pairs ?"
 slug = "au-pairs-in-london"
+og_image = "/images/famille-au-pair.jpg"
 +++
 
 ## Hello girls and guys !

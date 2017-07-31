@@ -1,7 +1,7 @@
 ﻿+++
 title = "Unterkünfte in London"
 banner = "notting-hill-houses-2000x1149.jpg"
-slug = "housing-in-london"
+slug = "unterkünfte-in-london"
 categories = ["Unterkünfte"]
 +++
 

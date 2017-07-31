@@ -18,7 +18,7 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
                   <div class="card-block">
                     <h4 class="card-title">Unterkünfte in London</h4>
                     <p class="card-text">Wir haben eine große Anzahl an Seiten, Organisationen und einige Tipps gesammelt, die dir       helfen, eine Unterkunft zu finden&nbsp;</p>
-                    <div class="card-btn"><a href="/blog/housing-in-london/" class="btn btn-primary">Mehr Informationen</a> </div>
+                    <div class="card-btn"><a href="/de/blog/unterkünfte-in-london/" class="btn btn-primary">Mehr Informationen</a> </div>
                     </div>
                 </div>
             </div>
@@ -165,12 +165,12 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/londons-airports/" class="fa fa-plane fa-5x" aria-hidden="true"></a></div>
+                    <div class="card-img"><a href="/de/blog/londoner-flughaefen/" class="fa fa-plane fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Londoner Flughäfen</h4>
 
                         <p class="card-text">Wie gelangst du am besten von den Flughäfen (Heathrow, Getwick, Luton und Stanstad) ins Zentrum?</p>
-                        <div class="card-btn"><a href="/blog/londons-airports/" class="btn btn-primary">Mehr Informationen</a></div>
+                        <div class="card-btn"><a href="/de/blog/londoner-flughaefen/" class="btn btn-primary">Mehr Informationen</a></div>
                     </div>
                 </div>
             </div>
