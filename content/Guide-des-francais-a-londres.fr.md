@@ -1,6 +1,7 @@
 +++
 title = "Guide des Français à Londres"
 banner = "franais-londres-2000x1236.jpg"
+og_image = "franais-londres-2000x1236.jpg"
 lead = "Dans nos conseils, on s’attache à être le plus objectif possible. Si un partenariat est engagé, nous le préciserons d'un [p]. Aidez-nous à être le plus informatif possible en partageant vos bonnes adresses ou astuces dans les commentaires."
 slug = "Guide-des-francais-a-londres"
 description = "Ce Guide est fait pour aider les Français à s'installer à Londres. On te conseille pour trouver un logement, trouver du travail, ouvrir un compte en banque etc..."
