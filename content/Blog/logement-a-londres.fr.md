@@ -38,6 +38,7 @@ Les résidences étudiantes sont nombreuses. Vous trouverez ci-dessous une liste
 * <a href="http://www.unitestudents.com/london">Unit Student</a>
 * <a href="https://www.chapter-living.com/">Chapter Living</a>
 * <a href="http://www.iqstudentaccommodation.com/student-accommodation/london">Iq Student Accommodations</a>
+* <a href="http://halls.london.ac.uk">University of London</a>
 
 ## Séjour supérieur à 14 Jours
 
