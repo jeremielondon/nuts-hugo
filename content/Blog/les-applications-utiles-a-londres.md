@@ -32,4 +32,9 @@ categories = ["Apps"]
 ## Find a job apps
 
 <li><strong><a href="https://syftapp.com/">Syft</a> / <a href="https://www.coople.com/uk/en/">Coople</a></strong>: These apps will be useful to you if you are looking for a job, whether permanent or short term, as a waiter, hostess, and many others, you will have plenty to choose from.</li>
+
+## Speak different languages and meet new people
+
+<li><strong><a href="https://www.tandem.net/">Tandem</a> : For expats looking for learning Sheakespeare's language and find an open-minded community.</li>
+<li><strong><a href="https://nutspubcrawl.com/">Nutspubcrawl</a> : For partiers, expats or not, looking for going out as agroup and meet a maximum of peopleand partying without ruin yourself.</li>
 </ul>
