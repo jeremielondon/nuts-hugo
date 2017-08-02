@@ -20,7 +20,7 @@ Um die richtige Gastfamilie zu finden, gibt es verschiedene Möglichkeiten. Ich 
 
 ##### 1. Facebook und ehemalige au Pairs
 
-Diese Methode ist die einfachste und zudem noch kostenlos. Du kannst die ehemaligen au Pairs der Famile kontaktieren, um ihre Meinung über die Familie zu erhalten. Zudem kannst du auf Facebook viele Gruppen finden, wie zum Beispiel: [French au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "french au pair london") oder [Spanish au pairs in London](https://www.facebook.com/groups/spanish.au.pairs.in.london/ "spanish au pairs in London"). In diesen Gruppen wirst du auf viele Anzeigen stoßen, in denen Familien auf der Suche nach au Pairs sind. Der Nachteil daran ist, dass viele junge Leute, genauso wie du, auf der Suche nach einer Gastfamilie sind. 
+Diese Methode ist die einfachste und zudem noch kostenlos. Du kannst die ehemaligen au Pairs der Famile kontaktieren, um ihre Meinung über die Familie zu erhalten. Zudem kannst du auf Facebook viele Gruppen finden, wie zum Beispiel: [German au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "German au pair in London") oder [German and Austrian au Pair](https://www.facebook.com/groups/german.and.austrian.au.pairs.in.london/ "German and Austrian au Pair") oder [Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London"). In diesen Gruppen wirst du auf viele Anzeigen stoßen, in denen Familien auf der Suche nach au Pairs sind. Der Nachteil daran ist, dass viele junge Leute, genauso wie du, auf der Suche nach einer Gastfamilie sind. 
 
 ##### 2. Spezialisierte Webseiten
 
