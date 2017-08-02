@@ -67,6 +67,9 @@ Wir organisieren ein kostenloses [international picnic](https://www.facebook.com
 
 ##### 1. Facebook
 Als au Pair kannst du Gruppen beitreten, wie: <ul><li>[German au pairs in London](https://www.facebook.com/groups/355858937850390/ "German au pairs") oder [Au pair in UK](https://www.facebook.com/groups/716305271740264/ "au pair in uk")</li>Diese Gruppen ermöglichen es dir mit anderen au Pairs in Kontakt zu treten und euch zu treffen. Du kannst aber auch andere Leute treffen, die keine au Pairs sind, in Gruppen wie: <li>[Meet People in London](https://www.facebook.com/groups/238555079536645/ "meet People in London") oder [International Social London](https://www.facebook.com/groups/665103393648869/ "International social London")</li>
+	<li>[Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London")</li>
+	
+	
 </ul>
 
 ##### 2. Agenturen
@@ -77,4 +80,4 @@ Den letzten Hinweis, den wir dir geben können ist, sei nicht schüchtern. Geh l
 
 Schreibe uns einen Kommentar, um deine Tipps und Erfahrungen mit uns zu teilen...
 
-[Laurie Selis](https://plus.google.com/113091421949162423553 " Laurie Selis")
+
