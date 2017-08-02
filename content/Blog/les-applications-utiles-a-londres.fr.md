@@ -37,5 +37,5 @@ temps en temps 😉</li>
 que serveur, hôtesse, et bien d’autre, vous aurez l’embarrât du choix.</li>
 </ul>
 ### App pour parler Anglais et faire des rencontres
-<a href="https://www.tandem.net/">Tandem</a> : Pour les étrangers désireux d'apprendre la langue de Shakespeare et de trouver une communauté ouverte d'esprit!
-<a href="https://nutspubcrawl.com/">NutsPubCrawl</a> : Pour les fêtards, étrangers ou non, souhaitant sortir en groupe afin de rencontrer un maximum de personnes et de faire la fête sans se ruiner !
+<li><strong><a href="https://www.tandem.net/">Tandem</a> : Pour les étrangers désireux d'apprendre la langue de Shakespeare et de trouver une communauté ouverte d'esprit!
+<li><strong><a href="https://nutspubcrawl.com/">NutsPubCrawl</a> : Pour les fêtards, étrangers ou non, souhaitant sortir en groupe afin de rencontrer un maximum de personnes et de faire la fête sans se ruiner !
