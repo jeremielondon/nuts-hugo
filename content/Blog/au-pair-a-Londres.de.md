@@ -1,82 +1,84 @@
 +++
 title = "Au Pairs in London"
 banner = "famille-au-pair.jpg"
-categories = ["london au pairs"]
-description = "How to find an au Pair familly in London? What are the contracts ? How to meet other au Pairs ?"
+categories = ["Au apirs in London"]
+description = "Au Pair Familie finden? Kontakte knüpfen? Andere Au Pairs treffen??"
 slug = "au-pairs-in-london"
 og_image = "/images/famille-au-pair.jpg"
 +++
 
-## Hello girls and guys !
+## Hallo Mädels und Jungs!
 
-<strong>As a former au pair, i know that it is usual to ask many questions about this kind of job. That’s why i’m going to try to answer it with objectivity and candor.</strong>
+<strong>Als ehemaliger au Pair weiß ich, dass es normal ist, dass man viele Fragen dazu hat. Deshalb versuche ich dir deine Fragen objektiv und offen zu beantworten.</strong>
 
-## What is an au pair?
+## Was ist ein au Pair?
 
-An au pair has to take care of children in a foreign family. In exchange, this family will nourish and host her/him and will make sure that the au pair feels integrated. This is an unique experience, which is very interesting and rewarding. Indeed, being an au pair means discovering new cultures and new languages. Thanks to the free time that you will have, you will be able to meet new people, visit new places..
+Ein au Pair muss auf die Kinder einer Familie im Ausland aufpassen. Im Gegenzug darfst du bei der Familie wohnen, bekommst Essen und Trinekn und wirst integriert. Es ist eine einzigartige Erfahrung, die sich in deinem späteren Leben auszahlen wird. Ein au Pair sein bedeutet auch, neue Kulturen kennenzulernen und neue Sprachen zu erlernen. Dank der freien Zeit, die du hast, wirst du viele neue Leute treffen und schöne Orte besichtigen..
 
-## How to find a family?
+## Wie findest du eine Gastfamilie?
 
-In order to find the perfect family for you, there is different ways. I’m going to present all of them to you by listing their benefits and their disadvantages (nobody’s perfect).
+Um die richtige Gastfamilie zu finden, gibt es verschiedene Möglichkeiten. Ich werde dir alle Möglichkeiten mit Vor- und Nachteilen aufzeigen (niemand ist perfekt).
 
-##### 1. The word of mouth
+##### 1. Facebook und ehemalige au Pairs
 
-This method is the easier and is totally free. It allows you to contact former au pairs of the family in order to have their opinion. Indeed, on Facebook, you can find a lot of pages/groups such as: [French au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "french au pair london") or [Spanish au pairs in London](https://www.facebook.com/groups/spanish.au.pairs.in.london/ "spanish au pairs in London"). On those pages/groups, you can find many people who post ads in order to find a new au pair for their host family. The major disadvantage is that it is hard to find a family because of the large number of young ladies or young gentlemen who postulate like you.
+Diese Methode ist die einfachste und zudem noch kostenlos. Du kannst die ehemaligen au Pairs der Famile kontaktieren, um ihre Meinung über die Familie zu erhalten. Zudem kannst du auf Facebook viele Gruppen finden, wie zum Beispiel: [German au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "German au pair in London") oder [German and Austrian au Pair](https://www.facebook.com/groups/german.and.austrian.au.pairs.in.london/ "German and Austrian au Pair") oder [Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London"). In diesen Gruppen wirst du auf viele Anzeigen stoßen, in denen Familien auf der Suche nach au Pairs sind. Der Nachteil daran ist, dass viele junge Leute, genauso wie du, auf der Suche nach einer Gastfamilie sind. 
 
-##### 2. Specialized websites
+##### 2. Spezialisierte Webseiten
 
-Among these we find the famous [au pair world](https://www.aupairworld.com/ "au pair world"). On it you will find many job offers from families around the world. You only have to create your profile and pick the family that you think suits you the most in order to contact them. You can also go to [Find Au Pair](https://www.findaupair.com/ "find an pair"). The benefits of this method are that it is easy to do by yourself and it is free. However, specialized websites mean less protections and safety. That is why it is necessary to pay attention to scams that can exist on the website (don’t give money to anyone, organize a first meeting in an open place..).
+Die bekannteste Webseite ist [au pair world](https://www.aupairworld.com/ "au pair world"). Auf dieser Seite wirst du viele Jobangebote aus der ganzen Welt finden. Du musst dir nur ein Profil erstellen und die Familie kontaktieren, bei der du denkst, dass sie zu dir passen könnte. Eine andere Homepage wäre [Find Au Pair](https://www.findaupair.com/ "find an pair"). Der Vorteil dieser Methode ist, dass du alles selbstständig machen kannst und es dabei noch kostenlos ist. Spezialisierte Webseiten können auch weniger Schutz und Sicherheit bedeuten. Deshalb solltest du auf Betrüger achten (gib nich jedem dein Geld und vereinbare das erste Treffen an öffentlichen Plätzen). 
 
-##### 3. Au pairs agencies
+##### 3. Au Pair Agenturen
 
-Those ones are specialized in the au pairs placement abroad. This method has many benefits. Indeed, thanks to it, you can be sure to find a trustful family who will not exploit you. In case of a placement in England for example, your agency will sign a contract with the english agency which will in its part signed a contract with a british family.  This brings security and comfort for the au pairs. Moreover, those agencies will follow you throughout your stay and you will be allowed to contact them if you have any issues. Obviously, all of this has a cost. Indeed, the prices are between £90 and £170 of investment expenses by agencies. Moreover, You will have to fill a lot of forms and folders which takes a bit of time. Finally, if you are keen in going with an agency we recommand to go for those linked to [IAPA](https://www.iapa.org/ "IAPA"). Other agencies might be not reliable.
+Deise Agenturen sind auf au Pair Vermittlungen spezialisiert. Diese Methode hat viele Vorteile. Du kannst dir sicher sein, dass du eine vertrauensvolle Familie findest, die dich nicht ausnutzen will. Im Fall, dass du nach England gehen willst, wird deine Agentur mit einer englischen Agenutr einen Vertrag abschließen und diese wiederum mit deiner Gastfamilie. Dadurch hast du mehr Sicherheit. Die Agentur wird dich während deines Aufenthaltes begleiten und im Notfall eingreifen. Diese Methode kostet allerdings zwischen 90€ und 170€ Bearbeitungsgebühren. Zudem musst du einige Formulare ausfüllen und das benötigt etwas Zeit. Wenn du dich für diese Methode entschieden hast, empfehlen wir dir folgende Agentur [IAPA](https://www.iapa.org/ "IAPA").
 
-You will find here some british agencies that I recommend:<ul>
+Hier findest du einige deutsche Agenturen:<ul>
 	<li>[Busybeeaupairs](http://www.busybeeaupairs.com/ "Busybeeaupairs")</li>
 	<li>[Heavenlyaupairs](https://www.heavenlyaupairs.com/ "Heavenlyaupairs")</li>
 	<li>[Childint](https://www.childint.co.uk/ "childint")</li>
 </ul>
 
-It is now up to you to find which method will suits you the best to find the perfect host family.
+Jetzt liegt es an dir die richtige Methode auszuwählen, um die perfekte Gastfamilie für dich zu finden.
 
 
-## What are the contracts?
-##### (Working conditions, wages, limits of the job...)
+## Was sind die Vertragsbedingungen?
+##### (Arbeitsbedingungen, Lohn, Grenzen der Arbeit...)
 <br>
 
-#### Types of au pairs
-Legally, there are no limits to the job of an au pair. However, you need to know how to differentiate 3 types of au pairs: <ul>
+#### Arten von au Pairs
+Normalerweise gibt es für die Aufgaben eines au Pairs keine Grenzen. Allerdigs solltest du wissen, dass man zwischen drei Arten von au Pairs unterscheidet: <ul>
 
-<li>“Usual au pairs”, who are working between 22h and 30h per week. In general, her/his duties will be divided between childcare and household (50/50), even if it depends of the host family and of the cultural habits of the country.</li>
-<li>“Au pairs plus”, who are working between 30h and 35h per week.</li>
-<li>“Mother’s help”, who are working more than 35h per week.</li> </ul>
+<li>“Gewöhnliche au Pairs", arbeiten zwischen 22 und 30 Stunden pro Woche. Üblicherweise ist die Arbeit hier geteilt in Kinderbetreuung und Haushalt (zu jeweils 50%). Das hängt auch von der gastfamilie und der Kultur des Landes ab.</li>
+<li>“Au Pair Plus", arbeiten zwischen 30 und 35 Stunden pro Woche.</li>
+<li>“Mother's help", arbeiten mehr als 35 Stunden pro Woche.</li> </ul>
 
-##### 1. Duties
-Regarding the duties that have to do the au pairs, those ones must be exclusively focused on the children. An au pair doesn’t have to take care of the parents’ stuffs normally. Moreover, even if few au pairs have to help in the household, they don’t need to become cleaning men/women.
+##### 1. Aufgaben
+Die Aufgaben eines au Pairs liegen zu einem großen Teil in der Kinderbetreuung. Erledigungen für die Eltern machen gehört üblicherweise nicht dazu. Jedoch müssen einige au Pairs im Haushalt mithelfen, aber sie sollten nicht zur Putzfrau/mann werden.
 
-##### 2. Wages
-Those ones depends of the family and of the type of au pair that you will be. The more hours you will be working, the more money you will earn. The average salary is approximately  100€ per week. This by counting the fact that you will be  accommodated and fed.
+##### 2. Lohn
+Die Bezahlung hängt von der Familie und von dem Aufgabenbereich des au Pairs ab. Je mehr Stunden du arbeitest, desto mehr Geld wirst du verdienen. Der Durchschnittsverdienst liegt bei ca 100€ pro Woche. Bedenke, dass du zudem noch eine Unterkunft hast und Essen bekommst.
 
-##### 3. Contracts lenght
-The duration of contracts also varies. It can be of only 1 or 2 months during summer holidays, of 6 months or of more than a year. You will have to define it with you future host family before accepting the job.
+##### 3. Vertragslänge
+Die Dauer des Vertrags ist unterschiedlich. Du kannst nur für 1-2 Monate bleiben z.B. über die Sommerferien, du kannst aber auch für 6 Monate bis hin zu einem jahr bleiben. Du musst dir also vorher im Klaren sein, wie lange du bleiben möchtest, bevor du einen Job bei einer Gastfamilie annimmst.
 
-With all of these information, you are now aware of almost everything and you will not have any issues for your au pair life.
+Mit all diesen Informationen bist du gut gerüstet und wirst keine Probleme als au Pair haben. 
 
-## How to meet au pairs or new people in London ?
-We organise an [international picnic](https://www.facebook.com/InternationalLondonPicnics/ "International picnic") join us it is free
+## Wie kannst du au Pairs oder neue Leute in London kennenlernen?
+Wir organisieren ein kostenloses [international picnic](https://www.facebook.com/InternationalLondonPicnics/ "International picnic"), zu dem jeder herzlich eingeladen ist.
 
 
-##### 1. On Facebook
-As an au pair, you can go on pages/groups like: <ul><li>[German au pairs in London](https://www.facebook.com/groups/355858937850390/ "German au pairs") or [Au pair in UK](https://www.facebook.com/groups/716305271740264/ "au pair in uk")</li>Those ones will allows you to meet other au pairs. You can also meet other people who are not au pairs with facebook pages/groups like: <li>[Meet People in London](https://www.facebook.com/groups/238555079536645/ "meet People in London") or [International Social London](https://www.facebook.com/groups/665103393648869/ "International social London")</li>
+##### 1. Facebook
+Als au Pair kannst du Gruppen beitreten, wie: <ul><li>[German au pairs in London](https://www.facebook.com/groups/355858937850390/ "German au pairs") oder [Au pair in UK](https://www.facebook.com/groups/716305271740264/ "au pair in uk")</li>Diese Gruppen ermöglichen es dir mit anderen au Pairs in Kontakt zu treten und euch zu treffen. Du kannst aber auch andere Leute treffen, die keine au Pairs sind, in Gruppen wie: <li>[Meet People in London](https://www.facebook.com/groups/238555079536645/ "meet People in London") oder [International Social London](https://www.facebook.com/groups/665103393648869/ "International social London")</li>
+	<li>[Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London")</li>
+	
+	
 </ul>
 
-##### 2.	Agencies
-Next, if you decide to use an agency, you must know that some of them will give you a password that  will allows you to login on a website that register [all of the au pairs living in the same area as you](http://www.aupairfriends.com/masterpage.asp?token=&content=0 "au pairs in the same area").Get informed and ask to your agency if it has set up such a system.
+##### 2. Agenturen
+Wenn du dich dafür entscheidest dich über eine Agentur anzumelden, dann musst du wissen, dass du dort ein Passwort erhältst, mit dem du dich auf der Webseite anmelden kannst und [alle au Pairs sehen kannst, die in deiner Nähe leben](http://www.aupairfriends.com/masterpage.asp?token=&content=0 "au pairs in the same area"). Frage am besten bei deiner Agentur nach, ob sie solch ein System besitzen.
 
-The last but not least advice that I can give you is, don't be shy. Go and meet other au pairs. They are in the exact same situation as you and they want to meet people too.
-It is a really rewarding experience and you will remember it for decades. Go for it, you will not be disappointed. 
+Den letzten Hinweis, den wir dir geben können ist, sei nicht schüchtern. Geh los und treffe andere au Pairs. Die anderen au Pairs sind in der selben Situation, wie du und wollen auch andere Leute treffen und kennenlernen. Du wirst eine unglaubliche Erfahrung als au Pair machen, an die du dich Jahre später noch zurückerinnern wirst. Also wage es und du wirst nicht enttäuscht werden. 
 
 
-Feel free to comment and share your tips and experiences...
+Schreibe uns einen Kommentar, um deine Tipps und Erfahrungen mit uns zu teilen...
 
-[Laurie Selis](https://plus.google.com/113091421949162423553 " Laurie Selis")
+
