@@ -1,21 +1,21 @@
 ﻿+++
-title = "National Insurance Number"
+title = "Nationale Versicherungsnummer"
 banner = "ninc-2000x1116.png"
-description = ""
-categories = ["National Insurance","Administration"]
+description = "Was ist das? Wie erfolgt die Registrierung? Wie lange dauert es, wir verraten es dir."
+categories = ["Nationale Versicherungsnummer","Administration"]
 +++
 
-# The NIN, what’s that about...?
+# Worum handelt es sich bei der nationalen Versicherungsnummer...?
 
-<strong>The National Insurance Number, equivalent to our French social security, will allow you to work in England, it will be asked of you automatically and is essential. As always the steps vary depending on the case, and here it depends on whether you already have a job or are still looking. A little more explanation?</strong>
+<strong>Die nationale Versicherungsnummer ist gleichwertig mit der deutschen Sozialversicherung. Sie ist notwendig um hier arbeiten zu können und wird automatisch mit abgefragt. Die weiteren Schritte hängen davon ab, ob du schon einen Job hast oder noch auf der Jobsuche bist. Benötigst du eine genauere Erklärung? </strong>
 
-## I have a job!
-We'll start with the lucky ones who have already found a job. In some companies, you only have to fill out a form and send it to your employer, who will take care of the procedure for you, then you will receive your NIN by post.
+## Ich habe einen Job!
+Ok, fangen wir mit denen an, die bereits einen Job gefunden haben. In manchen Betrieben musst du lediglich ein Formular ausfüllen, welches dann zu deinem Arbeitgeber gesendet wird. Dieser wird dann alles Weitere für dich regeln und du bekommst deine Versicherungsnummer per Post zugeschickt.
 
-## Not me...
+## Ich hab noch keinen Job!
 
-If you have to do it, we’re in the same situation as those <em><strong>looking for a job</strong></em>, you need to call 0345 600 0643 (the service is available from Monday to Friday between 8 am and 6 pm) explaining the reason for your call, and you will get an appointment where you will still need documents... <em><strong>Passport</strong></em> or identity card, proof of residence (a <a href="/blog/housing-in-london/">youth hostel address</a> for example), the meeting request and a new one, proof that you are looking for a job. This can be letters from recruitment agencies if you have registered with them, letters of refusal... All this is in theory, they sometimes only require a piece of ID.
+Wenn du noch <em><strong>auf der Suche nach einem Job</strong></em>bist, musst du folgende Nummer anrufen +44 (0)345 600 0643 (erreichbar immer Montag bis Freitag von 8.00-16.00 Uhr) und den Grund für deinen Anruf erklären. Danach wirst du dann einen Termin bekommen, zu dem du deinen  <em><strong>Reisepass</strong></em> oder Personalausweis, deine Adresse (a <a href="/blog/housing-in-london/">z.B. einer Jugendherberge</a>), Bestätigung des Termins und einen Beweis, dass du dich auf Jobsuche befindest, mitbringen musst. Das könnte z.B. Papiere einer Agentur sein, die Arbeiter vermittelt oder eine Ablehnung einer Bewerbung. Es kann jedoch auch passieren, dass du nur deinen Ausweis vorlegen musst.
 
-You will be asked a few questions like "why do you want a NIN?", you will fill out a questionnaire with the supporting documents and that’s it. Within a few weeks you will receive your National Insurance Number, and then later your personal card.
+Es werden dir auch ein paar Fragen gestellt, z.B. "Warum möchtest du eine nationale Versicherungsnummer?". Du füllst diesen Fragebogen einfach mit Hilfe deiner Unterlagen aus und gibst ihn ab. Nach ein paar Wochen erhältst du dann eine nationale Versicherungsnummer und später auch noch deine persönliche Karte.
 
-Then you’re good to go, you can then pick up the phone and call to set up your meetings! If you have any questions or things to add to this article, add a comment!
+Dann hast du es geschafft und kannst nun auf Jobsuche gehen und Bewerbungsgespräche vereinbaren. Wenn du noch weitere Fragen oder Anregungen zum Artikel hast, dann hinterlasse uns einfach einen Kommentar!
