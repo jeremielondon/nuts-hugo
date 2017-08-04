@@ -1,8 +1,8 @@
 ﻿+++
-title = "About"
+title = "Über uns"
 banner = "london-nuts-pub-crawl-t10093-2-2000x1333.jpg"
 slug = "ueber-uns"
-description = "What is a London pub crawl?"
+description = "Was ist ein Londoner pub crawl?"
 keywords = ["pub crawl London","nuts pub crawl"]
 +++
 
