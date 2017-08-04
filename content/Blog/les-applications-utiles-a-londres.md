@@ -36,5 +36,4 @@ categories = ["Apps"]
 ## Speak different languages and meet new people
 
 <li><strong><a href="https://www.tandem.net/">Tandem</a> : For expats looking for learning Sheakespeare's language and find an open-minded community.</li>
-<li><strong><a href="https://nutspubcrawl.com/">Nutspubcrawl</a> : For partiers, expats or not, looking for going out as agroup and meet a maximum of peopleand partying without ruin yourself.</li>
-</ul>
+
