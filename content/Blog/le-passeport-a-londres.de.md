@@ -2,7 +2,7 @@
 title = "Reisepass in London"
 banner = "passeport-2000x1500.jpg"
 categories = ["Passports","Administration"]
-description = ""
+description = "Was ist zu tun? Wie lange dauert es und welche Dokumente müssen bei der Ankunft gezeigt werden?"
 slug = "Reisepass-in-london"
 +++
 
