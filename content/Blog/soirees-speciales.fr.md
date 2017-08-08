@@ -7,7 +7,7 @@ categories = ["faire la Fete"]
 
 <div class="row">
   <div class="col-md-6">
-  <img src="/images/tropicana.jpg" class="img-responsive" alt="Party" "style="max-height="auto" width="100%";>
+  <img src="/images/tropicana.jpg" class="img-responsive" alt="Party">
 
   <img src="">
   </div>
@@ -43,13 +43,12 @@ N'oubliez pas votre pièce d'identité! 18+
 
 <div class="row">
   <div class="col-md-6">
-  <img src="/images/boat-party.jpg" class="img-responsive" alt="Boat Party" "style="max-height="auto" width="100%";>
+  <img src="/images/boat-party.jpg" class="img-responsive" alt="Boat Party">
 <br>
 <br>
 <br>
 <br>
 
-  <img src="">
   </div>
   <div class="col-md-6">
 
@@ -70,9 +69,8 @@ N'oubliez pas votre pièce d'identité! 18+ <br>
 
 <div class="row">
   <div class="col-md-6">
-  <img src="/images/cafe-paris.jpg" class="img-responsive" alt="Tropicana " "style="max-height="auto" width="100%";>
+  <img src="/images/cafe-paris.jpg" class="img-responsive" alt="Tropicana">
 
-  <img src="">
   </div>
   <div class="col-md-6">
 

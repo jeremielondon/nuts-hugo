@@ -14,7 +14,7 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
               <div class="card cart-block">
-                  <div class="card-img"><a href="/blog/housing-in-london/" class="fa fa-home fa-5x" style="color: rgb(250, 197, 28);"></a></div>
+                  <div class="card-img"><a href="/de/blog/unterkünfte-in-london/" class="fa fa-home fa-5x" style="color: rgb(250, 197, 28);"></a></div>
                   <div class="card-block">
                     <h4 class="card-title">Unterkünfte in London</h4>
                     <p class="card-text">Wir haben eine große Anzahl an Seiten, Organisationen und einige Tipps gesammelt, die dir       helfen, eine Unterkunft zu finden&nbsp;</p>
@@ -26,12 +26,12 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/passports-in-london/" class="fa fa-id-card-o fa-5x" aria-hidden="true""></a></div>
+                    <div class="card-img"><a href="/de/blog/reisepass-in-london/" class="fa fa-id-card-o fa-5x" aria-hidden="true""></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Reisepass</h4>
 
                         <p class="card-text">Was ist zu tun? Wie lange dauert es und welche Dokumente müssen bei der Ankunft gezeigt                                werden?</p>
-                        <div class="card-btn"><a href="/blog/passports-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
+                        <div class="card-btn"><a href="/de/blog/reisepass-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
                     </div>
                 </div>
             </div>
