@@ -1,44 +1,48 @@
 ﻿+++
-title = "Opening a bank account in London"
+title = "Ein Bankkonto in London eröffnen"
 banner = "london-bank-2000x1500.jpg"
-description = ""
-slug = "opening-a-bank-account-in-london"
+description = "Anlaufstellen, ein Konto eröffnen, Geld überweisen; diese Fragen beantworten wir hier..."
+slug = "ein-bankkonto-in-london-eröffnen"
 categories = ["Administration","Banking"]
 +++
 
 
 
-## Why?
+## Warum?
 
-You will need to open a bank account here, especially if your French bank takes commissions for every withdrawal/payment (inquire before departure), but also to be able to receive your salary. The procedures differ by bank, online or traditional, if you begin the paperwork before departure or in person... In short, here are some pointers that will certainly clear things up for you. 
+Du bist gezwungen im Vereinigten Königreich ein eigenes Bankkonto zu eröffnen, da die Deutschen Banken für jede Bezahlung mit deiner Karte oder beim abheben von Geld Gebühren verlangen (erkundige dich vor deiner Abreise darüber). Außerdem ist es notwendig, damit dir dein Gehalt überwiesen werden kann. Die Prozedur kann online oder in traditioneller Form, vor dem Beginn deiner Reise oder persönlich erfolgen, das ist von Bank zu Bank unterschiedlich. Kurz gesagt, hier findest du ein paar hilfreiche Tipps, die dir diese Prozedur verständlich erläutern.
 
-## Where?
+## Wo?
 
-First, opening your account remotely is possible, you can start this type of approach with your French bank. This service can be paid for, it depends on your client status.
+Du kannst dein Bankkonto auch von zu Hause eröffnen, setze dich dafür mit deiner Bank in Deutschland in Verbindung, diese hilft dir dabei. Es kann allerdings sein, dass deine Bank hierfür zusätzliche Kosten erhebt. 
 
-Whether you do it in person or from France, your methods of payment will not be sent directly to you, most banks need a period of time to approve them for you. You will initially have a free debit card. Once you evidence a job and enough resources, depending on the bank, you will get your credit card. Credit cards can be interesting for purchases, as it increases your credit rating, therefore your borrowing capacity.
+Wenn du es von Deutschland aus oder persönlich regelst, dann kannst du nicht sofort im Vereinigten Königreich bezahlen, da die meisten Banken erst eine Gewisse Zeit für deine Genehmigung benötigen. Du wirst zum Anfang eine kostenlose Kundenkarte erhalten. Als erstes musst du beweisen, dass du einen Job hast und genug Rücklagen besitzt, und je nach Bank erhältst du dann eine Kreditkarte. Kreditkarten sind interessant für Einkäufe. Dadurch, dass sie deine Kreditrate erhöhen, solltest du dir Vermögen von deiner Bank leihen (Kredit aufnehmen).
 
-The bank requesting the least documentation is <a href="https://www.lloydsbank.com/online-banking/home.asp">Lloyds</a>, they have branches all over London. 
+Die Bank mit den geringsten Anforderungen ist <a href="https://www.lloydsbank.com/online-banking/home.asp">Lloyds</a>. Diese hat mehrere Standorte in ganz London.
 
-## What are the supporting documents?
+## Welches sind die wichtigsten Dokumente?
 
-Identity card or <a href="/blog/passports-in-london/">valid passport</a>. A proof of residence, such as a bill for gas, electricity ("utility bill"), this is what must be arranged in advance, because if you move, you risk not having this type of documents on your arrival and this will block the process of obtaining a UK account.
+Du benötigst deinen Personalausweis oder einen gültigen Reisepass (<a href="/blog/passports-in-london/">valid passport</a>). Außerdem musst du einen Aufenthaltsnachweis erbringen, wie eine Gas- oder Stromrechnung. Dies musst du vor dem Antritt deiner Reise erledigen, da es sonst sein kann, dass du diese Dokumente nicht bei dir hast und somit die Eröffnung deines Bankkontos gestoppt wird. 
 
-You can also ask for a letter from your bank in France, it is not a mandatory document but it can allow you to speed up the procedure if the information works in to your advantage (if you are often in your overdraft it won’t work as well...).
+Du kannst deine Bank in Deutschland auch fragen, ob sie dir ein Formular ausstellen, dieses kann die ganze Prozedur etwas
+beschleunigen, wenn das Formular einen Vorteil für dich darstellt (wenn du dein Konto nicht überzogen hast).
 
-For students you can ask for a letter from your school. Workers can use a contract of employment and finally you will often be asked for a sort of “reference" that may come from a British resident, your employer, colleague, who will recommend you . These latter documents are not always requested, it depends on the bank and their requirements. 
+Als Student oder Schüler, frage am besten in der Schule nach einem geeigneten Formular. Als Arbeitnehmer musst du deinen
+Arbeitsvertrag vorzeigen und ein Referenzschreiben, in welchem dich ein Kollege oder dein Arbeitgeber aus dem Vereinigten Königreich empfiehlt. Dieses Schreiben wird nicht immer verlangt, dies ist von Bank zu Bank unterschiedlich. 
 
-Finally, do not forget to declare your account to the tax administration, this will avoid a fine of several thousand euros, or expenses in case of regularisation. For more information on this subject, <a href="https://www.impots.gouv.fr/portail/">this is the government site</a>. 
+Zum Schluss, darfst du nicht vergessen, dein Konto bei der Steuerverwaltung anzugeben, denn so vermeidest du eine Geldstrafe von mehreren tausend Euro. Für mehr Informationen, klicke auf den Link <a href="https://www.impots.gouv.fr/portail/"></a>. 
 
-## How to make bank transfers in the UK?
+## Wie mache ich eine Banküberweisung in das Vereinigte Königreich?
 
-To transfer your money, we recommend several solutions:
+Um dein Geld zu überweisen, hast du mehrere Möglichkeiten:
 <ul>
-<li><a href="https://www.westernunion.com/fr/fr/accueil.html">Western Union</a> is an interesting option if you want to get your money back in cash. They have sales outlets all over London.</li>
-<li><a href="https://azimo.com/fr/">Azimo</a>, <a href="https://transferwise.com/">Transferwise</a> and <a href="https://www.currencyfair.com/?channel=RL6G71">Currencyfair</a>
+<li><a href="https://www.westernunion.com/fr/fr/accueil.html">Western Union</a> ist eine gute Option, wenn du dein Geld in Bar ausgezahlt haben möchtest. Western Union hat in ganz London Geschäftsstellen.</li>
+<li><a href="https://azimo.com/fr/">Azimo</a>, <a href="https://transferwise.com/">Transferwise</a> und <a href="https://www.currencyfair.com/?channel=RL6G71">Currencyfair</a>
 
-These are companies that provide the same service, namely transferring money. Their sites are simple, secure and fast. It is possible to transfer money, other than with your bank. We have used Transferwise and Azimo and the transaction is approved. We have a preference for Transferwise which has a responsive and operational customer service by phone.</li>
-<li><a href="https://revolut.com/">Revolut</a> is an app that allows you to manage your money and also to make transfers abroad. It works much like a wallet. The app lets you register your debit/credit cards in order to pay with your phone, to see the payments made. This may be a good solution, when you arrive, it will give you time to open a real bank account later if you wish. </li>
+Dies sind Unternehmen, die denselben Service anbieten, nämlich die Überweisung von Geld. Ihre Standorte sind schlicht, sicher und schnell. Es ist möglich das Geld zu überweisen, anders als bei deiner Bank. Wir selber nutzten Transferwise und Azimo und die Transaktion wurde genehmigt. Wir empfehlen dir Transferwise, da sie einen ansprechenden und betriebsbereiten Telefonservice haben. </li>
+
+
+<li><a href="https://revolut.com/">Revolut</a> ist eine App, die es dir erlaubt dein Geld zu managen und auch ins Ausland zu überweisen. Es funktioniert wie eine Brieftasche. Du meldest dich bei der App mit deiner Kreditkarte an und kannst dann immer per Telefon bezahlen. Die App ist eine gute Lösung, wenn du in London ankommst, denn so verschaffst du dir Zeit um später ein richtiges Bankkonto zu eröffnen. </li>
 </ul>
 
-You are now completely ready and can open a bank account in the UK, so do not hesitate to leave us a comment or any questions or add any information you want to! 
+Du bist nun in der Lage ein Bankkonto im Vereinigten Königreich zu eröffnen. Wenn du Fragen oder Anregungen hast, dann zögere nicht uns einen Kommentar zu hinterlassen. 
