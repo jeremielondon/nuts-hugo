@@ -1,35 +1,36 @@
 ﻿+++
-title = "Useful apps to download in London"
+title = "Nützliche Apps für London"
 banner="apps-2000x1128.jpg"
-description = ""
-slug = "useful-apps-in-london"
+description = "Die besten Apps, um sich in London zurecht zu finden, Ideen für Aktivitäten, Restaurants, Veranstaltungen, etc..."
+slug = "nützliche-apps-für-london"
 categories = ["Apps"]
 +++
 
-<strong>Arriving in the most densely populated capital of Europe, you have to adapt, so we’ve put together a top list of essential apps to have to hand when settling in London.</strong>
+<strong>Angekommen in der dichtbesiedeltsten Hauptstadt Europas, musst du dich erst einmal zurechtfinden. Dafür haben wir dir eine Liste der hilfreichsten Apps zusammengestellt.</strong>
 
-## Find your way Apps
-<li><strong><a href="https://citymapper.com/london">CityMapper:</a></strong> To know where you are going, you could use the GPS already installed on your phone, but when you start to use it, you will understand. For all your journeys, the app calculates the optimal route for you, depending on your preferences. If you prefer to travel only by bus, underground, or even by Uber (the app gives you the fare). The app is updated throughout the day, so you are notified if there is a problem on your transport line, if there are delays etc. Finally, an option even allows you to choose the route that will be most sheltered in bad weather. The app is very user-friendly, easy to handle and practical. To use it is to adopt it.</li>
-<li><strong><a href="https://itunes.apple.com/gb/app/tube-map-london-underground-routes/id320969612?mt=8">Tube Map:</a></strong> An app to use in addition to Citymapper. The underground map is available to you wherever you are, even when you don’t have internet access. You’ll also have access to the night underground map (note: they only run on weekends).</li>
+## Navigations Apps
+<li><strong><a href="https://citymapper.com/london">CityMapper:</a></strong> Um zu wissen, wohin du möchtest, musst du zunächst dein GPS anschalten. Je nach Wahl, ob du mit Bus, Bahn oder U-Bahn fahren möchtest (dies kannst du in der App auswählen), findet die App die optimale Route für dich. Die App ist immer auf den neuesten Stand, du wirst also benachrichtigt, wenn es auf deiner Strecke Probleme z.B. Verspätungen gibt. Ein weitere Option ist, dass du bei schlchtem Wetter die am meisten geschützte Route wählen kannst. Diese App ist sehr nutzerfreundlich, einfach zu bedienen und praktisch. </li>
+<li><strong><a href="https://itunes.apple.com/gb/app/tube-map-london-underground-routes/id320969612?mt=8">Tube Map:</a></strong> Tube Map ist eine App, die du zusätzlich zu CityMapper nutzen kannst. Du kannst die U-Bahn Karte immer auf deinem Handy
+nutzen, auch wenn du keinen Internetempfang hast. Außerdem kannst du auch die Nacht U-Bahn Karte nutzen (diese fährt nur am Wochenende).</li>
 
-## Transfer your money apps
+## Apps für den Geldtransfer
 
-<li><strong><a href="http://www.xe.com/apps/android/">Currency:</a></strong> To convert your currency wherever you are, with current exchange rates.</li>
-<li>[révolut](https://revolut.com/ "Revolut") helps you to open an account, transfer you money it is nice an easy like we like ;)</li>
+<li><strong><a href="http://www.xe.com/apps/android/">Currency:</a></strong> Ermöglicht dir die Umwandlung deines Geldes, wo auch immer du gerade bist, zu den aktuellen Kursen.</li>
+<li> [révolut](https://revolut.com/ "Revolut") hilft dir bei der Eröffnung deines Kontos und der Überweisung deines Geldes. Es ist sehr einfach zu bedienen, genau wie wir es mögen </li>
 
-## Food apps
+## Ernährungs App
 
 <li><strong><a href="https://www.ubereats.com/en/london/">Uber Eats</a>
-<a href="https://deliveroo.co.uk/">Deliveroo</a></strong>: Tired of pasta or just too lazy to cook but you want to stay in? We have the solution! Home delivery, but not just the local pizzeria: Chinese, Asian, Italian, anything you want, your happiness is in these apps!</li>
-<li><strong><a href="https://get.uber.com/">Uber:</a></strong> The underground’s finished, you’re in a hurry or you just like the comfort of a car, the Uber app will be useful. In addition, no need to run all over to find one, the Uber comes to pick you up at the meeting point you set. Convenient, no?</li>
+<a href="https://deliveroo.co.uk/">Deliveroo</a></strong>: Keine Lust mehr auf Nudeln oder einfach zu faul zum kochen, aber du möchtest nicht raus gehen? Dann haben wir genau das richtige für dich! Dieser Lieferdienst bietet nicht nur locale Pizzarien an, sondern auch chinesisches, asiatisches, italienisches Essen und alles weiter was dein Herz begehrt.</li>
+<li><strong><a href="https://get.uber.com/">Uber:</a></strong> Du hast keine Lust mit der U-Bahn zu fahren, bist in Eile, oder magst den Komfort des Autos? Dann ist diese App genau das richtige für dich! Zudem musst du nicht mehr überall nach der richtigen U-Bahnstation suchen. Uber holt dich einfach am vereinbarten Treffpunkt ab.</li>
 
-## Things to do apps
+## Apps für Aktivitäten
 
-<li><strong><a href="https://www.feverup.com/things-to-do/london/">Fever</a> / <a href="https://www.dojoapp.co/">Dojo</a> / <a href="https://yplanapp.com/">Yplan</a></strong>: These apps will let you find activities to do around you. Sorted by categories, you will inevitably find what you want, be it for eating, going out, entertaining yourself, all throughout the day, often with discounts, so don’t hesitate to take a look every now and then.</li>
+<li><strong><a href="https://www.feverup.com/things-to-do/london/">Fever</a> / <a href="https://www.dojoapp.co/">Dojo</a> / <a href="https://yplanapp.com/">Yplan</a></strong>: Diese App zeigt dir alle Aktivitäten an, die du in deiner Umgebung machen kannst. Du wirst bestimmt das richtige für dich finden, sei es essen gehen, ausgehen oder verschiedene Unterhaltungsmöglichkeiten. Oft findest du dort gute Angebote, also zögere nicht und lade dir die App runter.</li>
 
-<li> By the way, if you don't know where to spend your night, take a look at <a href="https://https://nutspubcrawl.com/">NutsPubCrawl</a>. You will meet new people, maybe some foreigners, and you can chill and take a beer with the guides ! It's cheap, it's fresh, it's good.</li>
+<li> Übrigens, wenn du noch keine Pläne für den Abend hast, dann schaue dir <a href="https://https://nutspubcrawl.com/">NutsPubCrawl</a> an. Du wirst neue Leute aus der ganzen Welt kennenlernen und kannst in netter Gesellschaft das ein oder andere Bier trinken. Getreu dem Motto, “it`s ceap, it`s fresh, it`s good”. </li>
 
 ## Find a job apps
 
-<li><strong><a href="https://syftapp.com/">Syft</a> / <a href="https://www.coople.com/uk/en/">Coople</a></strong>: These apps will be useful to you if you are looking for a job, whether permanent or short term, as a waiter, hostess, and many others, you will have plenty to choose from.</li>
+<li><strong><a href="https://syftapp.com/">Syft</a> / <a href="https://www.coople.com/uk/en/">Coople</a></strong>: Diese Apps helfen dir dabei, wenn du auf der Suche nach einem Job bist, egal ob lang- oder kurzfristig, ob als Bedienung, Verkäuferin oder etwas anderes. Hier hast du eine große Auswahl und wirst bestimmt fündig.</li>
 </ul>
