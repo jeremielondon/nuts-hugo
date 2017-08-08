@@ -1,62 +1,60 @@
 +++
-title ="Party in London"
+title ="Feiern gehen in London"
 banner = "london-party.jpg"
-description ="Where to party? Good deals, you will find all recommended spots and cool venues to enjoy London by night..."
-categories = ["Party in London"]
-slug = "party-in-london"
+description ="Wo steigt die Party? Gute Angebote, beliebte Orte und die angesagtesten Clubs, um sich in London bei Nacht zu vergnügen..."
+categories = ["Feiern gehen in London"]
+slug = "Feiern-gehen-in-london"
 +++
 
 
-The city of London is known to be very expensive, whether it be the price of housing or access to the various clubs called "trendy". We are going to tell you about the most friendly and good-value places, and then we'll talk a bit more about the clubs in some of the most famous neighborhoods of the capital such as Soho, Brixton and Shoreditch.
+London ist als eine sehr teure Stadt bekannt, sei es durch die Mietpreise oder der Eintritt zu den angesagtesten Clubs. In diesem Artikel wirst du mehr über beliebte Plätze und bekannte Clubs rund um die Hauptstadt erfahren.
 
 
 # Leicester Square / Piccadilly
-### good deals
+### Gute Angebote
 
-It is sometimes difficult to get out in the capital when there is a lack of money, so I have listed for you the best plans to enjoy the nightlife that London is famous for !
+Manchmal ist es schwierig in der Hauptstadt aus zu gehen, wenn man kein Geld hat. Wir haben dir hier eine Liste erstellt, wie dies trotzdem möglich ist!
 
--	[Lost in London](http://lostinlondon.com/ "Lost in London") offers many discounts on evenings, attractions or museums. It is very convenient when looking for a place to go out. As an example, an entrance for one of London's best-known boxes, the Ministry of Sounds, is offered at £8. Usual prices often goes between £15/25. However, the prices of these places are dated, so it will require a minimum of organization and sometimes even a little patience because the tickets purchased are sometimes usable for a day in the following month.
+-	[Lost in London](http://lostinlondon.com/ "Lost in London") bietet dir viele günstigte Abendprogramme, Attraktionen und Museen an. Als Beispiel kostet der Eintritt zu Ministry of Sounds normalerweise zwischen £15 und £25, auf dieser Seite nur £8.
 
--	To party in different clubs in one night, [Nuts Pub Crawl](https://nutspubcrawl.com/ "Nuts Pub Crawl") focused on many trendy/busy bars around Leicester Square and Piccadilly Circus. The idea is to party in 4 clubs during one night. £10 discounted online tickets provide you the entry fees, discounted drinks, free shots.
-
-
+-	Verschiedene Clubs in einer Nacht besuchen. [Nuts Pub Crawl](https://nutspubcrawl.com/ "Nuts Pub Crawl") organisiert dir einen Abend in den angesagtesten Clubs rund um den Leicester Square und den Piccadilly Circus. Du wirst vier Clubs in einer Nacht besuchen. Der Ticketpreis online ist £8 und beinhaltet den Eintritt, Preisermäßigungen zu ausgewählten Getränken und freie Shots
 
 
-# Places to go out  “trendy“
+# Angesagte Plätze
 
 ### Soho
-is in the tourist heart of London, located on the west side, this area is known for its important tourist attractions day and night, on the part of the various present monuments like the Charles II statue but also and especially many bars like:
+Befindet sich im Herzen der Touristenattraktionen im Westen Londons. Bei Tag und Nacht kann man hier sowohl Denkmäler besichtigen wie, die von Charles II, als auch viele verschiedene Bars besuchen, wie: 
 
 
--	[The French House](http://www.frenchhousesoho.com/ "The French House") ", former place of French resistance during World War II, there is a rather convivial atmosphere, this pub is as much appreciated by locals as tourists! It is open from 12:00 to 23:00 (except Sunday, closing at 22:30)
+-	[The French House](http://www.frenchhousesoho.com/ "The French House") ", befindet sich auf dem ehemaligen Platz des französischen Widerstandes während des zweiten Weltkrieges. In diesem Pub herrscht eine sehr gemütliche Stimmung und wird von sowohl Einheimischen als auch von Touristen gerne besucht. Das Lokal hat jeden Tag von 12:00 Uhr bis 23:00 Uhr geöffnet (außer Sonntags nur bis 22:30 Uhr)
 
--	 [The American Bar](http://www.fairmont.com/savoy-london/dining/americanbar/ "The American Bar"), it is known to offer about forty homemade coktails, the latter cost about £15. It's a pretty cozy place, perfect if you want to savor its cocktail without having to undergo commercial music.
+-	 [The American Bar](http://www.fairmont.com/savoy-london/dining/americanbar/ "The American Bar"), ist bekannt für seine 40 selbstgemachten Cocktails, die ca £15 kosten. Es ist eine sehr gemütliche Bar, in der man seinen Cocktail genießen kann.   
 
--	 [Aqua Spirit](http://aquaspirit.co.uk/ "Aqua Spirit"), also offers many cocktails but it is best known for having a rooftop, nice when the weather is good or when you just want to enjoy the panorama that offers this terrace in elevation.
+-	 [Aqua Spirit](http://aquaspirit.co.uk/ "Aqua Spirit"), bietet dir auch viele Cocktails, ist allerdings für die Dachterrasse bekannt. Diese Bar ist bei gutem Wetter sehr geeignet oder wenn du einfach nur den Ausblick genießen willst.
 
 ### Brixton
-a former malfamous district of the 80s, is now known for its bars and nightclubs, which make this place the new trendy place of the capital! You can find:
+ist ein berühmter Stadtteil aus den 80ern. Brixton ist für seine Bars und Clubs bekannt, welches den Stadtteil zu einem neuen, angesagten Platz in der Hauptstadt macht. Dort findest du unter anderem:
 
-- [Fridge Bar](http://www.fridge.co.uk/ "Fridge Bar") a new kind of nightclub offering depending of the night, some retro, R 'n' B, techno, or hip-hop.
+- [Fridge Bar](http://www.fridge.co.uk/ "Fridge Bar") ist eine Disco. Die Musikrichtung ist abhängig von der Veranstaltung (Retro, Techno, Hip-Hop oder R 'n' B).
 
-- [Brixton O2 Academy](https://www.academymusicgroup.com/o2academybrixton/ "Brixton O2 Academy") mainly centered on funk, rap and rock, this place has a casino capacity of 5000 people and is known to be one of the busiest places in South London.
+- [Brixton O2 Academy](https://www.academymusicgroup.com/o2academybrixton/ "Brixton O2 Academy") ist auf Funk, Rap und Rock fokussiert. Es hat ein Casino in das ca. 5000 Menschen passen und ist eines der belebtesten Plätze im Süden Londons. 
 
 ### Shoreditch
-Is becoming the reference point for London nights, this district of East London is getting more and more fashionable for all generations thanks to venues like:
+wird immer mehr zum Treffpunkt, wenn es ums Feiern gehen geht. Der Stadtteil im Osten von London wird von folgenden Bars und Clubs geprägt:
 
--	 [The Callooh Callay](http://www.calloohcallaybar.com/ "The callooh Callay"), is a popular venue for cocktail lovers (£6 to £9), the bar has won in 2012 the award for the best "Coktail Menu" in the world, just saying.
+-	 [The Callooh Callay](http://www.calloohcallaybar.com/ "The callooh Callay"), ist bekannt für seine Cocktails (£6 bis £9). 2012 hat die Bar eine Auszeichnung erhalten, für das beste „Cocktail Menü“ auf der ganzen Welt.
 
--	[333 Mother](http://www.333oldstreet.com/ "333 Mother"), DJ on the floor with the bar and a club in the basement proposing electro, funk, soul and hip-hop, what better to enjoy the end of the week ?
+-	[333 Mother](http://www.333oldstreet.com/ "333 Mother"), hat einen DJ, der in der Bar für Unterhaltung sorgt und einen Club im Keller des Gebäudes. Wie könnte man das Ende der Woche besser ausklingen lassen als mit Elektro Musik, Funk, Soul und Hip-Hop?
 
-- [The Shoreditch](http://theshoreditch-london.co.uk/ "The Shoreditch" ) between its various musical animations, its weekend DJs and the huge variety in music genres (80's, 90's, house, Disco...) Time will goes in the blink of an eye! Good to know, entries are free on Friday and Saturday until 10pm, however, better to think to book.
+- [The Shoreditch](http://theshoreditch-london.co.uk/ "The Shoreditch" ) ist bekannt für die vielfältige Musik (80er, 90er, Disco,..) und die DJs am Wochenende. Die Zeit verfliegt wie im Nu! Dabei ist es gut zu wissen, dass der Eintritt Freitags und Samstags bis 22:00 Uhr frei ist.
 
 
-# Language exchanges and Meetups...
+# Sprachen austauschen und Menschen treffen...
 
-Meet people from all around the world -
+Treffe Menschen aus der ganzen Welt!
 
-In Leicester Square, specifically at [the zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), begins the [NutsPubCrawl](https://nutspubcrawl.com/ "NutsPubCrawl")  This event facilitates meetings between foreigners from all around the world and English people. The Pub Crawl starts at 9 p.m. from Wednesday to Saturday. You will gain access to 4 clubs for free by buying the [NutsPubCrawl ticket online](https://nutspubcrawl.com/tickets/ "Tickets here!"). You will have free shots and discounts inside of the clubs!
+In der [Zoo Bar](http://www.zoobar.co.uk/ " Zoo bar"), am Leicester Square beginnt [NutsPubCrawl](https://nutspubcrawl.com/ "NutsPubCrawl"). Diese Veranstaltung erleichtert es dir mit Menschen aus der ganzen Welt in Kontakt zu treten. Die Kneipen- / Clubtour startet um 21:00 Uhr, jeweils Mittwochs bis Samstags. Mit dem [NutsPubCrawl ticket online](https://nutspubcrawl.com/tickets/ "Tickets here!") bekommst du freien Eintritt zu vier Clubs, Vergünstigungen zu ausgewählten Getränken und freie Shots.
 
-So, ready to party with the coolest people in London? 
+Bist du bereit mit den coolsten Leuten in London zu feiern? 
 
 

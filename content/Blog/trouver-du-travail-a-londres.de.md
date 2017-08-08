@@ -1,25 +1,26 @@
 ﻿+++
-title = "Finding a job in London"
+title = "Einen Arbeitsplatz finden"
 banner = "jobcenter-uk-2012-06-2000x1402.jpg"
-description = ""
-slug = "finding-a-job-in-london"
-categories = ["Jobs","Work"]
+description = "Was ist zu tun, welche Seiten sind geeignet; wir geben dir die besten Tipps..."
+slug = "einen-Arbeitsplatz-finden-in-London"
+categories = ["Jobs","Arbeit"]
 +++
 
-Like most expatriates, you are looking for a job.  We will give you a few tips to help you get started. Before you start looking for a job, you will have to get your <a href="/blog/national-insurance-number/">National Insurance Number</a>. This document does not give you the right to work but insures you in the same way as a British person. Once your NIN is obtained, begin the process of opening <a href="/blog/opening-a-bank-account-in-london/">a bank account.</a>
+Wie die meisten Auswanderer, suchst auch du nach einem Arbeitsplatz. Wir geben dir die passenden Tipps dafür. Bevor du nach einem Job suchen kannst, brauchst du deine eigene <a href="/blog/national-insurance-number/">nationale Versicherungsnummer</a>. Dieses Dokument gibt dir nicht das Recht arbeiten zu dürfen, sondern versichert dich, wie ein normaler britischer Bürger. Wenn du deine NIN erhalten hast, musst du dir erstmal <a href="/blog/opening-a-bank-account-in-london/"> ein Bankkonto eröffnen.</a>
 
-When you have everything set up, you just have to find where to work. If you are looking to work in order to live in London, you will find a job at restaurants or chains like Pret-a-Manger, Costa Coffee, that do not require much in the way of experience. <a href="/blog/housing-in-london/">Youth hostels or student halls</a> can be a good idea to be housed and paid at the same time. 
+Wenn du alles organisiert hast, musst du nur noch nach einem Arbeitsplatz suchen. Wenn du nur nach einem Arbeitsplatz suchst um in London leben zu können, kannst du in Restaurants oder Ketten wie Pret-a-Manger oder Costa Coffee nachfragen, da du bei diesen nicht viel Erfahrung benötigst. <a href="/blog/housing-in-london/">Jugendherbergen oder Studentenwohnheime</a> sind eine gute Möglichkeit um beherbergt und gleichzeitig bezahlt zu werden. 
 
-#### To keep in mind
+#### Im Hinterkopf behalten
 
-Legally, the hourly minimum wage is fairly equivalent to the French minimum wage at around £6/hour. For a job as waiting staff, this will be in the region of £7.50/hr. Know that you can not work more than 48 hours per week, or it will be on a voluntary basis. 
+Der gesetzliche Mindestlohn liegt in Deutschland bei ca. 8,50€, in England allerdings nur bei £6/Stunde (ca. 7,20€). Eine Bedienung verdient ca. £7,50/Stunde (ca. 9€). Beachte, dass du nicht mehr als 48 Stunden in der Woche arbeiten kannst. Alles Weitere wird als freiwillig angerechnet. 
 
-#### How do I find a job?
+#### Wie finde ich einen Arbeitsplatz?
 
-<ul><li>Agencies: As with finding a place to live, there are those who will work to find you a job in a shorter timeframe. You can update your CV in English and prepare for the future interviews that they will offer you. The services depend on the agencies, some offer to find you a job and housing like the <a href="http://www.centrecharlespeguy.com/">centre charle peguy</a>, <a href="http://www.londonworkfr.com/">LondonWork</a>, <a href="http://london.eazycity.com/">London eazycity</a> and others...</li></ul>
+<ul><li>Agenturen: Genauso wie Agenturen, die dir eine Unterkunft besorgen, gibt es Firmen, die dir in kürzerer Zeit einen Arbeitsplatz beschaffen können. Hierfür musst du einen CV (Lebenslauf) auf Englisch erstellen und dich für die darauffolgenden Interviews vorbereiten. Einige Agenturen bieten es an, dir einen Arbeitsplatz und eine Unterkunft zu suchen, wie:  <a href="http://www.centrecharlespeguy.com/">centre charle peguy</a>, <a href="http://www.londonworkfr.com/">LondonWork</a>, <a href="http://london.eazycity.com/">London eazycity</a> und andere...</li></ul>
 
-<ul><li>Door to door: Submit your CV directly to the desired places, if you do not have too many requirements or an English that isn’t too developed, be bold and create opportunities. Think of Oscar Wilde, “Shoot for the moon. Even if you miss you’ll land among the stars”. If you want to join a large chain like <a href="https://www.starbucks.co.uk/careers/working-at-starbucks">Starbucks</a>, <a href="https://pret.csod.com/ats/careersite/search.aspx?site=1&amp;c=pret">Pret-a-Manger</a>, <a href="http://www.costacareers.co.uk/">Costa</a> and other <a href="https://people.mcdonalds.co.uk/restaurant-opportunities/crew-member/">McDonalds</a>, go to their sites, this will avoid throwing your paper in the bin.</li><li>
+<ul><li>Von Tür zu Tür: Gib deine Bewerbung direkt bei der gewünschten Firma ab. Selbst, wenn du nicht so viele Voraussetzungen hast oder dein Englisch nicht wirklich fortgeschritten ist, sei mutig und erschaffe dir neue Möglichkeiten. Denke an die Worte von Oscar Wilde, „Jage nach dem Mond. Selbst, wenn du es nicht schaffst, wirst du auf den Sternen landen.“ Wenn du dich bei einer größeren Restaurantkette, wie <a href="https://www.starbucks.co.uk/careers/working-at-starbucks">Starbucks</a>, <a href="https://pret.csod.com/ats/careersite/search.aspx?site=1&amp;c=pret">Pret-a-Manger</a>, <a href="http://www.costacareers.co.uk/">Costa</a> oder <a href="https://people.mcdonalds.co.uk/restaurant-opportunities/crew-member/">McDonalds</a> bewerben willst, gehe zuerst auf die jeweilige Homepage. Dies verhindert, dass du deine Bewerbung wegwerfen musst.</li><li>
 
-</li></ul><ul><li>Apps: Apps such as <a href="https://syftapp.com/">Syft</a> or <a href="https://www.coople.com/uk/en/">Coople</a> allow you to apply for many job offers easily, whether for short term or long term assignments.</li></ul>
+</li></ul><ul><li>Apps: Apps, wie <a href="https://syftapp.com/">Syft</a> oder <a href="https://www.coople.com/uk/en/">Coople</a> geben dir die Möglichkeit dich für viele verschiedene Jobangebote zu bewerben, egal ob für eine kurz oder längere Zeit.li></ul>
 
-<ul><li>Social networks: Keep an eye on them, as with the Facebook groups such as <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French circle in London</a> or <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a>. Very often posts are made available to you, and they go very quickly.</li></ul><div>Caution: with these tips you may find work quickly, before you get hired, take advantage of the city. Help us, share the article and your experiences, so that we can improve our article and help even more people!</div></div> 
+<ul><li>Soziale Netzwerke: Behalte zum Beispiel Gruppen auf Facebook, wie <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French circle in London</a> oder <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a>), im Blick. Die meisten Beiträge sind für dich verfügbar und funktionieren sehr schnell.</li></ul><div>Vorsicht: mit diesen Tipps findest du schnell einen Arbeitsplatz, du solltest, aber bevor du eingestellt wirst, die Vorteile der Stadt nutzen. 
+Hilf uns den Artikel und deine Erfahrungen zu teilen so, dass wir diesen verbessern können und somit mehr Menschen helfen können!</div></div> 
