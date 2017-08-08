@@ -154,7 +154,7 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
                 <div class="card cart-block">
                     <div class="card-img"><a href="/blog/transport-in-london/" class="fa fa-train fa-5x"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Transport</h4>
+                        <h4 class="card-title">Transfer</h4>
 
                         <p class="card-text">Wie funktioniert die U-Bahn und die Oyster Card? Wie viel kostet es? etc...&nbsp;</p>
                         <div class="card-btn"><a href="/blog/transport-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
@@ -169,7 +169,7 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
                     <div class="card-block">
                         <h4 class="card-title">Londoner Flughäfen</h4>
 
-                        <p class="card-text">Wie gelangst du am besten von den Flughäfen (Heathrow, Getwick, Luton und Stanstad) ins Zentrum?</p>
+                        <p class="card-text">Wie gelangst du am besten von den Flughäfen (Heathrow, Getwick, Luton und Stansted) ins Zentrum?</p>
                         <div class="card-btn"><a href="/de/blog/londoner-flughaefen/" class="btn btn-primary">Mehr Informationen</a></div>
                     </div>
                 </div>
