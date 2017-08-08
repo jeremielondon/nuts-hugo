@@ -53,12 +53,12 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/party-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true"></a></div>
+                    <div class="card-img"><a href="/de/blog/feiern-gehen-in-london/" class="fa fa-star-o fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Feiern gehen in London</h4>
 
                         <p class="card-text">Wo steigt die Party? Gute Angebote, beliebte Orte und die angesagtesten Clubs, um sich in London bei Nacht zu vergnügen...</p>
-                        <div class="card-btn"><a href="/blog/party-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
+                        <div class="card-btn"><a href="/de/blog/feiern-gehen-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
                     </div>
                 </div>
             </div>
