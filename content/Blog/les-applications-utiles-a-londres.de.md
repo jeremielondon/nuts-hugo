@@ -2,7 +2,7 @@
 title = "Nützliche Apps für London"
 banner="apps-2000x1128.jpg"
 description = "Die besten Apps, um sich in London zurecht zu finden, Ideen für Aktivitäten, Restaurants, Veranstaltungen, etc..."
-slug = "nützliche-apps-für-london"
+slug="nuetzliche-apps-fuer-london"
 categories = ["Apps"]
 +++
 

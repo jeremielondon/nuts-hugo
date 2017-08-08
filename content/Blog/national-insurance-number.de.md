@@ -2,6 +2,7 @@
 title = "Nationale Versicherungsnummer"
 banner = "ninc-2000x1116.png"
 description = "Was ist das? Wie erfolgt die Registrierung? Wie lange dauert es, wir verraten es dir."
+slug="nationale-versicherungsnummer"
 categories = ["Nationale Versicherungsnummer","Administration"]
 +++
 

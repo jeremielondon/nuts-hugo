@@ -1,7 +1,7 @@
 +++
 title = "Au Pairs in London"
 banner = "famille-au-pair.jpg"
-categories = ["Au apirs in London"]
+categories = ["Au pairs in London"]
 description = "Au Pair Familie finden? Kontakte knüpfen? Andere Au Pairs treffen??"
 slug = "au-pairs-in-london"
 og_image = "/images/famille-au-pair.jpg"
@@ -21,11 +21,11 @@ Um die richtige Gastfamilie zu finden, gibt es verschiedene Möglichkeiten. Ich 
 
 ##### 1. Facebook und ehemalige au Pairs
 
-Diese Methode ist die einfachste und zudem noch kostenlos. Du kannst die ehemaligen au Pairs der Famile kontaktieren, um ihre Meinung über die Familie zu erhalten. Zudem kannst du auf Facebook viele Gruppen finden, wie zum Beispiel: [German au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "German au pair in London") oder [German and Austrian au Pair](https://www.facebook.com/groups/german.and.austrian.au.pairs.in.london/ "German and Austrian au Pair") oder [Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London"). In diesen Gruppen wirst du auf viele Anzeigen stoßen, in denen Familien auf der Suche nach au Pairs sind. Der Nachteil daran ist, dass viele junge Leute, genauso wie du, auf der Suche nach einer Gastfamilie sind. 
+Diese Methode ist die einfachste und zudem noch kostenlos. Du kannst die ehemaligen au Pairs der Famile kontaktieren, um ihre Meinung über die Familie zu erhalten. Zudem kannst du auf Facebook viele Gruppen finden, wie zum Beispiel: [German au pairs in London](https://www.facebook.com/groups/french.au.pairs.in.london/ "German au pair in London") oder [German and Austrian au Pair](https://www.facebook.com/groups/german.and.austrian.au.pairs.in.london/ "German and Austrian au Pair") oder [Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London"). In diesen Gruppen wirst du auf viele Anzeigen stoßen, in denen Familien auf der Suche nach au Pairs sind. Der Nachteil daran ist, dass viele junge Leute, genauso wie du, auf der Suche nach einer Gastfamilie sind.
 
 ##### 2. Spezialisierte Webseiten
 
-Die bekannteste Webseite ist [au pair world](https://www.aupairworld.com/ "au pair world"). Auf dieser Seite wirst du viele Jobangebote aus der ganzen Welt finden. Du musst dir nur ein Profil erstellen und die Familie kontaktieren, bei der du denkst, dass sie zu dir passen könnte. Eine andere Homepage wäre [Find Au Pair](https://www.findaupair.com/ "find an pair"). Der Vorteil dieser Methode ist, dass du alles selbstständig machen kannst und es dabei noch kostenlos ist. Spezialisierte Webseiten können auch weniger Schutz und Sicherheit bedeuten. Deshalb solltest du auf Betrüger achten (gib nich jedem dein Geld und vereinbare das erste Treffen an öffentlichen Plätzen). 
+Die bekannteste Webseite ist [au pair world](https://www.aupairworld.com/ "au pair world"). Auf dieser Seite wirst du viele Jobangebote aus der ganzen Welt finden. Du musst dir nur ein Profil erstellen und die Familie kontaktieren, bei der du denkst, dass sie zu dir passen könnte. Eine andere Homepage wäre [Find Au Pair](https://www.findaupair.com/ "find an pair"). Der Vorteil dieser Methode ist, dass du alles selbstständig machen kannst und es dabei noch kostenlos ist. Spezialisierte Webseiten können auch weniger Schutz und Sicherheit bedeuten. Deshalb solltest du auf Betrüger achten (gib nich jedem dein Geld und vereinbare das erste Treffen an öffentlichen Plätzen).
 
 ##### 3. Au Pair Agenturen
 
@@ -60,7 +60,7 @@ Die Bezahlung hängt von der Familie und von dem Aufgabenbereich des au Pairs ab
 ##### 3. Vertragslänge
 Die Dauer des Vertrags ist unterschiedlich. Du kannst nur für 1-2 Monate bleiben z.B. über die Sommerferien, du kannst aber auch für 6 Monate bis hin zu einem jahr bleiben. Du musst dir also vorher im Klaren sein, wie lange du bleiben möchtest, bevor du einen Job bei einer Gastfamilie annimmst.
 
-Mit all diesen Informationen bist du gut gerüstet und wirst keine Probleme als au Pair haben. 
+Mit all diesen Informationen bist du gut gerüstet und wirst keine Probleme als au Pair haben.
 
 ## Wie kannst du au Pairs oder neue Leute in London kennenlernen?
 Wir organisieren ein kostenloses [international picnic](https://www.facebook.com/InternationalLondonPicnics/ "International picnic"), zu dem jeder herzlich eingeladen ist.
@@ -69,8 +69,8 @@ Wir organisieren ein kostenloses [international picnic](https://www.facebook.com
 ##### 1. Facebook
 Als au Pair kannst du Gruppen beitreten, wie: <ul><li>[German au pairs in London](https://www.facebook.com/groups/355858937850390/ "German au pairs") oder [Au pair in UK](https://www.facebook.com/groups/716305271740264/ "au pair in uk")</li>Diese Gruppen ermöglichen es dir mit anderen au Pairs in Kontakt zu treten und euch zu treffen. Du kannst aber auch andere Leute treffen, die keine au Pairs sind, in Gruppen wie: <li>[Meet People in London](https://www.facebook.com/groups/238555079536645/ "meet People in London") oder [International Social London](https://www.facebook.com/groups/665103393648869/ "International social London")</li>
 	<li>[Deutsche in London](https://www.facebook.com/groups/294449281027297/ "Deutsche in London")</li>
-	
-	
+
+
 </ul>
 
 ##### 2. Agenturen
@@ -80,5 +80,3 @@ Den letzten Hinweis, den wir dir geben können ist, sei nicht schüchtern. Geh l
 
 
 Schreibe uns einen Kommentar, um deine Tipps und Erfahrungen mit uns zu teilen...
-
-
