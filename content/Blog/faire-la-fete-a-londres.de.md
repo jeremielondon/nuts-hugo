@@ -3,7 +3,7 @@ title ="Feiern gehen in London"
 banner = "london-party.jpg"
 description ="Wo steigt die Party? Gute Angebote, beliebte Orte und die angesagtesten Clubs, um sich in London bei Nacht zu vergnügen..."
 categories = ["Feiern gehen in London"]
-slug = "party-in-london"
+slug = "Feiern-gehen-in-london"
 +++
 
 
