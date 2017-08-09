@@ -1,21 +1,22 @@
 ﻿+++
-title = "Healthcare in London"
+title = "Gesundheitssystem in London"
 banner = "gp-2000x1333.jpg"
-description = ""
-slug = "healthcare-in-london"
-categories = ["Healthcare","Administration"]
+description = "Wie finde ich einen geeigneten Arzt, Anmeldung, benötigte Dokumente"
+slug = "gesundheitssystem-in-london"
+categories = ["Gesundheitssystem","Administration"]
 +++
 
-# How to find your General Practioner (GP)?
+# Wie findest du einen Hausarzt (H)?
 
-To access healthcare as we have it back at home, you will need to register with a General Practitioner, or GP. In England this works by area, i.e. your GP will be the one who lives closest to you (according to your post code), so it is easy to find them, you can go to the <a href="http://www.nhs.uk/pages/home.aspx">National Health Service site</a> and search using your post code. You will get a list of GPs in the area, containing their number of patients and the marks they have been assigned based on different categories. Ask in your neighbourhood for more advice.
+Um eine medizinische Versorgung zu erhalten, wie du es zu Hause gewohnt bist, musst du dich bei einem Hausarzt registrieren. In England wird es nach Wohngebiet aufgeteilt. In England hat jedes Gebiet seinen eigenen Hausarzt, was dir die Suche nach diesem erleichtert. Dein Hausarzt wird dir also per Postleitzahl zugewiesen, welchen du unter dem Link <a href="http://www.nhs.uk/pages/home.aspx">National Health Service site</a> finden kannst. Du bekommst eine Liste aller Hausärzte in deiner Region, mit Anzahl und Eindrücken, der Patienten. Für mehr Informationen, kannst du auch deine Nachbarn befragen.
 
-You choose your GP, and then download <a href="http://www.nhs.uk/NHSEngland/AboutNHSservices/doctors/Documents/GMS1-Jul12.pdf">a questionnaire</a>, asking for basic information about you, then your medical history. After returning this questionnaire, you will receive a confirmation of your registration by the GP you’ve picked. Please be aware that your file may be refused if you request a GP that is too far away from you, or if they already have too many customers and can not accept any more. 
+Nachdem du dir deinen Hausarzt ausgesucht hast, musst du dir einen <a href="http://www.nhs.uk/NHSEngland/AboutNHSservices/doctors/Documents/GMS1-Jul12.pdf"> Fragebogen </a>, runterladen,
+indem du Fragen über dich und deinen medizinischen Werdegang beantworten musst. Wenn du deinen Fragebogen abgeschickt hast, wirst du eine Bestätigung deiner Registrierung erhalten. Bitte sei dir im Klaren, dass deine Akte abgelehnt werden kann, wenn dein Hausarzt zu weit von dir entfernt ist, oder wenn dieser bereits zu viele Patienten hat und keine weiteren aufnehmen kann. 
 
-## First visit
+## Der erste Besuch
 
-You will then have to go to your GP for the first time, with proof of address and ID, for a full check-up. You will then be fully registered. It should be kept in mind that healthcare in England is not the same as in France. Rare will be the times you have medication prescribed, sent to a specialist and you will absolutely have to make an appointment with a wait of sometimes 2 to 3 weeks... You don’t pop along with just a cold then! In case of emergencies that do not require going to hospital, you can still try to call your GP as soon as possible and try to get an emergency appointment. A visit to the GP has no cost, however some will be satisfied with simple questions without checks, so it is better to return to your French doctor from time to time.
+Wenn du das erste Mal zu deinem Hausarzt gehst, dann musst du deine Adresse nachweisen, sowie deinen Personalausweis vorzeigen, für einen  Gesundheits-Check-up. Danach bist du vollständig registriert. Beachte bitte, dass die Gesundheitspflege in England nicht das Gleiche ist, wie in Deutschland. Es wird dir selten eine medizinische Behandlung vorgeschrieben wenn, dann musst du zu einem Spezialisten, bei dem du dann vorher einen Termin vereinbaren musst. Dies kann zwischen 2 und 3 Wochen dauern. Wenn du einen Unfall hast, bei dem du nicht ins Krankenhaus musst, kannst du trotzdem versuchen, deinen Hausarzt zu kontaktieren, um einen Notfalltermin auszumachen. Ein besuch bei deinem Hausarzt ist kostenlos, aber einige Ärzte geben sich lediglich mit Fragen zufrieden, statt Untersuchungen durchzuführen. Deshalb ist es besser, von Zeit zu Zeit, zu deinem deutschen Arzt zu gehen.
 
-For those who have trouble with English medicine, know that there are several French medical centres in London, offering almost all specialties, for example <a href="http://www.lamaisonmedicale.co.uk/">La Maison Médicale</a>, with a bilingual team, practising in this field of activity.
+Wenn du Probleme mit der englischen Medizinverorgung hast bedenke, dass es auch einige deutsche medizinidche Einrichtungen in London gibt. Allerdings sind diese meist auf etwas spezialisiert, wie z.B. <a href="http://www.lamaisonmedicale.co.uk/">La Maison Médicale</a>, die sowohl deutsch als auch englisch sprechen.
 
-And there you have it, you’re ready to seek treatment in London, and if you have any questions or additional information do not hesitate to leave us a little comment! 
+Nun kannst du dich auch in London medizinisch versorgen lassen. Wenn du Fragen oder Anregungen hast, kannst du uns gerne einen Kommentar hinterlassen. 
