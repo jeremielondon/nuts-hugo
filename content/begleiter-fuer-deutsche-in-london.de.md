@@ -116,12 +116,12 @@ description = " Wir helfen Auswanderern in London Fuß zu fassen, eine Unterkunf
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/blog/healthcare-in-london/" class="fa fa-user-md fa-5x" aria-hidden="true"></a></div>
+                    <div class="card-img"><a href="/de/blog/gesundheitssystem-in-london/" class="fa fa-user-md fa-5x" aria-hidden="true"></a></div>
                     <div class="card-block">
                         <h4 class="card-title">Gesundheit</h4>
 
                         <p class="card-text">Wie findest du einen geeigneten Arzt, wo musst du dich anmelden und welche Dokumente benötigst du?&nbsp;</p>
-                        <div class="card-btn"><a href="/blog/healthcare-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
+                        <div class="card-btn"><a href="/de/blog/gesundheitssystem-in-london/" class="btn btn-primary">Mehr Informationen</a></div>
                     </div>
                 </div>
             </div>
