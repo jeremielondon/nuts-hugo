@@ -1,5 +1,5 @@
 ﻿+++
-title = "Our tours"
+title = "tours"
 slug = "tours"
 Description = ""
 type="nobanner"
@@ -38,7 +38,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">The Shoreditch Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">More infos</a>
+    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-primary">More infos</a>
   </div>
 </div>
     </div>
