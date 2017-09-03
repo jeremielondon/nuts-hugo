@@ -11,7 +11,7 @@ description = "Clubbing tours in central London, Visit different venues in one n
         <div class="row">
         <div class="col-md-6 col-lg-5 col-xl-4">
 <h3>Book your tickets</h3>
-        <script src="https://assets.ticketinghub.com/checkout.js" data-channel="81c327ca-beef-4ff6-af39-702295205346" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+<script src="https://assets.ticketinghub.com/checkout.js" data-channel="f0c1b56f-ddc4-496f-b994-3ee449980e0c" data-endpoint="https://api.ticketinghub.com" data-product="1a822682-24b3-4216-875a-a9bb904a84a4" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#00baef" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
 
 
                   </div>
@@ -26,7 +26,7 @@ You get free entry to the venues, professional pictures, free shots and special 
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Time</h3>
-every evening between 19:30 and 20:30
+Every evening between 19:30 and 20:30
 <br>
 <br>
 
