@@ -28,7 +28,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Camden Barathon</h4>
     <p class="card-text">Viens découvrir les bars alternatifs de Camden, quartier rock / punk de Londres. Concert live, bar et clubs atypiques...</p>
-    <a href="/the-tours/camden-pub-crawl/" class="btn btn-success">Plus d'infos</a>
+    <a href="/fr/the-tours/camden-barathon/" class="btn btn-success">Plus d'infos</a>
   </div>
 </div>
     </div>
@@ -38,7 +38,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Le Pub Crawl de Shoreditch</h4>
     <p class="card-text">Envie de rencontrer les hipsters de Londres? Le quartier est de Londres est fait pour toi. L'Ambiance funky t'attend.</p>
-    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">Plus d'infos</a>
+    <a href="/fr/the-tours/le-pub-crawl-de-shoreditch/" class="btn btn-success">Plus d'infos</a>
   </div>
 </div>
     </div>
