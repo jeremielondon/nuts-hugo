@@ -26,9 +26,9 @@ enableRobotsTXT = true
 email = "info@nutspubcrawl.com"
 twitter = "https://twitter.com/NutsPubCrawl"
 handle = "@NutsPubCrawl"
-address = """118 King's Cross Rd.
-<br>London WC1X 9DS
-<br>United Kingdom</p>"""
+address = """132-140 Goswell Road,
+<br>London EC1V 7DY,
+<br>United Kingdom.</p>"""
 og_image = "/images/Nutspubcrawl-brand.png"
 
 custom_css = ["css/assets/bootstrap-material-design-font/css/material.min.css",

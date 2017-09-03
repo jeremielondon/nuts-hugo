@@ -18,7 +18,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Central London Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/the-tours/central-london-pub-crawl/" class="btn btn-success">More infos</a>
+    <a href="/the-tours/central-london-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>
     </div>
@@ -28,7 +28,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Camden Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-success">More infos</a>
+    <a href="#" class="btn btn-success">More</a>
   </div>
 </div>
     </div>
@@ -38,7 +38,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">The Shoreditch Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">More infos</a>
+    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>
     </div>

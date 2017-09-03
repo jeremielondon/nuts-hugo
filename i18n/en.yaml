@@ -11,7 +11,7 @@
   translation: "Send"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Registered Address"
 
 - id: footerLinksTitle
   translation: "Links"
@@ -38,10 +38,10 @@
   translation: "PHOTOS"
 
 - id: pageTours
-  translation: "/tours"
+  translation: "/tours/"
 
 - id: pageToursMenu
-  translation: "OUR TOURS"
+  translation: "TOURS"
 
 - id: pageBlog
   translation: "/blog-guide"
@@ -56,7 +56,7 @@
   translation: "CONTACT"
 
 - id: pageTickets
-  translation: "/tickets"
+  translation: "/tours"
 
 - id: pageTicketsMenu
   translation: "TICKETS"
