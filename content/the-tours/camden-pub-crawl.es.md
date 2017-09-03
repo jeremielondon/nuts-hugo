@@ -1,8 +1,8 @@
 ﻿+++
-title = "Camden Barathon"
+title = "Camden Pub Crawl"
 banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
 slug = "camden-pub-crawl"
-description = "get your Camden Pub Crawl tickets, meet the leaders at the meeting point and party in the famous / alternative Camden venues."
+description = "Visita los mejores bares, clubes y auditorios en el famoso distrito de Camden, incluyendo Proud, The Blues Kitche, Barfly, KOKO (viernes) y Soundtracks (sábados) ¡No te lo puedes perder!"
 
 +++
 

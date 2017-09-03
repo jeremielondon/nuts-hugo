@@ -2,7 +2,7 @@
 title = "The Shoreditch Pub Crawl"
 banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
 slug = "shoreditch-tour"
-description = "The Shoreditch pub crawl is a tour in London that brings people to 4 differents venues, allowing you to party for a good deal."
+description = "Únete al Shoreditch Pub Crawl y visita cuatro/cinco clubes y pubs en esta moderna zona empezando por Blueberry Bar."
 
 +++
 
@@ -29,7 +29,7 @@ Obtendrás entrada gratis a cada lugar, fotos profesionales, chupitos gratis y d
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Hora</h3>
-every Thursday, Friday and Saturdays between 20:30 and 21:15
+Todo los Jueves, Viernes y Sabado de 20:30 a 21:15
 <br>
 <br>
 
