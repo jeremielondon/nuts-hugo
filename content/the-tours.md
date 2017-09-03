@@ -1,7 +1,7 @@
 ﻿+++
 title = "tours"
 slug = "tours"
-Description = ""
+Description = " Pub crawl tours in London, party in different areas like, camden, shoreditch, Leicester square, Piccadilly Circus or Soho "
 type="nobanner"
 +++
 
@@ -12,33 +12,33 @@ type="nobanner"
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    <div class="col-12 col-md-4">
       <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="/images/pub-crawl-london.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/images/pub-crawl-london.jpg" alt="Central Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">Central London Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/the-tours/central-london-pub-crawl/" class="btn btn-primary">More infos</a>
+    <a href="/the-tours/central-london-pub-crawl/" class="btn btn-success">More infos</a>
   </div>
 </div>
     </div>
-    <div class="col-sm-4">
+    <div class="col-12 col-md-4">
       <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="/images/camden-pub-crawl-1.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/images/camden-pub-crawl-1.jpg" alt="Camden Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">Camden Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">More infos</a>
+    <a href="#" class="btn btn-success">More infos</a>
   </div>
 </div>
     </div>
-    <div class="col-sm-4">
+    <div class="col-12 col-md-4">
       <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="/images/the-shoreditch-pubcrawl.jpg" alt="Card image cap">
+  <img class="card-img-top" src="/images/the-shoreditch-pubcrawl.jpg" alt="The Shoreditch Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">The Shoreditch Pub Crawl</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-primary">More infos</a>
+    <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">More infos</a>
   </div>
 </div>
     </div>

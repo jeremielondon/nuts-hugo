@@ -9,7 +9,7 @@ description = "Photos from our pub crawls"
 <section class="mbr-section" id="msg-box5-1w" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
     <div class="container">
         <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-6 col-lg-5 col-xl-4>
                   <h3 class="mbr-section-title display-2">Description :</h3>
 
                   text bli bla bli Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -29,7 +29,7 @@ description = "Photos from our pub crawls"
 
 
                   </div>
-<div class="col-md-4"><script src="https://assets.ticketinghub.com/checkout.js" data-channel="81c327ca-beef-4ff6-af39-702295205346" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script></div>
+<div class="col-md-6 col-lg-7 col-xl-8"><script src="https://assets.ticketinghub.com/checkout.js" data-channel="81c327ca-beef-4ff6-af39-702295205346" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script></div>
 
 
 </section>
