@@ -17,7 +17,7 @@ type="nobanner"
   <img class="card-img-top" src="/images/pub-crawl-london.jpg" alt="Central Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">Central London Pub Crawl</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Make the most of your night out in Central London and join the best party in West End’s Leicester Square and Piccadilly Circus.</p>
     <a href="/the-tours/central-london-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>
@@ -27,8 +27,8 @@ type="nobanner"
   <img class="card-img-top" src="/images/camden-pub-crawl-1.jpg" alt="Camden Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">Camden Pub Crawl</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-success">More</a>
+    <p class="card-text">Discover the great nightlife that London’s original alternative scene has to offer and visit its best bars, clubs and music venues.</p>
+    <a href="/the-tours/camden-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>
     </div>
@@ -37,7 +37,7 @@ type="nobanner"
   <img class="card-img-top" src="/images/the-shoreditch-pubcrawl.jpg" alt="The Shoreditch Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">The Shoreditch Pub Crawl</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Feeling adventurous? Explore East London’s hip bars and clubs once the sun goes down and join us for an amazing night out.</p>
     <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>

@@ -41,7 +41,7 @@
   translation: "/fr/tours"
 
 - id: pageToursMenu
-  translation: "NOS TOURS"
+  translation: "TOURS"
 
 - id: pageBlog
   translation: "/fr/guide-des-francais-a-londres"
@@ -56,7 +56,7 @@
   translation: "CONTACT"
 
 - id: pageTickets
-  translation: "/fr/tickets"
+  translation: "/fr/tours"
 
 - id: pageTicketsMenu
   translation: "TICKETS"

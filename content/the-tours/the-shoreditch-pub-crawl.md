@@ -21,9 +21,10 @@ description = "The Shoreditch pub crawl is a tour in London that brings people t
                   </div>
 <div class="col-md-6 col-lg-7 col-xl-8"><h3 class="mbr-section-title display-2">Description :</h3>
 
-The Shoreditch Pub Crawl is an alternative pub crawl for locals, students and backpackers who want to go beyond the standard tourist trails and discover the very best Shoreditch's nightlife. We're dedicated to giving you the best, most fun-filled night out anywhere in the capital. We have several crawls around the clubs and pubs of Shoreditch, and we're always looking for new adventures too. We're about socialising, not just drinking. You'll be part of a friendly, likeminded crowd who all want to unwind, meet new people and enjoy a fantastic night out.
+Join the Shoreditch Pub Crawl and visit four/five clubs and pubs in London’s hip scene starting at Blueberry Bar.<br><br>
 
-Each of our pub crawls is created and hosted by one of our amazing guides, Nico. Originally from Nantes, Nico arrived in London in 2007, and immediately embarked on an in-depth programme of research into Shoreditch's legendary nightlife scene. Six years and innumerable units of alcohol later, Nico was ready to start hosting London pub crawls that offered something a little different from the tourist snail-trails of Soho or Camden. The Shoreditch Pub Crawl was born. When he's not drinking in Shoreditch, Nico likes making moves on the dance floor or putting in tackles on the rugby field.
+You get free entry to the venues, professional pictures, free shots and special drink deals.
+
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Time :</h3>
