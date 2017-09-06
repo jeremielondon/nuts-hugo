@@ -37,7 +37,7 @@ type="nobanner"
   <img class="card-img-top" src="/images/the-shoreditch-pubcrawl.jpg" alt="The Shoreditch Pub Crawl">
   <div class="card-block">
     <h4 class="card-title">The Shoreditch Pub Crawl</h4>
-    <p class="card-text">Feeling adventurous? Explore East London’s hip bars and clubs once the sun goes down and join us for an amazing night out.</p>
+    <p class="card-text">Explore East London's coolest and trendy bars and clubs. When the sun goes down - come and see the nightlife Shoreditch has to offer - experience an amazing and unforgettable night out!!</p>
     <a href="/the-tours/the-shoreditch-pub-crawl/" class="btn btn-success">More</a>
   </div>
 </div>
