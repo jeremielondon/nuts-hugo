@@ -16,19 +16,30 @@ description = "Viens découvrir les bar alternatifs de Camden. meet the leaders 
 
                   </div>
 <div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Description</h3>
-Visit the best bars, clubs and music venues in London’s famous Camden district including Proud, the Blues Kitchen, Barfly, KOKO (Fridays) and Soundtracks (Saturdays), simply unmissable!<br><br>
+Découvrez les meilleurs bar et boîtes de nuit du quartier de Camden, tous les soirs de la semaine !
+ Nous vous avons préparé une sélection des lieux les plus branchés tels que Proud, the blues Kitchen, Barfly, KOKO (les vendredis) et Soundtracks (les samedis) tous les immanquables !<br><br>
 
-You get free entry to the venues, professional pictures, queue jump, free shots and special drink deals.<br><br>
+Le Proud Camden est un ancien hôpital pour chevaux vieux de 200 ans, transformé en boîte de nuit. Les écuries sont maintenant des comptoirs de bar.
+Le Blues Kitchen et la Camden Assembly sont 2 des bars de Londres les plus authentiques et des plus aimés avec leurs groupes en live.<br>
+La spécialité du Sountracks est de passer les meilleures musiques des meilleurs films.
+Et le KOKO, un ancien théâtre devenu boîte de nuit, possède un décor incroyable avec les boxes d’opéra et la plus grande boule de miroir d’Europe.<br>
+Pour seulement £15, vous bénéficiez d’entrées gratuites dans tous les bars et clubs de la liste, de shots gratuits, de réductions sur des verres, de photos professionnelles et vous ne faites pas la queue !
+
+<br><br>
+
+<br><br>
 
 
 
-<h3 class="mbr-section-title display-2">Time</h3>
-Meet us every evening between 19:30 and 20:30
+<h3 class="mbr-section-title display-2">Heure</h3>
+Retrouvez-nous tous les soirs entre 19h30 et 20h30
 <br>
 <br>
 
-<h3 class="mbr-section-title display-2">Meeting Point</h3>
-Belushi’s Camden, 48-50 Camden High Street, NW1 0LT
+<h3 class="mbr-section-title display-2">Point de Rencontre</h3>
+Belushi’s Camden, situé au 48-50 Camden High Street, NW1 0LT.<br>
+Pour vous-y rendre, la station Undergroung la plus proche est « Mornington Crescent Station »
+
 <br>
 <br>
 <script src='https://static.citymapper.com/js/embed/widget.js' data-slug='99gdm5' data-width=600></script> </div>
