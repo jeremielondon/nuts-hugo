@@ -31,12 +31,12 @@ Shoreditch offre un mélange unique d’histoire, de tendance et de style urbain
 Shoreditch est connu pour sa vie nocturne, ses douzaines de pubs confortables et vivants ainsi que ses clubs n’attendant que d’être découverts.
 <br><br>
 
-Pour seulement £10, vous bénéficiez d’entrées gratuites dans tous les bars et clubs de la liste, de shots gratuits, de réductions sur des verres, de photos professionnelles et vous ne faites pas la queue !
+Pour seulement £10, vous bénéficiez d’entrées gratuites dans tous les bars et clubs de la liste, shots gratuits, réductions sur des verres, photos professionnelles et vous ne faites pas la queue !
 
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Heure</h3>
-Retrouvez-nous les jeudi, vendredi et samedi entre 20h30 et 21h15.
+Retrouvez-nous les jeudis, vendredis et samedis entre 20h30 et 21h15.
 <br>
 <br>
 
