@@ -35,14 +35,14 @@ Pour seulement £10, vous bénéficiez d’entrées gratuites dans tous les bars
 
 <br>
 <br>
-<h3 class="mbr-section-title display-2">Heure :</h3>
+<h3 class="mbr-section-title display-2">Heure</h3>
 Retrouvez-nous les jeudi, vendredi et samedi entre 20h30 et 21h15.
 <br>
 <br>
 
-<h3 class="mbr-section-title display-2">Lieu de Rendez-vous :</h3>
+<h3 class="mbr-section-title display-2">Point de rencontre</h3>
 Blueberry Bar, au 2-4 Paul Street, London, EC2A 4JH.
-Pour vous-y rendre, la station Undergroung la plus proche est « Old Street ».
+Pour vous-y rendre, la station de métro la plus proche est « Old Street ».
 
 <br>
 <br>
