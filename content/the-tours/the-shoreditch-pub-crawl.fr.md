@@ -35,6 +35,10 @@ Pour seulement £10, vous bénéficiez d’entrées gratuites dans tous les bars
 
 <br>
 <br>
+Ci dessous un avant gout, vlog d'une frenchy à Londres.
+{{< youtube bLUdtU0g6nY >}}
+<br>
+<br>
 <h3 class="mbr-section-title display-2">Heure</h3>
 Retrouvez-nous les jeudis, vendredis et samedis entre 20h30 et 21h15.
 <br>

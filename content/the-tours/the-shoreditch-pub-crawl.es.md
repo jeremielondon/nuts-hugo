@@ -25,9 +25,12 @@ description = "Únete al Shoreditch Pub Crawl y visita cuatro/cinco clubes y pub
 
 Obtendrás entrada gratis a cada lugar, fotos profesionales, chupitos gratis y descuentos en bebidas.
 
+<br>
+<br>
+{{< youtube QR6kLisjstU >}}
+<br>
+<br>
 
-<br>
-<br>
 <h3 class="mbr-section-title display-2">Hora</h3>
 Todo los Jueves, Viernes y Sabado de 20:30 a 21:15
 <br>

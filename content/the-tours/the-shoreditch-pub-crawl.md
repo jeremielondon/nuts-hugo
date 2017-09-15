@@ -23,8 +23,12 @@ description = "The Shoreditch pub crawl is a tour in London that brings people t
 
 Join the Shoreditch Pub Crawl and visit four/five clubs and pubs in London’s hip scene starting at Blueberry Bar.<br><br>
 
+
 You get free entry to the venues, professional pictures, free shots and special drink deals.
 
+<br>
+<br>
+{{< youtube QR6kLisjstU >}}
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Time :</h3>
