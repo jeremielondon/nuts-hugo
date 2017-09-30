@@ -1,0 +1,156 @@
+- id: contactName
+  translation: "Name"
+
+- id: contactMail
+  translation: "Email"
+
+- id: contactForm
+  translation: "Contact form"
+
+- id: contactSend
+  translation: "Send"
+
+- id: contactAddrTitle
+  translation: "Registered Address"
+
+- id: footerLinksTitle
+  translation: "Links"
+
+- id: contactMessage
+  translation: "Your message"
+
+- id: pageHome
+  translation: "/"
+
+- id: pageHomeMenu
+  translation: "PUB CRAWLS EM LONDRES"
+
+- id: pageAbout
+  translation: "/br/sobre"
+
+- id: pageAboutMenu
+  translation: "SOBRE"
+
+- id: pagePhotos
+  translation: "/photos"
+
+- id: pagePhotosMenu
+  translation: "PHOTOS"
+
+- id: pageTours
+  translation: "/br/tours/"
+
+- id: pageToursMenu
+  translation: "TOURS"
+
+- id: pageBlog
+  translation: "/blog-guide"
+
+- id: pageBlogMenu
+  translation: "BLOG"
+
+- id: pageContact
+  translation: "/br/contact"
+
+- id: pageContactMenu
+  translation: "CONTACTO"
+
+- id: pageTickets
+  translation: "/tours"
+
+- id: pageTicketsMenu
+  translation: "TICKETS"
+
+- id: homeSec1
+  translation: "Pub Crawls em Londres"
+
+- id: homeSec2
+  translation: "Visite as melhores baladas, bares e pubs de Londres durante uma noite com a nossa seleção dos melhores organizadores de tours."
+
+- id: homeSec2a
+  translation: "More info"
+
+- id: homeSec3
+  translation: "O que é isso?"
+
+- id: homeSec4
+  translation: "Um Pub Crawl, às vezes conhecido como uma “baratona”, é um tour de diferentes lugares onde um guia vai te levar pra provar cervejas, dançar em baladas ou curtir bandas ao vivo, dependendo do tour escolhido."
+
+- id: homeSec5
+  translation: "Pra quem é isso?"
+
+- id: homeSec6
+  translation: "Para todas as idades acima de 18 anos. Tudo o que você precisa pra participar dos tours, festas e/ou degustação de cervejas é a identidade, passaporte ou carteira de habilitação."
+
+- id: homeSec7
+  translation: "Como funciona?"
+
+- id: homeSec8
+  translation: "Tudo começa em um ponto de encontro onde você vai encontrar o guia do grupo que vai explicar tudo sobre o tour."
+
+- id: homeSec9
+  translation: "Onde a gente se encontra?"
+
+- id: homeSec10
+  translation: "Dependendo da sua escolha, o ponto de encontro estará escrito na página do tour. Contate-nos se você tiver qualquer pergunta."
+
+- id: homeSec11
+  translation: "Quem são os guias?"
+
+- id: homeSec12
+  translation: "Barbara é do México. Ela gosta de dançar e encontrar pessoas do mundo todo. As especialidades dela são degustação de bebidas e música latina. Ela fala espanhol e inglês."
+
+- id: homeSec12a
+  translation: "Guia e serviço ao cliente"
+
+
+- id: homeSec13
+  translation: "Jeremie é francês, ele mora em Londres desde 2009. Ele conhece Leicester Square e Piccadilly Circus como a palma da mão. A especialidade dele é fotografar. Ele fala francês e inglês."
+
+- id: homeSec13a
+  translation: "Guia e Gerente de Marketing"
+
+
+- id: homeSec14
+  translation: "Rafa é brasileiro e tem um canal no YouTube onde compartilha informações sobre Londres com os brasileiros. Apaixonado pelo Reino Unido e por história. Suas especialidades são história e cervejas. Ele fala português, espanhol e inglês - mas os tours dele são apenas em português."
+
+- id: homeSec14a
+  translation: "Guia e Gerente de Desenvolvimento de Negócio"
+
+- id: homeSec15
+  translation: "Mantenha contato"
+
+- id: blogLogement
+  translation: "/blog/housing-in-london"
+
+- id: blogPasseport
+  translation: "/blog/passports-in-london"
+
+- id: blogBanque
+  translation: "/blog/opening-a-bank-account-in-london"
+
+- id: blogTravail
+  translation: "/blog/finding-a-job-in-london"
+
+- id: blogStage
+  translation: "/blog/finding-an-internship-in-london"
+
+- id: blogApps
+  translation: "/blog/useful-apps-in-london"
+
+- id: blogSante
+  translation: "/blog/healthcare-in-london"
+
+- id: blogNIN
+  translation: "/blog/national-insurance-number-london"
+
+- id: blogTransp
+  translation: "/blog/transport-in-london"
+
+- id: blogAero
+  translation: "/blog/londons-airports"
+
+
+
+- id: categoriesTitle
+  translation: "Categories"
