@@ -20,7 +20,7 @@
   translation: "Your message"
 
 - id: pageHome
-  translation: "/"
+  translation: "/br"
 
 - id: pageHomeMenu
   translation: "PUB CRAWLS EM LONDRES"
@@ -56,7 +56,7 @@
   translation: "CONTACTO"
 
 - id: pageTickets
-  translation: "/tours"
+  translation: "/br/tours"
 
 - id: pageTicketsMenu
   translation: "TICKETS"

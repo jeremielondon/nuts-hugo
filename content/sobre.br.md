@@ -56,7 +56,7 @@ keywords = ["Os pubs crawl Londres","nuts pub crawl"]
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 text-xs-center">
-                        <h3 class="mbr-section-title display-2">Who are our guides?<br /><br /></h3>
+                        <h3 class="mbr-section-title display-2">Quem são os guias?<br /><br /></h3>
                         <small class="mbr-section-subtitle"></small>
                     </div>
                 </div>
@@ -71,31 +71,31 @@ keywords = ["Os pubs crawl Londres","nuts pub crawl"]
                 <div class="col-xs-12 col-lg-4">
 
                     <div class="mbr-testimonial card mbr-testimonial-lg">
-                        <div class="card-block"><p>"Barbara is from Mexico. She likes to dance and to meet people from all over the world. Her speciality is drinking Jager bombs. She speaks Spanish and English."</p></div>
+                        <div class="card-block"><p>"Barbara é do México. Ela gosta de dançar e encontrar pessoas do mundo todo. As especialidades dela são degustação de bebidas e música latina. Ela fala espanhol e inglês."</p></div>
                         <div class="mbr-author card-footer">
                             <div class="mbr-author-img"><img src="/images/face3.jpg" class="img-circle" /></div>
                             <div class="mbr-author-name">Barbara S.</div>
-                            <small class="mbr-author-desc">Guide and customer service</small>
+                            <small class="mbr-author-desc">Guia e serviço ao cliente</small>
                         </div>
                     </div>
                 </div><div class="col-xs-12 col-lg-4">
 
                     <div class="mbr-testimonial card mbr-testimonial-lg">
-                        <div class="card-block"><p>"Jeremie is French, he has lived in London since 2009. He knows Leicester Square and Piccadilly Circus well. His speciality is taking the pictures. He speaks French and English."</p></div>
+                        <div class="card-block"><p>"Jeremie é francês, ele mora em Londres desde 2009. Ele conhece Leicester Square e Piccadilly Circus como a palma da mão. A especialidade dele é fotografar. Ele fala francês e inglês.</p></div>
                         <div class="mbr-author card-footer">
                             <div class="mbr-author-img"><img src="/images/jrl-145x160.jpg" class="img-circle" /></div>
                             <div class="mbr-author-name">Jeremie &nbsp;L.</div>
-                            <small class="mbr-author-desc">Guide and Marketing Manager<br /><br /></small>
+                            <small class="mbr-author-desc">Guia e Gerente de Marketing<br /><br /></small>
                         </div>
                     </div>
                 </div><div class="col-xs-12 col-lg-4">
 
                     <div class="mbr-testimonial card mbr-testimonial-lg">
-                        <div class="card-block"><p>"Mathilde is Spanish, she loves travel and cinema. She has lived in London since 2015. She speaks Italian, Spanish and English."</p></div>
+                        <div class="card-block"><p>"Rafa é brasileiro e tem um canal no YouTube onde compartilha informações sobre Londres com os brasileiros. Apaixonado pelo Reino Unido e por história. Suas especialidades são história e cervejas. Ele fala português, espanhol e inglês - mas os tours dele são apenas em português."</p></div>
                         <div class="mbr-author card-footer">
                             <div class="mbr-author-img"><img src="/images/face2.jpg" class="img-circle" /></div>
-                            <div class="mbr-author-name">Mathilde B.</div>
-                            <small class="mbr-author-desc">Guide and Operations Manager</small>
+                            <div class="mbr-author-name">Rafa M.</div>
+                            <small class="mbr-author-desc">Guia e Gerente de Desenvolvimento de Negócio</small>
                         </div>
                     </div>
                 </div>
