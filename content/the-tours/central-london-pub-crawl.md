@@ -11,7 +11,8 @@ description = "Clubbing tours in central London, Visit different venues in one n
         <div class="row">
         <div class="col-md-6 col-lg-5 col-xl-4">
 <h3>Book your tickets</h3>
-<script src="https://assets.ticketinghub.com/checkout.js" data-channel="f0c1b56f-ddc4-496f-b994-3ee449980e0c" data-endpoint="https://api.ticketinghub.com" data-product="1a822682-24b3-4216-875a-a9bb904a84a4" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#00baef" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+<script src="https://assets.ticketinghub.com/checkout.js" data-channel="02721226-0aff-4723-b4f8-cb9941c62549" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1b2d49" data-button-label="BOOK NOW" data-footer="ssl" data-social-sharing="0" data-subscribe="1" data-discounts="1" data-free="0" data-avs="0" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+
 
 
                   </div>
@@ -21,20 +22,19 @@ Visit four venues in the heart of the West End, London’s famous and infamous c
 
 Some clubs we go to are Piccadilly Institute, Ruby Blue, Bar Rumba. Every night is a new adventure!<br><br>
 
-You get free entry to the venues, professional pictures, free shots and special drink deals.
+You get free entry to each venue, professional pictures, free shots and special drink deals.
 
 <br>
 <br>
 <h3 class="mbr-section-title display-2">Time</h3>
-Every evening between 19:30 and 20:30
+Every evening From 19:30 to 20:30
 <br>
 <br>
 
 <h3 class="mbr-section-title display-2">Meeting Point</h3>
-Belushi’s Camden, 48-50 Camden High Street, NW1 0LT
+Piccadilly Institute, 1 Piccadilly Circus London, W1J 0DA
 <br>
 <br>
-<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='99gdm5' data-width=600></script> </div>
-
+<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='ogkm9y' data-width=600></script> </div>
 
 </section>

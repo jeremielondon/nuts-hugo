@@ -18,7 +18,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Tournée des clubs Londres Centre</h4>
     <p class="card-text">Profites des meilleurs clubs du centre de Londres en une nuit. Rejoins-nous pour faire la fête dans les quartiers de Piccadilly Circus, Leicester square et Soho...</p>
-    <a href="/the-tours/central-london-pub-crawl/" class="btn btn-success">Plus d'infos</a>
+    <a href="/fr/the-tours/central-london-pub-crawl/" class="btn btn-success">Plus d'infos</a>
   </div>
 </div>
     </div>

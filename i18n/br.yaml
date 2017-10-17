@@ -32,7 +32,7 @@
   translation: "SOBRE"
 
 - id: pagePhotos
-  translation: "/photos"
+  translation: "/br/photos"
 
 - id: pagePhotosMenu
   translation: "PHOTOS"
