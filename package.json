@@ -16,5 +16,21 @@
     "presets": [
       "es2015"
     ]
-  }
+  },
+  "name": "nuts-hugo",
+  "description": "> Site ported from html to Hugo on 18/05/2017",
+  "version": "1.0.0",
+  "main": "gulpfile.babel.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremielondon/nuts-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremielondon/nuts-hugo/issues"
+  },
+  "homepage": "https://github.com/jeremielondon/nuts-hugo#readme"
 }

@@ -5,11 +5,11 @@
 
   <body>
 
-    <div id="all"> 
+    <div id="all">
 
         <header>
 
-          {{ partial "header.html" . }}
+          {{ partialCached "header.html" . }}
 
         </header>
 
@@ -41,9 +41,9 @@
         </div>
         <!-- /#content -->
 
-        {{ partial "footer.html" . }}
+        {{ partialCached "footer.html" . }}
 
-   </div> 
+   </div>
 <!-- /#all  -->
 
   </body>

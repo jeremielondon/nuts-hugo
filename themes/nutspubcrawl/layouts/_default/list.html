@@ -3,7 +3,7 @@
   <body>
         <header>
 
-          {{ partial "header.html" . }}
+          {{ partialCached "header.html" . }}
 
         </header>
 
@@ -42,8 +42,7 @@
             </div>
             <!-- /.container -->
 
-        {{ partial "footer.html" . }}
+        {{ partialCached "footer.html" . }}
 
   </body>
 </html>
-

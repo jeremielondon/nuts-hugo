@@ -3,7 +3,7 @@
   <body>
         <header>
 
-          {{ partial "header.html" . }}
+          {{ partialCached "header.html" . }}
 
         </header>
 
@@ -44,4 +44,4 @@
           </div>
         </div>
 <!-- {{ partial "facebook.html" . }} -->
-	{{ partial "footer.html" . }}
+	{{ partialCached "footer.html" . }}
