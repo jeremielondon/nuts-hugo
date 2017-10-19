@@ -150,7 +150,8 @@
 - id: blogAero
   translation: "/blog/Londoner-Flughäfen"
 
-
-
 - id: categoriesTitle
   translation: "Kategorien"
+
+- id: comments
+  translation: "Your Comments about the tour"

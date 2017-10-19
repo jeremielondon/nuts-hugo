@@ -2,7 +2,7 @@
 title = "Tournée des clubs du Centre de Londres"
 banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
 slug = ""
-description = "Clubbing tours in central London, Visit different venues in one night in Piccadilly Circus, Leicester Square and Soho's area."
+description = "Faire la tournée des clubs du centre de Londres dans les quartiers de Leicester Square, Piccadilly Circus et Soho."
 
 +++
 

@@ -150,3 +150,6 @@
 
 - id: categoriesTitle
   translation: "Catégories"
+
+- id: comments
+  translation: "Votre avis sur le tour?"

@@ -1,7 +1,7 @@
 ﻿+++
 title = "tours"
 slug = "tours"
-Description = " Pub crawl tours in London, party in different areas like, camden, shoreditch, Leicester square, Piccadilly Circus or Soho "
+Description = "Pub crawl tours in London, party in different areas like, camden, shoreditch, Leicester square, Piccadilly Circus or Soho "
 type="nobanner"
 +++
 
@@ -44,6 +44,22 @@ type="nobanner"
     </div>
   </div>
 </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="/images/traditional-pub-crawl.jpg" alt="Card image cap">
+  <div class="card-block">
+    <h4 class="card-title">Pub Crawl ending at Ministry of Sound</h4>
+    <p class="card-text">Party in Central London clubs and end the night at the famous Ministry of Sound close to Elephant and castle tube station (Zone 1)  </p>
+    <a href="/the-tours/ministry-of-sound/" class="btn btn-success">More</a>
+  </div>
+</div>
+    </div>
+
+
+
 
 
 

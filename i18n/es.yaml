@@ -154,3 +154,6 @@
 
 - id: categoriesTitle
   translation: "Categorías"
+
+- id: comments
+  translation: "tu commentario"

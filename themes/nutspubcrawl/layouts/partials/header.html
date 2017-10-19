@@ -45,15 +45,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <!-- Facebook OpenGraph tags -->
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ if .Site.Params.DefaultDescription }}{{ .Site.Params.DefaultDescription }}{{ end }}{{ end }}{{ end }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}
+                                          {{ if .Site.Params.DefaultDescription }}{{ .Site.Params.DefaultDescription }}{{ end }}{{ end }}">
 <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ if .Params.og_image }}
-<meta property="og:image" content="http://nutspubcrawl.com{{ .Params.og_image | relURL }}"/>
-<meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
+<meta property="og:image" content="{{ .Params.og_image | relURL }}"/>
+<meta property="og:image:secure_url" content="{{ .Params.og_image | relURL }}"/>
 {{ else }}
-<meta property="og:image" content="http://nutspubcrawl.com{{ .Site.Params.og_image | relURL }}"/>
-<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+<meta property="og:image" content="{{ .Site.Params.og_image | relURL }}"/>
+<meta property="og:image:secure_url" content="{{ .Site.Params.og_image | relURL }}"/>
 {{ end }}
 
 <meta property='og:image' content="{{ "/images/Nutspubcrawl-brand.png" | absURL }}" />
@@ -61,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Twitter Cards tags -->
 <meta name="twitter:card" content="summary"> {{/* Twitter Card data, the image should be at least 120x120px */}}
 <meta name="twitter:site" content="{{ .Site.Params.handle }}">
-<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:title" content="{{ .Site.Title }}">
 {{ if .Description }}
 <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
 {{ else if .Site.Params.DefaultDescription }}
@@ -72,19 +73,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:image:alt" content="Nuts Pub Crawl London logo">
 
 <!-- General meta -->
-<title>{{ .Title }}</title>
-<meta name="author" content="{{ .Site.Author.name }}" />
-{{ if .Keywords }}
-<meta name="keywords" content="{{ delimit .Keywords ", " }}">
-{{ else if .Site.Params.DefaultKeywords }}
-<meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">
+<meta property="og:type" content="website" />
+{{ if eq .URL "/the-tours/" }}
+<meta name="og:title" content="{{ .Title }}">
+<{{ else if .IsPage }}
+<meta name="og:title" content="{{ .Title }}">
+{{ else }}
+<meta name="og:title" content="{{ .Site.Title }}">
 {{ end }}
-{{ if .Description }}
-<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
-{{ else if .Site.Params.DefaultDescription }}
-<meta name="description" content="{{ .Site.Params.DefaultDescription }}">
-{{ end }}
-
+          <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}"/>
+          {{ if eq .URL "/the-tours/" }}
+          <meta name="description" content="{{ .Description }}">
+          <{{ else if .IsPage }}
+          <meta name="description" content="{{ .Description }}">
+          {{ else }}
+          <meta name="description" content="{{ .Site.Params.DefaultDescription }}">
+          {{ end }}
+          <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
+          <meta property="og:site_name" content="{{ .Site.Title }}"/>
+          <meta property="og:url" content="{{ .Permalink }}"/>
+          <meta property="og:locale" content="{{ .Lang }}">
+            {{ if .Params.og_image }}
+          <meta property="og:image" content="{{ .Params.og_image | relURL }}"/>
+          <meta property="og:image:secure_url" content="{{ .Site.BaseURL }}{{ .Params.og_image | absURL }}"/>
+          {{ else }}
+          <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.og_image | relURL }}"/>
+          <meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
+          {{ end }}
+          <meta property="og:type" content="website"/>
 <!--<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,700|Raleway:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" >-->
 
 <!--<link rel="stylesheet" href="{{ .Site.BaseURL }}css/assets/bootstrap-material-design-font/css/material.min.css"> -->

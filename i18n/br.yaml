@@ -150,7 +150,8 @@
 - id: blogAero
   translation: "/blog/londons-airports"
 
-
-
 - id: categoriesTitle
   translation: "Categories"
+
+- id: comments
+  translation: "Your Comments about the tour"
