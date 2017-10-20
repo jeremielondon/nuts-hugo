@@ -45,7 +45,18 @@ type="nobanner"
   </div>
 </div>
 
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="/images/tours/ministry-318-160.jpg" alt="Ministry-pictures">
+  <div class="card-block">
+    <h4 class="card-title">Pub Crawl du Ministry of Sound</h4>
+    <p class="card-text">La tournée des clubs de Londres. Ce tour finira au Ministry of Sound. C'est le bon deal pour profiter de Londres</p>
+    <a href="/the-tours/ministry-of-sound/" class="btn btn-success">Plus d'infos</a>
+  </div>
+</div>
+    </div>
 
 
 </section>
