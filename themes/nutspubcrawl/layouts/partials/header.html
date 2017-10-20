@@ -49,10 +49,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
  <meta property="og:url" content="{{ .Permalink }}" />
  {{ if .Params.og_image }}
- <meta property="og:image" content="http://nutspubcrawl.com{{ .Params.og_image | relURL }}"/>
+ <meta property="og:image" content="https://nutspubcrawl.com{{ .Params.og_image | relURL }}"/>
  <meta property="og:image:secure_url" content="{{ .Params.og_image | absURL }}"/>
  {{ else }}
- <meta property="og:image" content="http://nutspubcrawl.com{{ .Site.Params.og_image | relURL }}"/>
+ <meta property="og:image" content="https://nutspubcrawl.com{{ .Site.Params.og_image | relURL }}"/>
  <meta property="og:image:secure_url" content="{{ .Site.Params.og_image | absURL }}"/>
  {{ end }}
 
