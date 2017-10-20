@@ -47,17 +47,15 @@ type="nobanner"
   <div class="row">
     <div class="col-sm-4">
       <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="/images/traditional-pub-crawl.jpg" alt="Card image cap">
-  <div class="card-block">
+  <img class="card-img-top" src="/images/traditional-pub-crawl.jpg" alt="traditional pub crawl">
+        <div class="card-block">
     <h4 class="card-title">Pub Crawl Histórico</h4>
     <p class="card-text">Conheça alguns dos pubs mais históricos de Londres e descubra ruas e pubs pouco visitados pelo turista. O tour é feito de muita história e cerveja. Precisa mais?</p>
     <a href="/br/the-tours/pub-crawl-historico/" class="btn btn-success">More info</a>
-  </div>
-</div>
     </div>
-
-    <div class="container">
-      <div class="row">
+    </div>
+    </div>
+  
         <div class="col-sm-4">
           <div class="card" style="width: 20rem;">
       <img class="card-img-top" src="/images/tours/ministry-318-160.jpg" alt="Ministry-pictures">
@@ -68,6 +66,7 @@ type="nobanner"
       </div>
     </div>
         </div>
+
 
 
 
