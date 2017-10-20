@@ -52,7 +52,7 @@ type="nobanner"
   <img class="card-img-top" src="/images/tours/ministry-318-160.jpg" alt="Ministry-pictures">
   <div class="card-block">
     <h4 class="card-title">Pub Crawl ending at Ministry of Sound</h4>
-    <p class="card-text">Party in Central London clubs and end the night at the famous Ministry of Sound close to Elephant and castle tube station (Zone 1)  </p>
+    <p class="card-text">Party in Central London clubs and end the night at the famous Ministry of Sound. Close to Elephant and castle tube station (Zone 1)  </p>
     <a href="/the-tours/ministry-of-sound/" class="btn btn-success">More</a>
   </div>
 </div>
