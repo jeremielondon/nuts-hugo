@@ -14,11 +14,11 @@ type="nobanner"
   <div class="row">
     <div class="col-12 col-md-4">
       <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="/images/pub-crawl-london.jpg" alt="Pub Crawl du centre">
+  <a href="/fr/the-tours/tournee-des-clubs-du-centre-de-londres/"><img class="card-img-top" src="/images/pub-crawl-london.jpg" alt="Pub Crawl du centre"></a>
   <div class="card-block">
     <h4 class="card-title">Tournée des clubs Londres Centre</h4>
     <p class="card-text">Profites des meilleurs clubs du centre de Londres en une nuit. Rejoins-nous pour faire la fête dans les quartiers de Piccadilly Circus, Leicester square et Soho...</p>
-    <a href="/fr/the-tours/central-london-pub-crawl/" class="btn btn-success">Plus d'infos</a>
+    <a href="/fr/the-tours/tournee-des-clubs-du-centre-de-londres/" class="btn btn-success">Plus d'infos</a>
   </div>
 </div>
     </div>
@@ -53,7 +53,7 @@ type="nobanner"
   <div class="card-block">
     <h4 class="card-title">Pub Crawl du Ministry of Sound</h4>
     <p class="card-text">La tournée des clubs de Londres. Ce tour finira au Ministry of Sound. C'est le bon deal pour profiter de Londres</p>
-    <a href="/the-tours/ministry-of-sound/" class="btn btn-success">Plus d'infos</a>
+    <a href="/fr/the-tours/ministry-of-sound/" class="btn btn-success">Plus d'infos</a>
   </div>
 </div>
     </div>

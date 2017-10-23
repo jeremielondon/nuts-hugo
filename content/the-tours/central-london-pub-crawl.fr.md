@@ -1,7 +1,7 @@
 ﻿+++
 title = "Tournée des clubs du Centre de Londres"
 banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
-slug = ""
+slug = "tournee-des-clubs-du-centre-de-londres"
 description = "Faire la tournée des clubs du centre de Londres dans les quartiers de Leicester Square, Piccadilly Circus et Soho."
 
 +++
