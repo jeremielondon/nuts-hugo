@@ -37,11 +37,9 @@ provider: 'droplet'
 
 Neste tour você vai ver alguns dos pubs mais históricos de Londres, caminhar por becos e lugares não muito conhecidos pelos turistas e experimentar ótimas cervejas, é claro. De um pub até o outro você vai descobrir novas histórias de Londres e entender melhor o funcionamento da cidade.<br>
 Você vai ver 15 pubs no percurso, parar em quatro deles pra beber algo e poder jantar no último por um preço ótimo!<br>
-Uma dosagem perfeita entre boas histórias e boas cervejas. Uma garantia que você vai aproveitar muito a sua noite em Londres.<br>
-
-
-
-
+Uma dosagem perfeita entre boas histórias e boas cervejas. Uma garantia que você vai aproveitar muito a sua noite em Londres.<br><br>
+{{< youtube SGFsljGxNjY >}}
+<br>
 <br>
 <h3 class="mbr-section-title display-2">Hora :</h3>
 Segundas e quintas das 17h as 21h

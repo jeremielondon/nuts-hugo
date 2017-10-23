@@ -11,7 +11,7 @@ description = "Visite quatro lugares no coração do West End Londrino. A cena d
         <div class="row">
         <div class="col-md-6 col-lg-5 col-xl-4">
 <h3>Reserve seus tickets</h3>
-<script src="https://assets.ticketinghub.com/checkout.js" data-channel="f0c1b56f-ddc4-496f-b994-3ee449980e0c" data-endpoint="https://api.ticketinghub.com" data-product="1a822682-24b3-4216-875a-a9bb904a84a4" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#00baef" data-button-label="BOOK NOW" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+<script src="https://assets.ticketinghub.com/checkout.js" data-channel="84f16908-36a3-4546-8ca7-3bf7cb2d99dd" data-endpoint="https://api.ticketinghub.com" data-product="997913af-7886-4279-ab64-af2c8ff7e577" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1b2d49" data-button-label="BOOK NOW" data-footer="ssl" data-lang="pt" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
 
 
                   </div>

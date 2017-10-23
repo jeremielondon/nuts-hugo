@@ -35,7 +35,7 @@ Pour seulement £10, vous bénéficiez d’entrées gratuites dans tous les bars
 
 <br>
 <br>
-Ci dessous un avant gout, vlog d'une frenchy à Londres.
+Ci dessous un avant gout, vlog d'une frenchy à Londres.<br><br>
 {{< youtube bLUdtU0g6nY >}}
 <br>
 <br>

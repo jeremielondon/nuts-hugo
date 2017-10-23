@@ -18,9 +18,9 @@ description = "Tournée des club qui fini au Ministry of Sound. Rejoignez-nous a
                   </div>
 <div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Description</h3>
 
-rejoignez-nous au Piccadilly Institute pour ces soirées spéciales finissant au Ministry of Sound. Le but est de faire la fête, de rencontrer des gens du monde entier. Aussi en faisant le pub crawl vous économiserez sur les boissons, puisque nous négocions avec les clubs pour vous offrir les bières et la vodka limonade a moitié prix.
+rejoignez-nous au Piccadilly Institute pour ces soirées spéciales finissant au Ministry of Sound. Le but est de faire la fête, de rencontrer des gens du monde entier. Aussi en faisant le pub crawl vous économiserez sur les boissons, puisque nous négocions avec les clubs pour vous offrir les bières et la vodka limonade a moitié prix.<br>
 
-Sachez que le ticket d'entrée dans les clubs est inclu.
+Sachez que le ticket d'entrée dans les clubs est inclu.<br><br>
 
 {{< youtube MTBKTECKQ6U >}}
 
