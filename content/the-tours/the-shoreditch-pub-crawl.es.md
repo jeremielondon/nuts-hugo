@@ -1,6 +1,6 @@
 ﻿+++
 title = "The Shoreditch Pub Crawl"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "shoreditch-pub-crawl1.jpg"
 slug = "shoreditch-tour"
 description = "Únete al Shoreditch Pub Crawl y visita cuatro/cinco clubes y pubs en esta moderna zona empezando por Blueberry Bar."
 
@@ -13,7 +13,7 @@ description = "Únete al Shoreditch Pub Crawl y visita cuatro/cinco clubes y pub
 
         <div class="col-md-6 col-lg-5 col-xl-4">
         <h3>Reserva tus entradas</h3>
-        <script src="https://assets.ticketinghub.com/checkout.js" data-channel="95bd1bcf-3bc5-4e69-b94f-155e9f65fe6e" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="tickets" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
+        <script src="https://assets.ticketinghub.com/checkout.js" data-channel="95bd1bcf-3bc5-4e69-b94f-155e9f65fe6e" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
 
 
 

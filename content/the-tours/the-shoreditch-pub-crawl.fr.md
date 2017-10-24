@@ -1,6 +1,6 @@
 ﻿+++
 title = "The Shoreditch Pub Crawl"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "shoreditch-pub-crawl1.jpg"
 slug = "le-pub-crawl-de-shoreditch"
 description = "Shoreditch est connu pour sa vie nocturne, ses douzaines de pubs confortables et vivants ainsi que ses clubs n’attendant que d’être découverts."
 

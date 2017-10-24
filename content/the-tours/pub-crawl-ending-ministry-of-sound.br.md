@@ -2,7 +2,7 @@
 title = "London Pub Crawl ending at Ministry of Sound"
 banner = "ministry-pic1-2000x1600.jpg"
 slug = "ministry-of-sound"
-description = "Clubbing tours in central London, Visit different venues in one night in Piccadilly Circus and end at Ministry of Sound. Elephant and Castle area, trendy zone 1"
+description = "Alguns clubs que a gente vai são Piccadilly Institute, Ruby Blue, e você vai terminar no famoso Ministry of Sound em Elephant and Castle."
 
 +++
 
@@ -10,34 +10,33 @@ description = "Clubbing tours in central London, Visit different venues in one n
     <div class="container">
         <div class="row">
         <div class="col-md-6 col-lg-5 col-xl-4">
-<h3>Book your tickets</h3>
+<h3>Reserve seus tickets</h3>
 <script src="https://assets.ticketinghub.com/checkout.js" data-channel="84f16908-36a3-4546-8ca7-3bf7cb2d99dd" data-endpoint="https://api.ticketinghub.com" data-product="568d4363-9d53-4777-9dc0-39d0757758de" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1b2d49" data-button-label="BOOK NOW" data-footer="ssl" data-lang="pt" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
 
 
 
                   </div>
-<div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Description</h3>
+<div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Descrição</h3>
 
-Visit four venues in the heart of the West End, London’s famous and infamous club scene where you’ll find a bit of everything for everyone, from club kids to hen parties, it’s the place to go out on the town!<br><br>
+Visite quatro locais no coração do West End, o famosíssimo local com vida noturna badalada de Londres, onde você vai encontrar um pouco de tudo e pra todos, de iniciantes a despedidas de solteiro, é o local pra sair na cidade!<br><br>
 
-Some clubs we go to are Piccadilly Institute, Ruby Blue, you will end at the famous Ministry of Sound club based in Elephant and Castle.<br>
-Be aware that the tube from the 3rd club to Ministry is not included in the ticket <br><br>
+Some clubs we go to are Piccadilly IAlguns clubs que a gente vai são Piccadilly Institute, Ruby Blue, e você vai terminar no famoso Ministry of Sound em Elephant and Castle.<br>
+Ah, um aviso importante: o metrô da terceira balada até o Ministry of Sound não está incluso no ticket deste pub crawl.<br><br>
 
-You get free entry to each venue, professional pictures, free shots and special drink.
-Ministry-of-sound entry is included but no shot or discounted drink there.<br>
+Com a gente você garante: entrada grátis em cada balada, fotos profissionais, shots de graça e ofertas em algumas bebidas. No Ministry of Sound a entrada está inclusa, mas sem nenhum shot ou desconto.<br>
 
-Still definitely worth it!<br><br>
+Ainda assim, definitivamente vale a pena e vai ser muito divertido!<br><br>
 
 {{< youtube MTBKTECKQ6U >}}
 
 <br>
 <br>
-<h3 class="mbr-section-title display-2">Time</h3>
- Meet us From 19:30 to 20:30
+<h3 class="mbr-section-title display-2">Hora</h3>
+Encontre-nos entre 19h30 e 20h30.
 <br>
 <br>
 
-<h3 class="mbr-section-title display-2">Meeting Point</h3>
+<h3 class="mbr-section-title display-2">Ponto de encontro</h3>
 Piccadilly Institute, 1 Piccadilly Circus London, W1J 0DA
 <br>
 <br>
