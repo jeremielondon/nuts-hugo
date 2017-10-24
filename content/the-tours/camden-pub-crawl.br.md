@@ -1,8 +1,8 @@
 ﻿+++
 title = "Pub Crawl de Camden"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "london-nuts-pub-crawl-t10093-2-2000x1333.jpg"
 slug = "camden-pub-crawl"
-description = "get your Camden Pub Crawl tickets, meet the leaders at the meeting point and party in the famous / alternative Camden venues."
+description = "Visite os melhores bares e baladas no famoso distrito londrino de Camden incluindo Proud, Blues Kitchen, Barfly, KOKO (sextas) e Soundtracks (sábados). Simplesmente imperdível!"
 
 +++
 

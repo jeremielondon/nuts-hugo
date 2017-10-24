@@ -1,6 +1,6 @@
 ﻿+++
 title = "London Pub Crawl ending at Ministry of Sound"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "ministry-pic1-2000x1600.jpg"
 slug = "ministry-of-sound"
 description = "Clubbing tours in central London, Visit different venues in one night in Piccadilly Circus and end at Ministry of Sound. Elephant and Castle area, trendy zone 1"
 

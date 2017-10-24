@@ -38,7 +38,7 @@
   translation: "FOTOS"
 
 - id: pageTours
-  translation: "/es/tours/"
+  translation: "/es/the-tours/"
 
 - id: pageToursMenu
   translation: "TOURS"
@@ -56,7 +56,7 @@
   translation: "CONTACTO"
 
 - id: pageTickets
-  translation: "/es/tours/"
+  translation: "/es/the-tours/"
 
 - id: pageTicketsMenu
   translation: "TICKETS"

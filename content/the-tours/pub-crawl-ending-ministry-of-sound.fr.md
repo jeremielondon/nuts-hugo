@@ -1,8 +1,8 @@
 ﻿+++
 title = "Tournée des clubs finissant au Ministry of Sound"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "ministry-pic1-2000x1600.jpg"
 slug = "ministry-of-sound"
-description = "Tournée des club qui fini au Ministry of Sound. Rejoignez-nous au Piccadilly Institute dans le centre de Londres pour faire la fete avec nous."
+description = "Tournée des club qui fini au Ministry of Sound. Rejoind-nous au Piccadilly Institute dans le centre de Londres pour faire la fete avec nous."
 
 +++
 
