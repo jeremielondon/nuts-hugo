@@ -1,0 +1,40 @@
+<article class="li">
+<div class="col-6 col-md-4">
+  <div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="{{ .Site.BaseURL }}/images/{{ .Params.Banner }}" alt="{{.Title}}&nbsp;Picture" height="180" width="318">
+  <div class="card-block">
+    <h4 class="card-title">{{ .Title}}</h4>
+    <p class="card-text">{{ .Description }}</p>
+    <a href="{{ .Permalink }}" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+</div>
+</article>
+
+
+
+
+
+
+<!--example
+<article class="li">
+  <a href="{{ .Permalink }}">
+    <div class="thumb thumb-{{ .UniqueID }}"></div>
+
+    <div class="inner">
+      <h2 class="title">{{ .Title }}</h2>
+
+      <ul class="facts">
+        <li><i class="fa fa-calendar" aria-hidden="true"></i><time datetime="{{ .Lastmod.Format "2006-01-02T15:04:05JST" }}">{{ .Lastmod.Format ( .Site.Params.dateformat | default "Jan 2, 2006") }}</time></li>
+        {{ with .Section }}<li><i class="fa fa-bookmark" aria-hidden="true"></i>{{ . | upper }}</li>{{ end }}
+        {{ if eq (getenv "HUGO_ENV") "DEV" }}
+        <li>{{ .WordCount }} Words</li>
+        {{ if .IsDraft }}<li style="color: #2196f3;">DRAFT</li>{{ end }}
+        {{ end }}
+      </ul>
+
+      <div class="summary">{{ .Summary }}</div>
+    </div>
+  </a>
+</article>
+example-->
