@@ -20,43 +20,43 @@
   translation: "Your message"
 
 - id: pageHome
-  translation: "/br"
+  translation: "/pt"
 
 - id: pageHomeMenu
   translation: "PUB CRAWLS EM LONDRES"
 
 - id: pageAbout
-  translation: "/br/sobre"
+  translation: "/pt/sobre"
 
 - id: pageAboutMenu
   translation: "SOBRE"
 
 - id: pagePhotos
-  translation: "/br/photos"
+  translation: "/pt/photos"
 
 - id: pagePhotosMenu
   translation: "PHOTOS"
 
 - id: pageTours
-  translation: "/br/tours/"
+  translation: "/pt/the-tours/"
 
 - id: pageToursMenu
   translation: "TOURS"
 
 - id: pageBlog
-  translation: "/br/blog-guide"
+  translation: "/pt/blog-guide"
 
 - id: pageBlogMenu
   translation: " "
 
 - id: pageContact
-  translation: "/br/contact"
+  translation: "/pt/contact"
 
 - id: pageContactMenu
   translation: "CONTACTO"
 
 - id: pageTickets
-  translation: "/br/tours"
+  translation: "/pt/the-tours"
 
 - id: pageTicketsMenu
   translation: "TICKETS"

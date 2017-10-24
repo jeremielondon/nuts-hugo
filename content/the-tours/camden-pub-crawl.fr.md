@@ -1,8 +1,8 @@
 ﻿+++
 title = "Camden Barathon"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "london-nuts-pub-crawl-t10093-2-2000x1333.jpg"
 slug = "camden-barathon"
-description = "Viens découvrir les bar alternatifs de Camden. meet the leaders at the meeting point and party in the famous / alternative Camden venues."
+description = "Viens découvrir les bars alternatifs de Camden. Pub Crawl spécial les vendredis finissant au KOKO"
 
 +++
 

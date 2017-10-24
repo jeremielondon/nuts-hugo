@@ -1,8 +1,8 @@
 ﻿+++
 title = "The Shoreditch Pub Crawl"
-banner = "london-nuts-pub-crawl-t10093-3-2000x1333.jpg"
+banner = "shoreditch-pub-crawl1.jpg"
 slug = "le-pub-crawl-de-shoreditch"
-description = "The Shoreditch pub crawl is a tour in London that brings people to 4 differents venues, allowing you to party for a good deal."
+description = "Shoreditch est connu pour sa vie nocturne, ses douzaines de pubs confortables et vivants ainsi que ses clubs n’attendant que d’être découverts."
 
 +++
 
