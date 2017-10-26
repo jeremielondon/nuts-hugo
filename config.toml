@@ -11,6 +11,27 @@ MetaDataFormat = "yaml"
 enableRobotsTXT = true
 
 
+
+[outputs]
+home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+suffix = ""
+delimiter = ""
+
+[outputFormats]
+[outputFormats.REDIR]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true
+
 [author]
     name = "Jeremie Leroy"
 

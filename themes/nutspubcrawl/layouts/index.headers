@@ -1,0 +1,22 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+*/
+  Link: <{{ "css/assets/web/assets/jquery/jquery.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/tether/tether.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/bootstrap/js/bootstrap.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/smooth-scroll/smooth-scroll.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/dropdown/js/script.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/touch-swipe/jquery.touch-swipe.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/viewport-checker/jquery.viewportchecker.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/jarallax/jarallax.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/social-likes/social-likes.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/theme/js/script.min.js" | relURL }}>; rel=preload; as=script
+  Link: <{{ "css/assets/bootstrap/css/bootstrap.min.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/assets/dropdown/css/style.min.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/assets/socicon/css/styles.min.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/assets/theme/css/style.min.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/assets/mobirise/css/mbr-additional.min.css" | relURL }}>; rel=preload; as=style
+  Link: <{{ "css/assets/font-awesome/css/font-awesome.min.css" | relURL }}>; rel=preload; as=style
