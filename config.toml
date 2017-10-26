@@ -58,22 +58,22 @@ defaultContentLanguage = "en"
 [Languages.en]
 title = "Nuts Pub Crawls London"
 weight = 1
-defaultKeywords = ["Pub crawls London", "pub crawl London", "pub crawl","crawl london"]
-defaultDescription = "Pub Crawls in London, it is probably the best way to party and discover the clubs and pubs of London with Nuts Pub Crawl, all our tours aim to provide a great night out."
+defaultKeywords = ["Pub crawls London", "pub crawl London", "pub crawl","bar hopping"]
+defaultDescription = "Pub Crawls in London is a bar hopping tour, Visit Camden Town, Piccadilly Circus, Covent Garden, Shoreditch areas. Best way to party in clubs like KOKO, Ministry of Sound, Cargo etc..."
 disqusShortname = "nutspubcrawl"
 
 [Languages.fr]
 title = "Londres Pub Crawls Nuts"
 weight = 2
-defaultKeywords = ["Pub Crawl a londres", "pub crawl londres", "barathon","crawl londres"]
-defaultDescription = "Faire la tournée des clubs du centre de Londres avec Nuts Pub Crawl, c'est l'idée de faire un barathon mais avec des club"
+defaultKeywords = ["Pub Crawl a londres", "tournée des bars", "Sortir","faire la fete"]
+defaultDescription = "Faire la tournée des bars | clubs du centre de Londres, de Camden Town, Shoreditch. Ministry of Sound, KOKO, Cargo fond parti des clubs visité durant nos tours."
 disqusShortname = "nutspubcrawlfr"
 
 [Languages.es]
 title = "Nuts Pub Crawls Londres"
 weight = 3
 defaultKeywords = ["Pub crawls Londres", "pub crawl Londres", "pub crawl","crawl londres"]
-defaultDescription = "Pub Crawls en Londres, es la mejor forma para salir de fiesta en Londres y descubrir las discotecas y bares más populares con Nuts Pub Crawl, todos nuestros tours son garantía de una gran noche."
+defaultDescription = "Pub Crawls en Londres, es la mejor forma para salir de fiesta en Londres y descubrir las discotecas y bares más populares( Ministry of Sound, Koko, Cargo). Pub Crawl en Candem Town, Covent garden/ Piccadilly Circus"
 disqusShortname = "nutspubcrawles"
 
 [Languages.de]
