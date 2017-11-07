@@ -27,6 +27,32 @@
     </div>
     <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"><a href="#features6-5"><i class="mbr-arrow-icon"></i></a></div>
 </section>
+<div>
+  <br>
+  <div class= "container">
+  {{ range first 3 (where .Data.Pages "Section" "the-tours") }}
+  {{ .Render "li"}}
+  {{ end }}
+</div>
+</div>
+
+<section class="mbr-section mbr-section-md-padding" id="social-buttons3-a" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">{{ i18n "MorePubCrawl" . }}</h3>
+                <div>
+
+
+<a href="{{ i18n "pageTours" . }}" class="btn btn-success btn-lg" role="button">{{ i18n "homeSec2a" . }}</a>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="mbr-cards mbr-section mbr-section-nopadding" id="features6-5" style="background-color: rgb(239, 239, 239);">
     <div class="mbr-cards-row row">
         <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
@@ -124,22 +150,6 @@
                             <div class="mbr-author-img"><img src="{{ .Site.BaseURL }}images/face2.jpg" class="img-circle" alt="Mathilde pictures"></div>
                             <div class="mbr-author-name">Rafa.</div><small class="mbr-author-desc">{{ i18n "homeSec14a" . }}</small> </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="mbr-section mbr-section-md-padding" id="social-buttons3-a" style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 90px;">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-xs-center">
-                <h3 class="mbr-section-title display-2">{{ i18n "homeSec15" . }}</h3>
-                <div>
-
-
-<a href="/blog/events/sign-up" class="btn btn-success btn-lg" role="button">Newsletter</a>
-
-
                 </div>
             </div>
         </div>

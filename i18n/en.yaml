@@ -155,3 +155,6 @@
 
 - id: comments
   translation: "Your Comments about the tour"
+
+- id: MorePubCrawl
+  translation: "More Pub Crawls"
