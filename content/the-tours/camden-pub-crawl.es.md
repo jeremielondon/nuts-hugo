@@ -9,7 +9,7 @@ description = "Visita los mejores bares, clubes y auditorios en el famoso distri
 <section class="mbr-section" id="msg-box5-1w" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
     <div class="container">
         <div class="row">
-        <div class="col-md-6 col-lg-5 col-xl-4">
+        <div class="col-md-6 col-lg-5 col-xl-4" id= "fix1">
 <h3>Reserva tus entradas</h3>
         <script src="https://assets.ticketinghub.com/checkout.js" data-channel="81c327ca-beef-4ff6-af39-702295205346" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1c2b4e" data-button-label="BOOK NOW" data-footer="ssl" data-discounts="1" data-free="0" data-avs="0" data-subscribe="1" data-ga-track-pageviews="1" data-ga-track-purchases="1"></script>
 

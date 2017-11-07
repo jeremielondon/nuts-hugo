@@ -11,7 +11,7 @@ description = "Conheça alguns dos pubs mais históricos de Londres e descubra r
 
         <div class="row">
 
-        <div class="col-md-6 col-lg-5 col-xl-4">
+        <div class="col-md-6 col-lg-5 col-xl-4" id= "fix1">
         <h3>Reserve seus tickets</h3>
         <script type="text/javascript" src="//londresparaprin.checkfront.com/lib/interface--31.js"></script>
 <!-- CHECKFRONT BOOKING PLUGIN v23-->

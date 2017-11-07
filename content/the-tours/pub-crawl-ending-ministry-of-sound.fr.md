@@ -9,7 +9,7 @@ description = "Tournée des club qui fini au Ministry of Sound. Rejoind-nous au 
 <section class="mbr-section" id="msg-box5-1w" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;">
     <div class="container">
         <div class="row">
-        <div class="col-md-6 col-lg-5 col-xl-4">
+        <div class="col-md-6 col-lg-5 col-xl-4" id= "fix1">
 <h3>Book your tickets</h3>
 <script src="https://assets.ticketinghub.com/checkout.js" data-channel="4735d535-ccd4-4e42-83d0-5840257f0433" data-endpoint="https://api.ticketinghub.com" data-layout="embed" data-landing="calendar" data-event-period="7" data-events-view-mode="multi-day" data-fields="name,email,telephone" data-collect-voucher-recipient-info="1" data-color="#1b2d49" data-button-label="BOOK NOW" data-footer="ssl" data-social-sharing="0" data-subscribe="1" data-discounts="1" data-free="0" data-avs="0" data-ga-track-pageviews="1" data-ga-track-purchases="1" data-lang="fr"></script>
 
