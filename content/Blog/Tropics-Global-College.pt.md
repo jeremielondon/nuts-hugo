@@ -3,6 +3,7 @@ title ="Cursos de inglês gratuitos"
 banner = "interships-2000x1333.jpg"
 description ="Oferecemos boas dicas para aprender inglês, gratuitamente nas escolas de Londres, Tropics Global College e outras ..."
 categories = ["Cursos de inglês gratuitos"]
+slug = "Cursos-de-ingles-gratuitos"
 +++
 
 

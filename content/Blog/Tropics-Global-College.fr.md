@@ -3,6 +3,7 @@ title ="Leçons d'anglais gratuites à Londres"
 banner = "interships-2000x1333.jpg"
 description ="Apprendre l'anglais gratuitement à Londres, nous vous proposons quelques astuces..."
 categories = ["Leçons gratuites anglais"]
+slug = "Lecons-gratuites-anglais"
 +++
 
 ## Tropics Global College (p)
