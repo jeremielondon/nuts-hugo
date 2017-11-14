@@ -2,7 +2,7 @@
 title = "Tournée des clubs finissant au Ministry of Sound"
 banner = "ministry-pic1-2000x1600.jpg"
 slug = "ministry-of-sound"
-description = "Tournée des club qui fini au Ministry of Sound. Rejoind-nous au Piccadilly Institute dans le centre de Londres pour faire la fete avec nous."
+description = "Tournée des clubs qui fini au Ministry of Sound. Rejoind-nous au Piccadilly Institute dans le centre de Londres pour faire la fete avec nous."
 
 +++
 

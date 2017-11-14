@@ -44,10 +44,10 @@
   translation: "TOURS"
 
 - id: pageBlog
-  translation: "/pt/blog-guide"
+  translation: "/pt/blog/"
 
 - id: pageBlogMenu
-  translation: " "
+  translation: "BLOG"
 
 - id: pageContact
   translation: "/pt/contact"
