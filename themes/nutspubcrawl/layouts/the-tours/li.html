@@ -1,7 +1,7 @@
 <article class="li">
 <div class="col-6 col-md-4">
   <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="{{ .Site.BaseURL }}/images/{{ .Params.Banner }}" alt="{{.Title}}&nbsp;Picture" height="180" width="318">
+  <a href="{{ .Permalink }}"><img class="card-img-top" src="{{ .Site.BaseURL }}/images/{{ .Params.Banner }}" alt="{{.Title}}&nbsp;Picture" height="180" width="318"></a>
   <div class="card-block">
     <h3 class="card-title">{{ .Title}}</h3>
     <p class="card-text">{{ .Description }}</p>

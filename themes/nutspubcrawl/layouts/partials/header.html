@@ -53,11 +53,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <meta name="twitter:card" content="summary"> {{/* Twitter Card data, the image should be at least 120x120px */}}
  <meta name="twitter:site" content="{{ .Site.Params.handle }}">
  <meta name="twitter:title" content="{{ .Title }}">
- {{ if .Description }}
- <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
- {{ else if .Site.Params.DefaultDescription }}
+ <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else}}{{ .Site.Params.DefaultDescription }}{{ end }}{{ end }}">
  <meta name="twitter:description" content="{{ .Site.Params.DefaultDescription }}">
- {{ end }}
  <meta name="twitter:creator" content="{{ .Site.Params.handle }}">
  <meta name="twitter:image:src" content="{{ "/images/Nutspubcrawl-brand.png" | absURL }}">
  <meta name="twitter:image:alt" content="Nuts Pub Crawl London logo">
