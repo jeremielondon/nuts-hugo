@@ -23,7 +23,7 @@ Légalement, le SMIC horaire est assez équivalent au SMIC français autour de �
 
 </li></ul><ul><li>Applications: Les applications comme <a href="https://syftapp.com/">Syft</a> ou <a href="https://www.coople.com/uk/en/">Coople</a> vous permettent de postuler à de nombreuses offres d’emplois facilement, que ce soit pour des missions ponctuelles ou pour du long terme.</li></ul>
 
-<ul><li>Réseaux sociaux : Gardez toujours un œil dessus, comme sur les groupes Facebook tels que « <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">Le cercle des français à Londres</a> ou <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> », très souvent des posts sont mis à votre disposition, et ça va très vite.</li></ul> Attention, avec ces petits conseils vous risquez de trouver du travail rapidement, avant d'etre embauché profitez de la ville.
+<ul><li>Réseaux sociaux : Gardez toujours un œil dessus, comme sur les groupes Facebook tels que « <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">Le cercle des français à Londres</a> ,<a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> ou [Bonjour Frenchy](https://www.facebook.com/groups/171123389660775/ "francais a Londres") », très souvent des posts sont mis à votre disposition, et ça va très vite.</li></ul> Attention, avec ces petits conseils vous risquez de trouver du travail rapidement, avant d'etre embauché, profitez de la ville.
 
 ### Devenez professeur, baby-sitter ou nounou
 
