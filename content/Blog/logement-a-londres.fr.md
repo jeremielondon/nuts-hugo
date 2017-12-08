@@ -52,7 +52,7 @@ Il existe de nombreux sites qui vous permettront d’en trouver facilement, à t
 
 #### Les groupes Facebook
 
-Enfin, ne mettez pas de côté les groupes Facebook comme <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">Le cercle des français à Londres</a>, la <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> ou même notre groupe <a href="https://www.facebook.com/groups/171123389660775/">bonjour frenchy</a> . Sur ces groupes vous pourrez poser tout type de questions, au sujet de la vie quotidienne, la recherche de job et donc aussi d’un logement. Gardez un œil sur ces pages, les membres publient très souvent, et les bonnes affaires partent vite. Sachez que même sur une annonce postée sur les réseaux sociaux, vous êtes susceptible d'avoir des frais d'agence.
+Enfin, ne mettez pas de côté les groupes Facebook comme <a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">Le cercle des français à Londres</a>, la <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> ou même notre groupe [Bonjour Frenchy](https://www.facebook.com/groups/FrancaisLondresLeguide/ "bonjour frenchy"). Sur ces groupes vous pourrez poser tout type de questions, au sujet de la vie quotidienne, la recherche de job et donc aussi d’un logement. Gardez un œil sur ces pages, les membres publient très souvent, et les bonnes affaires partent vite. Sachez que même sur une annonce postée sur les réseaux sociaux, vous êtes susceptible d'avoir des frais d'agence.
 
 #### Les agences
 

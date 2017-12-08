@@ -52,7 +52,7 @@ Nehme dich bitte vor Betrügern in Acht, versuche so viele Informationen, wie m�
 
 #### Facebook Gruppen
 
-Du kannst außerdem auch, wenn du z.B. nach deutschen Mitbewohnern suchst, über Facebook Gruppen, wie<a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French Circle in London</a>, <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a>, oder über unsere eigene Gruppe <a href="https://www.facebook.com/groups/171123389660775/">Bonjour Frenchy</a>, eine Unterkunft finden.
+Du kannst außerdem auch, wenn du z.B. nach deutschen Mitbewohnern suchst, über Facebook Gruppen, wie<a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French Circle in London</a>, <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a>, oder über unsere eigene Gruppe [Bonjour Frenchy](https://www.facebook.com/groups/FrancaisLondresLeguide/ "bonjour frenchy"), eine Unterkunft finden.
 Es lohnt sich einen Blick auf die Seiten zu werfen, denn es kommen immer neue Angebote rein und du kannst hier schnell ein gutes Geschäft machen. Es ist jedoch wahrscheinlich, dass auch für Anzeigen im Sozialen Netzwerk Vermittlungsgebühren anfallen werden.
 
 #### Agenturen

@@ -52,7 +52,7 @@ Beware of scammers, try to request as much information, pictures and arrange a v
 
 #### Facebook Groups
 
- You can also find a room through Facebook groups like<a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French Circle in London</a>, the <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> group or even our own group <a href="https://www.facebook.com/groups/171123389660775/">Bonjour Frenchy</a>, if you are looking for french flatmates for example.
+ You can also find a room through Facebook groups like<a href="https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/">The French Circle in London</a>, the <a href="https://www.facebook.com/groups/soireelondoncalling/">London Calling</a> group or even our own group [Bonjour Frenchy](https://www.facebook.com/groups/FrancaisLondresLeguide/ "bonjour frenchy"), if you are looking for french flatmates for example.
 In these groups you will be able to ask all kind of questions, about everyday life, looking for a job and therefore also for housing. Keep an eye on these pages, members publish very often, and good deals go fast. Know that even on an ad posted on social networks, you are likely to have agency fees.
 
 #### Agencies
