@@ -10,7 +10,7 @@ slug = "preply"
 
 [Preply est un service éducatif en ligne](https://preply.com/ "Preply") qui jumelle des étudiants avec des tuteurs privés, localement en personne ou à distance via Skype.
 
-Ils offrent plus de 40 différents sujets d’apprentissage (mathématiques, histoire, comptabilité, langue des signes, cuisine…etc.) dont 27 langues étrangères (chinois, russe, allemand...etc.).
+Ils offrent plus de 40 différents sujets d’apprentissage (mathématiques, histoire, comptabilité, langue des signes, etc...) dont 27 langues étrangères (chinois, russe, allemand...etc.).
 
 #### Vous pouvez etre professeur
 [Enseignez le français ou l'anglais](https://preply.com/fr/enseigner " Enseignez") pour vous faire un peu d'argent de poche. ils recherchent également des professeurs.
