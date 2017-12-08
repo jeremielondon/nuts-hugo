@@ -7,7 +7,7 @@ slug = "london-night-out"
 +++
 
 
-There isn’t much London can’t offer for a good night out in town. With so many comedy clubs, exclusive music venues and late night bars, choosing where to go for a good night in London can be more than a little mind boggling. So before you put on your dancing shoes, remember your e111 card renewal, ID, cash and card! It doesn’t matter whether you are on a budget and want to save on the pennies, or simply want to visit some of the best bars London has to offer on a Thursday night – because after all, Thursday is the new Friday – here’s where to go for a guaranteed cocktail-filled night in London:
+There isn’t much London can’t offer for a good night out in town. With so many comedy clubs, exclusive music venues and late night bars, choosing where to go for a good night in London can be more than a little mind boggling. So before you put on your dancing shoes, remember [your e111 card](https://www.europeanhealthinsurancecard.org.uk/e111-renewal/ "e11 card") renewal, ID, cash and card! It doesn’t matter whether you are on a budget and want to save on the pennies, or simply want to visit some of the best bars London has to offer on a Thursday night – because after all, Thursday is the new Friday – here’s where to go for a guaranteed cocktail-filled night in London:
 
 
 ### Icebar London
