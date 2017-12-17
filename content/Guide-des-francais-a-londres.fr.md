@@ -26,12 +26,12 @@ description = "Ce Guide est fait pour aider les Français à s'installer à Lond
         <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
             <div class="container">
                 <div class="card cart-block">
-                    <div class="card-img"><a href="/fr/blog/le-passeport-a-londres/" class="fa fa-id-card-o fa-5x"></a></div>
+                    <div class="card-img"><a href="https://francais-a-londres.org/" class="fa fa-id-card-o fa-5x"></a></div>
                     <div class="card-block">
-                        <h4 class="card-title">Le Passeport</h4>
+                        <h4 class="card-title">Le Forum des Francais à Londres</h4>
 
-                        <p class="card-text">Comment faire ? Combien de temps cela va prendre et quels justificatifs dois-je présenter ?</p>
-                        <div class="card-btn"><a href="/fr/blog/le-passeport-a-londres/" class="btn btn-primary">Plus d'infos</a></div>
+                        <p class="card-text">Platforme d'entre-aide et d'échange pour les Français de Londres</p>
+                        <div class="card-btn"><a href="https://francais-a-londres.org/" class="btn btn-primary">Plus d'infos</a></div>
                     </div>
                 </div>
             </div>
