@@ -5,6 +5,9 @@ description ="Trouver un stage à londres, on vous parle des agences anglaises, 
 categories = ["Travail","Stage"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/stage)
+
+
 Si vous devez faire un stage dans le cadre de vos études et que Londres vous attire ou que vous souhaitez en profiter pour améliorer votre anglais sans partir à l’autre bout de la terre, alors cet article est pour vous ! Dans la rédac' nous sommes aussi passé par là et avons quelques petits conseils pour vous.
 
 <!--

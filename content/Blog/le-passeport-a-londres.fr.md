@@ -5,6 +5,10 @@ description = " Comment obtenir son passeport, quels justificatifs ? et les dél
 categories = ["Passeport","Administration"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/administration)
+
+
+
 **Le Royaume Unis étant toujours inclus dans l’UE, pour le moment la carte d’identité vous suffira pour vous y rendre. Cependant, si vous comptez rester un moment à Londres, nous vous conseillons de vous procurer un passeport afin d’être prêt à toutes éventualités, et si vous ne savez pas comment vous y prendre, pas de panique on s’est renseigné pour vous.**
 
 ## Comment faire

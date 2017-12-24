@@ -5,6 +5,8 @@ description = ""
 categories = ["Administration","Banque"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/t/ouvrir-un-compte-en-banque/34)
+
 ## Pourquoi ?
 
 Il vous sera nécessaire d’ouvrir un compte en banque ici, surtout si votre banque française vous prend des commissions à chaque retrait/paiement (se renseigner avant le départ), mais aussi pour pouvoir recevoir votre paie. Les démarches

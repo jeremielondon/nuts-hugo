@@ -5,7 +5,7 @@ categories = ["Au pair"]
 description = "Comment trouver une famille au pair à Londres? Quels sont les contrats ? Comment rencontrer d'autres au pairs ?"
 +++
 
-
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/aux-pairs)
 
 ## Hello les Frenchies !
 

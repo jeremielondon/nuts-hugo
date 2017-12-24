@@ -5,6 +5,9 @@ categories = ["Logement"]
 description ="Trouver un logement à Londres, dépend de votre budget, de votre durée de séjour et vos envies de quartiers. On vous propose plusieurs solutions comme les auberges des jeunesses, résidences étudiantes ou collocations, à vous de choisir"
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/logement)
+
+
 <center><h2><strong>Trouver un logement correspondant à la durée du séjour, au budget et quartier souhaité</strong></h2></center>
 
 <!-- This is the markdown option... not centred, but H2 and bold -->

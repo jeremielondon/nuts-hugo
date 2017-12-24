@@ -5,6 +5,8 @@ description = ""
 categories = ["Santé","Administration"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/sante)
+
 # Comment trouver son General Practionner ( GP ) ?
 
 Pour accéder à des soins comme à la maison, il faudra vous inscrire auprès d’un General Practitioner (un médecin traitant quoi…). En Angleterre cela marche par zone, c’est-à-dire votre GP sera celui qui habite le plus proche de chez vous (en fonction de votre code postal), il est donc facile de le trouver, vous pouvez vous rendre sur le site <a href="http://www.nhs.uk/pages/home.aspx">National Health Services</a> et faire une recherche à partir de votre code postal, vous obtiendrez alors une liste de GP aux alentours, contenant leur nombre de patient et les notes qu’on leur à attribuer en fonction de différentes catégories. Renseignez-vous dans votre quartier pour avoir plus de conseils.

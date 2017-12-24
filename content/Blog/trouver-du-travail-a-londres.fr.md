@@ -5,6 +5,8 @@ description = "Trouver du travail à Londres, on vous donne des astuces, des app
 categories = ["Travail"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/travail)
+
 
 Comme la plupart des expatriés, vous cherchez un emploi. On va vous donner quelques petits conseils pour vous éclairer dans vos démarches.Avant de commencer à chercher un travail il faudra que vous obteniez votre <a href="/fr/blog/national-insurance-number/">National Insurance Number</a>, ce document ne donne pas le droit de travailler mais vous assure au même titre qu’un anglais. Une fois votre NIN obtenu, entamez les démarches pour ouvrir <a href="/fr/blog/ouvrir-un-compte-en-banque-a-Londres/">un compte en banque</a>.
 

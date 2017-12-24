@@ -6,6 +6,8 @@ description = "Heathrow, Gatwick, Stansted, Luton, on vous aide à retrouver le 
 og_image = "/images/aroport-de-londres-2000x1333.jpg"
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/t/aeroports-de-londres/36)
+
 # Heathrow, Gatwick ou Stansted ? … Hein  ?
 
 <strong>Il existe 5 aéroports à Londres répartis autour de la capitale. Tous vous proposent des services afin de rejoindre le centre. On vous a fait un petit récap’ pour que ce soit plus clair et plus facile à votre arrivée.</strong>

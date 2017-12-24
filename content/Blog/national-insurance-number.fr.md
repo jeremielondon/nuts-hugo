@@ -5,6 +5,9 @@ description = ""
 categories = ["National Insurance","Administration"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/t/obtenir-son-nin-national-insurance-number/35)
+
+
 # Le NIN, pourquoi faire...
 
 <strong>Le National Insurance Number, équivalent de notre sécurité sociale, vous permettra de travailler en Angleterre, il vous sera demandé automatiquement et est indispensable. Comme toujours les démarches varient selon les cas, et ici c’est en fonction de si vous avez déjà un emploi ou êtes seulement à la recherche de celui-ci. Un peu plus d’explications ?</strong>

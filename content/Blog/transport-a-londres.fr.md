@@ -5,6 +5,9 @@ description = ""
 categories = ["Transport"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/t/le-metro-anglais-oyster-card/40)
+
+
 # Mind the gap !!!
 
 Quand vous arriverez à Londres, vous vous rendrez vite compte que le coût du transport est extrêmement élevé. Pour savoir combien vous allez devoir débourser par mois pour vous déplacez dans la capitale, on vous a fait un petit récap :

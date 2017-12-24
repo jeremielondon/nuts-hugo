@@ -5,6 +5,9 @@ description = ""
 categories = ["Apps"]
 +++
 
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/t/les-applications-utiles-a-londres/37)
+
+
 <strong>On arrive dans la capitale la plus peuplée d’Europe, il faudra s’adapter, on vous a donc fait un petit top des applications indispensables à avoir quand vous vous installez à Londres.</strong>
 
 ### Pour se repérer
@@ -38,4 +41,3 @@ que serveur, hôtesse, et bien d’autre, vous aurez l’embarrât du choix.</li
 </ul>
 ### App pour apprendre / ameliorer son Anglais
 <li><strong><a href="https://www.tandem.net/">Tandem</a> : Pour les étrangers désireux d'apprendre la langue de Shakespeare et de trouver une communauté ouverte d'esprit!
-
