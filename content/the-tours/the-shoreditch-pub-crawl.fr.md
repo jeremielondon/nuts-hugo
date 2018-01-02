@@ -45,12 +45,13 @@ Retrouvez-nous les jeudis, vendredis et samedis entre 20h30 et 21h15.
 <br>
 
 <h3 class="mbr-section-title display-2">Point de rencontre</h3>
-Blueberry Bar, au 2-4 Paul Street, London, EC2A 4JH.
+Sink Bar, 4 Paul Street Corner of Paul and, Worship St
+London EC2A 4JH
 Pour vous-y rendre, la station de métro la plus proche est « Old Street ».
 
 <br>
 <br>
-<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='t2y58w' data-width=600 ></script></div>
+<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='2v4gqr' data-width=600 ></script></div>
 
 
 </section>

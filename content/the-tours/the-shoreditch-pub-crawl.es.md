@@ -37,10 +37,10 @@ Todo los Jueves, Viernes y Sabado de 20:30 a 21:15
 <br>
 
 <h3 class="mbr-section-title display-2">Punto de encuentro</h3>
-Blueberry Bar, 2-4 Paul Street London, EC2A 4JH
+Sink Bar, 4 Paul Street Corner of Paul and, Worship St
+London EC2A 4JH<br>
 <br>
-<br>
-<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='t2y58w' data-width=600 ></script></div>
+<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='2v4gqr' data-width=600 ></script></div>
 
 
 </section>
