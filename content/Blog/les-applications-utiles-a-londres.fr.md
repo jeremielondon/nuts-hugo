@@ -41,3 +41,10 @@ que serveur, hôtesse, et bien d’autre, vous aurez l’embarrât du choix.</li
 </ul>
 ### App pour apprendre / ameliorer son Anglais
 <li><strong><a href="https://www.tandem.net/">Tandem</a> : Pour les étrangers désireux d'apprendre la langue de Shakespeare et de trouver une communauté ouverte d'esprit!
+
+
+### App Pour rencontrer et sortir avec les Français de londres
+
+- [Wecomefrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) c'est l'application qui permet au locaux et nouveau de se rencontrer. Jetez un oeil ;)
+
+- [Français à Londres](https://francais-a-londres.org/c/sortir-events) Vous trouverez ici la liste des soirées, events, théatre, comédies musicale, concerts organisée par les Français de Londres,

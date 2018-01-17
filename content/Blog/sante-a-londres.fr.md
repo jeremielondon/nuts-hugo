@@ -1,5 +1,5 @@
 +++
-title = "Santé à londres"
+title = "Santé à Londres"
 banner = "gp-2000x1333.jpg"
 description = ""
 categories = ["Santé","Administration"]

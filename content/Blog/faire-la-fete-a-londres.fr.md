@@ -11,12 +11,28 @@ categories = ["faire la Fete"]
 La ville de Londres est connue pour être très onéreuse, que ce soit le prix des habitations ou encore l’accès aux différents clubs branchés. Nous allons vous indiquer les endroits les plus sympathiques et ayant un bon rapport qualité prix, nous parlerons ensuite un peu plus en détail des clubs situées dans quelques  quartiers les plus connus de la capitale tels que Piccadilly Circus, Soho, Brixton ou encore Shoreditch.
 
 
+# Rencontrer des gens du monde entier et "Language exchanges"
+
+[Wecomefrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) Inscrivez-vous rapidement et proposez des soirées ou rencontrez les Français pour sortir avec eux. Rapide et facile pour rencontrer de nouvelles personnes pour visiter la ville. "Happiness only real when shared" ( film: into the wild )
+
+[Soirée spéciales à Londres](https://francais-a-londres.org/c/sortir-events"Soirée Spéciales à Londres") propose de nombreuses soirées. Cela s’avère très pratique lorsque l’on cherche un endroit où sortir à plusieurs. L'avantage est que chaqu'un peu participer et proposer sa soirée ou bon plan. L'avantage, est de lister sur un seul site les soirées de Francais de Londres.
+
+
+Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), commence une tournée des bars regroupant des Français, des Anglais, et beaucoup d'autres nationalités.
+Cet événement permet de faciliter les rencontres entre étrangers du monde entier et Anglais. Tous les mercredi, jeudi, vendredi et samedi soirs, les soirées commencent vers 21h et se poursuivent jusqu'à 3h. L'accès aux différents clubs est gratuit à condition que vous ayez pris vos places en ligne sur https://nutspubcrawl.com/fr/the-tours/tournee-des-clubs-du-centre-de-londres/. Une fois sur place, un membre de notre staff vous donnera un bracelet vous permettant d'entrer gratuitement dans les clubs et d'obtenir des free shots ainsi que des réductions dans tous les clubs fréquentés au cours de la soirée. Vous pourrez ainsi boire, danser, voire même offrir des verres sans vous ruiner!
+C'est une excellente option si vous souhaitez faire la fête à Londres en tant qu'étranger ne connaissant personne, ou si vous souhaitez rencontrer de nouvelles personnes sans vous ruiner.
+
+Alors ne restez pas chez vous, et profitez de votre expérience londonienne, venez [faire la fête à Londres]( https://nutspubcrawl.com/tickets/ "Nuts Pub Crawl")
+
+Si vous etes dans l'optique d'apprendre l'anglais gratuitement, allez au [tropics global college](https://tropicsglobalcollege.co.uk/ " tropics global college") C'est un bon plan subventionné par l'état anglais.
+
+
+
 # Leicester Square / Piccadilly
 ### Les bons Plans
 
 Il est parfois difficile de sortir dans la capitale lorsque l’on manque de moyens, j’ai donc recensé pour vous les bons plans afin de profiter de la vie nocturne londonienne !
 
--	[Soirée spéciales à Londres](https://nutspubcrawl.com/fr/blog/soirees-speciales/"Soirée Spéciales à Londres") propose de nombreuses réductions sur les soirées. Cela s’avère très pratique lorsque l’on cherche un endroit où sortir à plusieurs, à titre d’exemple, une entrée pour une des boîtes les plus connues de Londres est proposée à £8, alors que le prix classique tourne souvent entre £15/25 en fonction des invités. Toutefois, les places sont datées, cela demandera donc un minimum d’organisation et parfois même d’un peu de patience car les places achetées sont parfois utilisables pour un jour dans le mois suivant.
 
 -	Ensuite, il existe le [Nuts Pub Crawl](https://nutspubcrawl.com/ "Nuts Pub Crawl") (tournée des bars/ clubs) centré sur  beaucoup de bars branchés/très fréquentés  aux alentours de Leicester square et Picadilly Circus. Le principe est tel que pour une somme comprise entre £10 et £15, vous allez avoir un accès gratuit à 4 bars/clubs, accompagné de shots gratuits, et de réductions sur les boissons.
 
@@ -55,19 +71,8 @@ Devenu le lieu de référence pour les soirées londoniennes, ce quartier de l'e
 - Testez le [Shoreditch Pub Crawl](https://nutspubcrawl.com/fr/tours/ "Shoreditch Pub Crawl"), si vous voulez en une soirée découvrir plusieurs clubs et rencontrer de nouvelles personnes.
 
 
-# Rencontrer des gens du monde entier et "Language exchanges"
 
 
-Aux alentours de Leicester Square, plus précisément au [zoo bar](http://www.zoobar.co.uk/ " Zoo bar"), commence une tournée des bars regroupant des Français, des Anglais, et beaucoup d'autres nationalités.
-Cet événement permet de faciliter les rencontres entre étrangers du monde entier et Anglais. Tous les mercredi, jeudi, vendredi et samedi soirs, les soirées commencent vers 21h et se poursuivent jusqu'à 3h. L'accès aux différents clubs est gratuit à condition que vous ayez pris vos places en ligne sur https://nutspubcrawl.com/. Une fois sur place, un membre de notre staff vous donnera un bracelet vous permettant d'entrer gratuitement dans les clubs et d'obtenir des free shots ainsi que des réductions dans tous les clubs fréquentés au cours de la soirée. Vous pourrez ainsi boire, danser, voire même offrir des verres sans vous ruiner!
-C'est une excellente option si vous souhaitez faire la fête à Londres en tant qu'étranger ne connaissant personne, ou si vous souhaitez rencontrer de nouvelles personnes sans vous ruiner.
-
-Alors ne restez pas chez vous, et profitez de votre expérience londonienne, venez [faire la fête à Londres]( https://nutspubcrawl.com/tickets/ "Nuts Pub Crawl")
-
-Si vous etes dans l'optique d'apprendre l'anglais gratuitement, allez au [tropics global college](https://tropicsglobalcollege.co.uk/ " tropics global college") C'est un bon plan subventionné par l'état anglais.
-
-
-Thomas Gingreau
 
 
 Aidez-nous à enrichir le contenu en partageant vos bons plans dans les commentaires.
