@@ -36,7 +36,7 @@ Il est parfois difficile de sortir dans la capitale lorsque l’on manque de moy
 
 -	Ensuite, il existe le [Nuts Pub Crawl](https://nutspubcrawl.com/ "Nuts Pub Crawl") (tournée des bars/ clubs) centré sur  beaucoup de bars branchés/très fréquentés  aux alentours de Leicester square et Picadilly Circus. Le principe est tel que pour une somme comprise entre £10 et £15, vous allez avoir un accès gratuit à 4 bars/clubs, accompagné de shots gratuits, et de réductions sur les boissons.
 
--	Enfin, n’hésitez pas à rejoindre des groupes facebook tels que [London calling](https://www.facebook.com/groups/soireelondoncalling/"London Calling"),[le cercle des français à Londres](https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/ "Le cercle des Français") ou notre groupe [Bonjour Frenchy](https://www.facebook.com/groups/171123389660775/?ref=br_rs) afin d’être tenus au courant des futures soirées, événements et festivals qui se déroulent dans la capitale anglaise. Le groupe London calling organisent notamment une soirée entre français par mois.
+-	Enfin, n’hésitez pas à rejoindre des groupes facebook tels que [London calling](https://www.facebook.com/groups/soireelondoncalling/"London Calling"),[le cercle des français à Londres](https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/ "Le cercle des Français") ou notre groupe [Bonjour Frenchy](https://www.facebook.com/groups/les.francaisalondres/) afin d’être tenus au courant des futures soirées, événements et festivals qui se déroulent dans la capitale anglaise. Le groupe London calling organisent notamment une soirée entre français par mois.
 
 
 
