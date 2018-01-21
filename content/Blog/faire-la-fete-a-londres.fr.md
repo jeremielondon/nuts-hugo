@@ -13,7 +13,7 @@ La ville de Londres est connue pour être très onéreuse, que ce soit le prix d
 
 # Rencontrer des gens du monde entier et "Language exchanges"
 
-[Wecomefrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) Inscrivez-vous rapidement et proposez des soirées ou rencontrez les Français pour sortir avec eux. Rapide et facile pour rencontrer de nouvelles personnes pour visiter la ville. "Happiness only real when shared" ( film: into the wild )
+[Wecomfrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) Inscrivez-vous rapidement et proposez des soirées ou rencontrez les Français pour sortir avec eux. Rapide et facile pour rencontrer de nouvelles personnes pour visiter la ville. "Happiness only real when shared" ( film: into the wild )
 
 [Soirée spéciales à Londres](https://francais-a-londres.org/c/sortir-events"Soirée Spéciales à Londres") propose de nombreuses soirées. Cela s’avère très pratique lorsque l’on cherche un endroit où sortir à plusieurs. L'avantage est que chaqu'un peu participer et proposer sa soirée ou bon plan. L'avantage, est de lister sur un seul site les soirées de Francais de Londres.
 

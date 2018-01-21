@@ -45,6 +45,6 @@ que serveur, hôtesse, et bien d’autre, vous aurez l’embarrât du choix.</li
 
 ### App Pour rencontrer et sortir avec les Français de londres
 
-- [Wecomefrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) c'est l'application qui permet au locaux et nouveau de se rencontrer. Jetez un oeil ;)
+- [Wecomfrom](https://www.wecomfrom.com/2565/francais-a-londres/fr) c'est l'application qui permet au locaux et nouveau de se rencontrer. Jetez un oeil ;)
 
 - [Français à Londres](https://francais-a-londres.org/c/sortir-events) Vous trouverez ici la liste des soirées, events, théatre, comédies musicale, concerts organisée par les Français de Londres,
