@@ -41,6 +41,7 @@ Still definitely worth it!<br><br>
 Dirty Harry’s 203 Wardour St, Soho, London W1F 8ZJ
 <br>
 <br>
-<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='j7xjvtxvmq' data-width=600 ></script> </div>
+<script src='https://static.citymapper.com/js/embed/widget.js' data-slug='j7xjvtxvmq' data-width=600></script>
+</div>
 
 </section>
