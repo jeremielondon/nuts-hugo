@@ -18,15 +18,17 @@ description = "Clubbing tours in central London, party in different venues durin
                   </div>
 <div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Description</h3>
 
-Visit four venues in the heart of the West End, London’s famous and infamous club scene where you’ll find a bit of everything for everyone, from club kids to hen parties, it’s the place to go out on the town!<br><br>
+visit 2 great bars in shiny, central London, with free entry, free shots & drinks deals, a photographer and some awesome Hosts. Then head together over to Ministry of Sound Nightclub – one of London’s biggest and most famous – where you slide on in with free entry, worth £20+ alone! (No drinks deals or free shots in Ministry of Sound)<br><br>
 
-Some clubs we go to are Dirty Harry’s, Ruby Blue, you will end at the famous Ministry of Sound club based in Elephant and Castle.<br>
-Be aware that the tube from the 3rd club to Ministry is not included in the ticket <br><br>
+Start off in Soho’s Dirty Harry’s (with their dirty dancers kicking off at 9pm!) and then hit one more great venue to mingle and get in the cheap drinks. Then take a tube to Ministry of Sound (Elephant & Castle) where the party keeps going until 6am!
 
-You get free entry to each venue, professional pictures, free shots and special drink.
-Ministry-of-sound entry is included but no shot or discounted drink there.<br>
+<br><br>
+*Please note: 18+ only. Valid, physical ID compulsory. You are required to pay your tube fair (£2.40 using contactless/oyster).
+<br><br>
 
-Still definitely worth it!<br><br>
+There are limited tickets, so book early, save a fortune, and get ready for an amazing night!
+<br><br>
+
 
 {{< youtube 1h1nQMH4D7A >}}
 

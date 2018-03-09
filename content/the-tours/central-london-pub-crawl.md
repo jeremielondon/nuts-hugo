@@ -19,11 +19,33 @@ description = "Clubbing tours in central London, Visit different venues in one n
                   </div>
 <div class="col-md-6 col-lg-7 col-xl-8"> <h3 class="mbr-section-title display-2">Description</h3>
 
-Visit four venues in the heart of the West End, London’s famous and infamous club scene where you’ll find a bit of everything for everyone, from club kids to hen parties, it’s the place to go out on the town!<br><br>
+Visit 5 bars/clubs in the epicentre of London’s Nightlife, under the shining lights of Soho, Piccadilly & Leicester Square. You’ll receive:
+<br>
+- Free Entry
+<br>
 
-Some clubs we go to are Piccadilly Institute, Ruby Blue, Bar Rumba. Every night is a new adventure!<br><br>
+- Free Shots
+<br>
 
-You get free entry to each venue, professional pictures, free shots and special drink deals.
+- Drinks Deals
+<br>
+
+- A photographer all night
+<br>
+
+
+Awesome Hosts & people!
+
+
+<br>
+
+Visit some amazing bars such as Dirty Harry’s, Zoo Bar, Tiger Tiger, Tropicana Beach Club, Roadhouse, and loads more!
+
+<br>
+<br>
+
+
+Book early to save some extra money! Why wait!?
 
 <br>
 <br>
