@@ -49,7 +49,7 @@ Certains sites appellé " market place " font en sorte que l'offre et la demande
 
 Les agences sont nombreuses, il y a des avantages et inconvénients à passer par celles-ci. Certes une somme est demandée, mais les agences vous [trouvent un logement](https://nutspubcrawl.com/fr/blog/logement-a-londres/ "trouver un logement") en même temps. Vous trouverez ci dessous une liste d'entreprise qui nous semble sérieuse :
 <ul>
-    <li>[Trouver un stage à Londres](https://www.internshipmapper.com/fr/villes/londres "Trouver un stage à Londres")</li>
+    <li>[Trouver un stage à Londres](https://francais-a-londres.org/c/travail/stage)</li>
     <li>[S'Installer a Londres ](https://www.sinstalleralondres.com/"s'installer a londres")</li>
     <li>[FLA agency](http://www.flagency.com/ "fla agency")</li>
     <li>[My Internship Abroad](http://www.myinternshipabroad.com/ "my internship abroad")</li>
