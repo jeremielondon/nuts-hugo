@@ -5,7 +5,7 @@ categories = ["Au pair"]
 description = "Comment trouver une famille au pair à Londres? Quels sont les contrats ? Comment rencontrer d'autres au pairs ?"
 +++
 
-#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/aux-pairs)
+#### [Les conseils de la communauté : Français à Londres](https://francais-a-londres.org/c/travail/aux-pairs)
 
 ## Hello les Frenchies !
 
@@ -23,7 +23,7 @@ Afin de trouver la famille dans laquelle vous allez vivre pendant cette expérie
 
 ##### 1. Le bouche à oreille
 
-Cette méthode est la plus simple et est totalement gratuite. Elle permet de contacter d’ancien(ne)s au pair de la famille afin d’avoir leurs avis. En effet, sur Facebook il existe de nombreuses pages telles que: [au pair français(es) à Londres](https://www.facebook.com/groups/french.au.pairs.in.london/ "Facebook page au pair ") , où de nombreuses personnes postent des annonces afin de trouver un/une remplaçante pour leur famille d’accueil. L’inconvénient principal est qu’il est difficile de trouver une famille du fait du grand nombre d’autre jeunes filles et jeunes hommes qui postulent via ce même mode.
+Cette méthode est la plus simple et est totalement gratuite. Elle permet de contacter d’ancien(ne)s au pair de la famille afin d’avoir leurs avis. En effet, sur Facebook il existe de nombreuses pages telles que: [au pair français(es) à Londres](https://www.facebook.com/groups/184579105665201/?ref=pages_profile_groups_tab&source_id=1604499349587789") , où de nombreuses personnes postent des annonces afin de trouver un/une remplaçante pour leur famille d’accueil. L’inconvénient principal est qu’il est difficile de trouver une famille du fait du grand nombre d’autre jeunes filles et jeunes hommes qui postulent via ce même mode.
 
 ##### 2. Les sites spécialisés
 
@@ -72,13 +72,12 @@ Avec toutes ces informations, vous avez désormais les cartes en main pour ne pa
 
 ## Comment rencontrer d’autres au pair a Londres ?
 
-On organise un [International pique nique](https://www.facebook.com/InternationalLondonPicnics/ "international pique nique"), Rejoins-nous.
 Les étrangers, et particulièrement les Français, se retrouvent lors de pub crawl (tournée des bars) à Londres. C'est une solution économique et conviviale permettant de sortir. Des shots gratuits, des réductions sur les boissons, et ce dans 4 clubs différents. Je vous invite à visiter le site [NutsPubCrawl](https://nutspubcrawl.com/fr/ "Faire la fête") pour plus d'informations.
 
 ##### 1. Les pages facebook
 En tant qu’au pair à Londres il existe par exemple des pages comme:
 
-[Au pair français(es) à Londres](https://www.facebook.com/groups/french.au.pairs.in.london/ "french au pair") ou [Au pair in UK](https://www.facebook.com/groups/aupairuk/ "au pair in uk") vous permettront de rencontrer d’autres au pair. Vous pouvez également nouer des liens avec des personnes non au pair avec des pages facebook comme: [Meet People in London](https://www.facebook.com/groups/238555079536645/"meet people in london") ou [Le cercle des français à Londres](https://www.facebook.com/groups/LECERCLEDESFRANCAISALONDRES/ "le cercle des francais a londres").  Il existe également notre page [bonjour frenchy](https://www.facebook.com/groups/171123389660775/ "bonjour frenchy") vous aidant dans votre nouvelle vie à Londres.  
+[Au pair français(es) à Londres](https://www.facebook.com/groups/184579105665201/?ref=pages_profile_groups_tab&source_id=1604499349587789) ou [Au pair in UK](https://www.facebook.com/groups/aupairuk/ "au pair in uk") vous permettront de rencontrer d’autres au pair. Vous pouvez également nouer des liens avec des personnes non au pair avec des pages facebook comme: [Meet People in London](https://www.facebook.com/groups/238555079536645/"meet people in london") ou [français à Londres](https://francais-a-londres.org/).  Il existe également notre page [bonjour frenchy](https://www.facebook.com/groups/171123389660775/ "bonjour frenchy") vous aidant dans votre nouvelle vie à Londres.  
 ##### 2.	Les agences
 Ensuite, si vous décidez de passer par une agence, sachez que certaines d’entre elles proposent des liens vous renvoyant sur un site où sont recensé(e)s les différent(e)s au pair habitants dans le même quartier que vous. Donc renseignez vous et demandez à votre agence si celle-ci a mis en place ce genre de système. [Au pair friends](http://www.aupairfriends.com/masterpage.asp?token=&content=0 "Au pair friends") en est un exemple.
 
