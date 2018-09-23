@@ -13,5 +13,6 @@ slug = ""
 
 <strong> C'est un site fait pour vous aider à optimiser vos pari </strong>
 
+Un sité dédié aux statistiques ATP et aux paris sportifs sur l'ATP
 
 Pour comprendre comment cela fonctionne et obtenir plus d'info visitez [le blog du tennis](https://www.leblogdutennis.fr/)
