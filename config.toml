@@ -6,7 +6,7 @@ baseurl = "https://nutspubcrawl.com/"
 #Testing baseurl
 #baseurl = "http://localhost.nutspubcrawl.com/"
 canonifyURLs = true  # Transform all URLs to absolute using baseURL
-theme = "nutspubcrawl"
+theme = "NUTSPUBCRAWL"
 MetaDataFormat = "yaml"
 enableRobotsTXT = true
 
@@ -17,7 +17,7 @@ home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = ""
+suffix = ["txt"]
 delimiter = ""
 
 [outputFormats]
