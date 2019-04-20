@@ -39,7 +39,7 @@ Der Eintrittspreis für das Ministry of Sound ist auch im Ticketpreis beinhaltet
 <br>
 
 <h3 class="mbr-section-title display-2">Meeting Point</h3>
-Dirty Harry’s, 203 Wardour St, Soho, London W1F 8ZJ
+Bar Soho, 23-25 Old Compton St, Soho, London W1D 5JL.
 <br>
 <br>
 <script src='https://static.citymapper.com/js/embed/widget.js' data-slug='j7xjvtxvmq' data-width=600 ></script>
