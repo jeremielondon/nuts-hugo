@@ -9,7 +9,7 @@ canonifyURLs = true  # Transform all URLs to absolute using baseURL
 theme = "nutspubcrawl"
 MetaDataFormat = "yaml"
 enableRobotsTXT = true
-
+publishDir = "docs"
 
 
 [outputs]
