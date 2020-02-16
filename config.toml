@@ -17,8 +17,7 @@ home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
 
 [mediaTypes]
 [mediaTypes."text/netlify"]
-suffix = ["txt"]
-delimiter = ""
+suffixes = ["txt"]
 
 [outputFormats]
 [outputFormats.REDIR]
